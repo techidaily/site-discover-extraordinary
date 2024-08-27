@@ -1,0 +1,19 @@
+Sitemap: https://discover-extraordinary.techidaily.com/sitemap_index.xml
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /scripts/
+Disallow: /public/ 
+Disallow: /css/ 
+Disallow: /images/ 
+Disallow: /content/ 
+Disallow: /assets/ 
+Disallow: /ui/ 
+Disallow: /js/ 
+Disallow: /lib/ 
+Disallow: /fonts/ 
+Disallow: /fontawesome/ 
+Disallow: /scripts/ 
+Disallow: /article_preview.html* 
