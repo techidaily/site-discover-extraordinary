@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices"
-date: 2024-08-25 15:16:24
-updated: 2024-08-27 12:42:26
+date: 2024-08-26T15:55:17.973Z
+updated: 2024-08-27T15:55:17.973Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b474ce8b9b8af13ad1eeef19a7.jpg
@@ -41,6 +41,9 @@ Try **MacX Video Converter Pro** \- best QuickTime alternative to freely record 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Table of Contents
 
 * [Part 1\. How to Record Screen and Sound on Mac with QuickTime Player?](https://tools.techidaily.com/macxdvd/products/)
@@ -58,6 +61,9 @@ Enable QT screen recorder
 
 ![YouTube video recorder](https://www.macxdvd.com/mac-video-converter-pro/step-images/qt-record-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 YouTube video recorder
 
  Or click the arrow next to the Record button to change the recording settings: 
@@ -80,6 +86,9 @@ Note: to stop QuickTime screen recording, click the "Stop" button (nex to the Wi
 
 If unfortunately, your QuickTime screen recording has no sound, don't feel frustrated. Read the below reasons and solutions to make things right: 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Part 2\. QuickTime Screen Recording No Sound? Why and How to Fix?
 
 QuickTime is far from perfect when you adopt it to [record Mac screen](https://tools.techidaily.com/macxdvd/products/) with computer audio, even when you raise the volume on your speakers. Why is there no sound on QuickTime screen recording Mac? Generally, the wrong microphone settings or sound input settings are the major culprit.
@@ -90,16 +99,25 @@ How to recover sound from screen recording on Mac? Follow the instructions below
 
  Head to System Preferences on your macOS computer by clicking Apple logo at the upper left corner of the UI. Then tap Security & Privacy > Privacy > Microphone > Check if QuickTime player is allowed to use microphone. If not, enable it.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ###  Solution 2\. Check the Sound Input Settings
 
  Microphone settings have no problem but still no sound in your Mac screen recording? Go and check sound input settings. Still under System Preferences, hit Sound from the latter window > Input > opt for a microphone from the menu list and 2 key factors show up, too: Input volume and input level.
 
 Input volume is easy to understand, and you'd better move the slide bar to crank up the volume so that your MacBook Pro or iMac can record screen with sound at comparatively louder volume (or hearable level). As for input level, it reflects the real-time sound volume, higher or lower. If there is no response on input level (when input volume is okay), probably your Microphone gets broken and needs to be repaired or changed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Solution 3\. Screen Capture Content is Copyright Protected
 
  Sometimes, all the settings related to sound are correct but your QuickTime screen recording still lacks audio. That might be the capture content to blame. Some DRM-protected contents like YouTube movie, music video, iTunes movies, TV shows are encrypted so that your QuickTime player might only capture video image, no audio. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ###  Solution 4\. Deactivate "Use Ambient Noise Reduction" Setting
 
  There is an extra option for macOS Mojave users - "Use Ambient Noise Reduction". It's designed to reduce the external noise interference. Yet, you're advised to disable this setting, for sometimes it would confuse voice and noise so as to mute your voice, as well. Record your Mac screen using QuickTime player to try again after turning off this setting.
@@ -124,12 +142,20 @@ Download soundflower to record audio on mac
 
 ![record screen with audio on mac using soundflower](https://www.macxdvd.com/mac-video-converter-pro/article-image/select-soundflower.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 record screen with audio on mac using soundflower
 
 **Step 6:** Go back to System preferences > sound settings > set Internal Speakers as destination to get back your audio on speakers after the Mac screen recording is done.
 
 Soundflower is a great option for QuickTime screen recording with sound recovery. Yet, you have to disconnect SoundFlower in order to hear sound from speakers and do some settings before and after screen capturing. If it's troublesome to you, give QuickTime best alternative [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/) a whirl!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ###  Solution 6\. Screen Capture Video and Audio on Mac without Error
 
 No matter you're prone to [record streaming video](https://tools.techidaily.com/macxdvd/products/), screen record software training session, YouTube videos, video chats, gameplay video, or whatever displayed on Mac screen, this top Mac screen recorder will suit your needs with system audio, microphone or other mic plugged into your Mac being recorded easily. You can also rely on it to convert recording videos to MP4, HEVC, H264, M4V, AVI, MKV, WMV, WebM, FLV, etc. with 420+ preset profiles and to compress recordings to smaller size by converting its codec, trimming and adjusting parameters. 
@@ -138,6 +164,10 @@ No matter you're prone to [record streaming video](https://tools.techidaily.com/
 
 ![record screen video and audio on Mac](https://www.macxdvd.com/mac-video-converter-pro/step-image/record-screen-audio.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 record screen video and audio on Mac
 
 **Step 2: Choose Audio Device for Sound Recording.**
@@ -168,6 +198,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Free Online Screen Recorder with No Time Length Limit](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic6.jpg)
@@ -176,6 +209,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 [Best 3 Ways to Record Minecraft Gameplay on Mac](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic4.jpg)
@@ -184,6 +220,9 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [6 Ways to Fix Screen Recording Not Saving on iPhone or iPad](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic2.jpg)
@@ -202,6 +241,9 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Tips and Tricks
 
 * [DVD Topics >>](https://tools.techidaily.com/macxdvd/products/)
