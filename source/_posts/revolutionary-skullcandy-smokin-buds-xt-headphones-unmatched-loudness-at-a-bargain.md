@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Skullcandy Smokin' Buds XT Headphones: Unmatched Loudness at a Bargain"
-date: 2024-08-27 19:36:21
-updated: 2024-08-29 11:43:57
+date: 2024-08-30T20:29:27.262Z
+updated: 2024-08-31T20:29:27.262Z
 tags:
   - product-reviews
 categories:
@@ -107,20 +107,33 @@ Hannah Stryker / How-To Geek
 
  Fit-wise, things started improving though. I had no issue getting the Buds XT to fit my ears and was able to use the ear tips that were already equipped. Jumping and jostling did nothing to unseat them either, and the fact that these are IPX4 buds makes them ideal for sports and exercise.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Controls: Works As Advertised
 
 ![The Skullcandy Smokin' Buds case open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-skullcandy-smokin-buds-case-open-2jpg_53054632267_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Like the Skullcandy Dime 3 True Wireless Earbuds, the Smokin’ Buds XT have touch controls mapped to the top of both earbud stems. Unlike the Dime 3 though, the Buds XT taps and long-presses won’t send the earbuds deeper into your ear canals. This is because the Buds XT stems don’t have a clicking mechanism. Instead, you just tap or long-press the upper stem’s flat surface.
 
  Commands include play, pause, call answering, and call hang-ups with a single tap, volume up with two taps, volume down with three taps, and EQ preset cycling with four taps. You can also press and hold to call up your phone or tablet’s voice assistant. There are also a few manual pairing and re-pairing commands you can execute by pressing and holding for longer than three seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Sound Quality: Awesome for What It Is
 
 ![A person holding the Skullcandy Smokin' Buds earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-a-skullcandy-smokin-buds-earbudjpg_53055597230_o-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Considering the super-low price, I actually thought the Smokin’ Buds XT sounded really good. Over the course of several days, I put them through a number of audio tests, encompassing multiple music genres and podcasts.
@@ -131,6 +144,9 @@ Hannah Stryker / How-To Geek
 
  As a frequent “WTF with Marc Maron” listener, I played through several interviews using the Buds XT, and they all sounded pretty good. There’s even a dedicated podcast-listening mode, which highlights the upper mids and pulls out a lot of the low end. I did prefer doing most of my listening in Standard mode though, which adds a little extra punch to the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Call Quality: Not Awesome
 
  I recently reviewed the Skullcandy Dime 3 True Wireless Earbuds, and I thought the call quality was abysmal. Somehow, the Smokin’ Buds XT are worse. During a test call with my girlfriend, there was a horrible hiss whenever she would talk. And according to her, I sounded just as terrible on the other end of the call.
@@ -147,6 +163,9 @@ Hannah Stryker / How-To Geek
 
  I can stand behind these numbers, and can also vouch for the XT’s quick-charge capabilities. At one point during testing, both buds died, but I was able to charge them up in 10 minutes or less.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Skullcandy Smokin’ Buds XT?
 
  I’m a big fan of Skullcandy products, especially for its [budget-friendly](https://tech-savvy.techidaily.com/exploring-the-eus-artificinas-regulation-and-its-effects-on-gpt-like-interactive-assistants/) wireless earbud lineup. That being said, I would give the [Skullcandy Smokin’ Buds XT](https://www.skullcandy.com/smokin-buds-wireless-earbuds/?maas=maas%5Fadg%5Fapi%5F8445262540301%5Fmacro%5F1%5Fmaas&ref%5F=aa%5Fmaas&aa%5Fcampaignid=20272180547&aa%5Fadgroupid=&aa%5Fcreativeid=ad-%5F%5Fdev-c%5Fext-&gad%5Fsource=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0%5Fmh%5F0epGfWu5DfjtpOSMb62ZfMBQj1RAjQ16OMqSIrmxh2LmSgz4eMaAtrPEALw%5FwcB) a solid single thumbs-up ([headphone fans](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/) may want to look elsewhere).
@@ -177,3 +196,35 @@ For less than $50, the Skullcandy Smokin Buds’ XT deliver the kind of sound we
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[New] In 2024, Perfecting Sound on Snapchat  Master Your Vocal Effects in Minutes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>[New] In 2024, The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-b-roll-value-essential-techniques/"><u>[Updated] Maximizing B-Roll Value  Essential Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transfergenius-gurus-viewpoint-for-2024/"><u>[Updated] TransferGenius Gurus' Viewpoint for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-winning-insta-followers-with-irresistible-unboxing-clips/"><u>[Updated] Winning Insta Followers with Irresistible Unboxing Clips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-get-your-complete-macxdvd-suite-legally-secure-your-full-license-with-our-no-cost-upgrade-offer/"><u>1. Get Your Complete MacXDVD Suite Legally: Secure Your Full License with Our No-Cost Upgrade Offer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/202410/"><u>必見・クリスマスアニメ特集:子供たちに最適な2024年新作ベスト10</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/convert-any-video-format-mkv-m2ts-avchd-avi-to-play-on-your-ipod-ultimate-guide-for-macos-users-with-macx/"><u>Convert Any Video Format (.mkv, .m2ts, .avchd, .avi) to Play on Your iPod: Ultimate Guide for macOS Users with MacX</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dai-un-taglio-ai-tuoi-dvd-gratis-con-questi-top-8-software-di-rip-dvd-per-macbook/"><u>Dai Un Taglio Ai Tuoi DVD Gratis Con Questi Top 8 Software Di Rip DVD per MacBook</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-macx-pro-the-ultimate-youtube-downloader-and-media-editor-with-unlimited-free-usage/"><u>Download MacX Pro - The Ultimate YouTube Downloader & Media Editor with Unlimited Free Usage</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-media-versatility-identifying-suitable-video-files-for-ipad-air-and-retina-mini-tablets/"><u>Exploring Media Versatility: Identifying Suitable Video Files for iPad Air & Retina Mini Tablets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-v-purse-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor V Purse to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-master-the-art-of-repeating-iphones-videos/"><u>In 2024, Master the Art of Repeating iPhones Videos</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ipaddvdwifidvd/"><u>IPadへのDVDドライブ接続をマスター！最新おすすめWiFi/有線DVDプレーヤー・ドライブ使い方</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-dvd-decodierungssoftware-fur-windows-10-and-macos-herunterladen/"><u>Kostenlose DVD-Decodierungssoftware Für Windows 10 & macOS - Herunterladen</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/las-herramientas-de-extraccion-de-archivos-de-dvd-sin-coste-para-mac-lista-actualizada-del-2024/"><u>Las Herramientas De Extracción De Archivos De DVD Sin Coste Para Mac: Lista Actualizada Del 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/macx-hd-pro-ultimate-multimedia-converter-for-windows-and-mac-edit-and-convert-m2ts-avchd-mkv-to-iosandroid-devices/"><u>MacX HD Pro: Ultimate Multimedia Converter for Windows & Mac - Edit and Convert M2TS, AVCHD, MKV to iOS/Android Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mac202/"><u>Macユーザー必見！曲編集のプログラム202# で音楽愛好家のためのオススメリスト</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-mobile-gaming-the-definitive-tutorial-for-downloading-and-playing-pokemon-go-on-ios-17/"><u>Mastering Mobile Gaming: The Definitive Tutorial for Downloading and Playing Pokémon GO on iOS 17</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-tips-navigating-without-watching-edgenuity-content-for-2024/"><u>Pro Tips  Navigating Without Watching Edgenuity Content for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-approaches-for-getting-back-permanently-deleted-pictures-from-your-iphone/"><u>Reliable Approaches for Getting Back Permanently Deleted Pictures From Your iPhone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/schlusselstrategien-fur-den-erfolgreichen-download-von-social-media-videos-in-verschiedenen-formaten-unter-windows-macos-und-ios-geraten/"><u>Schlüsselstrategien Für Den Erfolgreichen Download Von Social Media Videos in Verschiedenen Formaten Unter Windows, macOS Und iOS Geräten</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-using-quicktime-for-screen-capture-and-live-streaming-on-macos-devices/"><u>Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-exclusive-18th-year-milestone-collection-of-digiarty-a-timeless-tribute/"><u>Unveiling the Exclusive 18Th Year Milestone Collection of Digiarty – A Timeless Tribute</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-swift-notification-off-switch/"><u>Windows 11: Swift Notification OFF Switch</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/macdvdiphone-macx-dvd-to-iphone/"><u>ダイレクト:Mac用無料DVDからiPhoneへのコンバーター - MacX DVD to iPhone変換ソフト</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mac-dvd-iphoneipadandroid2024/"><u>ダウンロードフリーのMac DVDリピング手順: IPhone/iPad/Androidへ移動して楽しむ！2024年最新ガイド</u></a></li>
+</ul></div>

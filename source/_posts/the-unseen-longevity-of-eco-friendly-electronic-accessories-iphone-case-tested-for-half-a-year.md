@@ -1,7 +1,7 @@
 ---
 title: "The Unseen Longevity of Eco-Friendly Electronic Accessories: IPhone Case Tested for Half a Year"
-date: 2024-08-26 15:22:32
-updated: 2024-08-29 11:38:51
+date: 2024-08-30T20:29:29.641Z
+updated: 2024-08-31T20:29:29.641Z
 tags:
   - product-reviews
 categories:
@@ -68,10 +68,16 @@ Bellroy Bio Phone Case in March 2024.
 
  After plopping the case in the ground I took of picture of it, both for a future comparison and to remember when and where I had buried it.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Happened With the Bio Case?
 
 ![Bellroy Bio Phone Case with mud on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-with-mud-on-it.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  About a week into March 2024, I dug it up. When I started scraping the dirt away, I worried about separating pieces of the deteriorating case. That didn’t happen. Instead, I pulled the whole case up right away. It was muddy and had a slight warp to it from the weight of the dirt on top of it, but otherwise, it was fully intact.
@@ -86,6 +92,9 @@ Tyler Hayes / How-To Geek
 
  This isn’t some gotcha moment. It merely seemed implied that the Bio Phone Case could be disposed of anywhere outside, naturally, but it didn’t turn out that way. I might see if I can find someone with a compose bin and try again. Or maybe even this Bio Case is too much work to get rid of naturally.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Sustainability in Tech Accessories
 
 Close 
@@ -118,3 +127,51 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>[New] Cutthroat Countdown  Best Zombies In Gaming Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-plant-and-play-stardew-esque-gaming-winners-for-2024/"><u>[New] Plant and Play  Stardew-Esque Gaming Winners for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011345628-solved-cod-warzone-dev-error-6328-2024-tips/"><u>[SOLVED] COD Warzone Dev Error 6328 - 2024 Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-practices-for-youtube-to-igtv-transformation-for-2024/"><u>[Updated] Best Practices for YouTube to IGTV Transformation for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-borders-with-virtual-reality-tours/"><u>[Updated] Beyond Borders with Virtual Reality Tours</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-power-of-hashtags-in-growing-your-instagram-reel-presence/"><u>[Updated] In 2024, The Power of Hashtags in Growing Your Instagram Reel Presence</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-top-iphone-video-editor-choose-between-cameo-and-filmorago/"><u>[Updated] In 2024, Top iPhone Video Editor  Choose Between Cameo & FilmoraGo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-targeted-success-identifying-youtube-niche-demand/"><u>[Updated] Targeted Success  Identifying YouTube Niche Demand</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-get-your-complete-macxdvd-suite-legally-secure-your-full-license-with-our-no-cost-upgrade-offer/"><u>1. Get Your Complete MacXDVD Suite Legally: Secure Your Full License with Our No-Cost Upgrade Offer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-guide-to-the-top-10-cost-free-picture-archives/"><u>2024 Approved  Comprehensive Guide to the Top 10 Cost-Free Picture Archives</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-perfecting-your-video-conferencing-experience-with-slack-and-filmora/"><u>2024 Approved  Perfecting Your Video Conferencing Experience with Slack & Filmora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scoreboard-the-best-video-to-mp3-convertors/"><u>2024 Approved  Scoreboard  The Best Video to Mp3 Convertors</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/202410/"><u>必見・クリスマスアニメ特集:子供たちに最適な2024年新作ベスト10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-content-blindness-an-escalating-hurdle/"><u>AI's Content Blindness: An Escalating Hurdle</u></a></li>
+<li><a href="https://facebook.techidaily.com/becoming-a-brand-ambassador-online/"><u>Becoming a Brand Ambassador Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/convert-any-video-format-mkv-m2ts-avchd-avi-to-play-on-your-ipod-ultimate-guide-for-macos-users-with-macx/"><u>Convert Any Video Format (.mkv, .m2ts, .avchd, .avi) to Play on Your iPod: Ultimate Guide for macOS Users with MacX</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dai-un-taglio-ai-tuoi-dvd-gratis-con-questi-top-8-software-di-rip-dvd-per-macbook/"><u>Dai Un Taglio Ai Tuoi DVD Gratis Con Questi Top 8 Software Di Rip DVD per MacBook</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-macx-pro-the-ultimate-youtube-downloader-and-media-editor-with-unlimited-free-usage/"><u>Download MacX Pro - The Ultimate YouTube Downloader & Media Editor with Unlimited Free Usage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-24-explained-ensuring-your-device-appears-in-windows-systems-ws-11-8-or-7/"><u>Error Code 24 Explained: Ensuring Your Device Appears in Windows Systems WS 11, 8 or 7</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-media-versatility-identifying-suitable-video-files-for-ipad-air-and-retina-mini-tablets/"><u>Exploring Media Versatility: Identifying Suitable Video Files for iPad Air & Retina Mini Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-variances-between-home-theater-systems-and-stereo-receivers-what-you-need-to-know/"><u>Exploring the Variances Between Home Theater Systems and Stereo Receivers: What You Need To Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-windows-11-fixes-sfc-and-dism-tools-unveiled/"><u>Exploring WINDOWS 11 Fixes: SFC & DISM Tools Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cyberpunk-2077-gpu-handling-issues-on-your-windows/"><u>Fixing Cyberpunk 2077 GPU Handling Issues on Your Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-find-n3-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo Find N3 Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-touchpad-from-activating-with-a-mouse-in-windows-11/"><u>How to Prevent Your Touchpad From Activating with a Mouse in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-m14-4g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy M14 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-best-free-srt-translator-tools-expert-insight/"><u>In 2024, Navigating the Best Free SRT Translator Tools – Expert Insight</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ipaddvdwifidvd/"><u>IPadへのDVDドライブ接続をマスター！最新おすすめWiFi/有線DVDプレーヤー・ドライブ使い方</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-dvd-decodierungssoftware-fur-windows-10-and-macos-herunterladen/"><u>Kostenlose DVD-Decodierungssoftware Für Windows 10 & macOS - Herunterladen</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/las-herramientas-de-extraccion-de-archivos-de-dvd-sin-coste-para-mac-lista-actualizada-del-2024/"><u>Las Herramientas De Extracción De Archivos De DVD Sin Coste Para Mac: Lista Actualizada Del 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/macx-hd-pro-ultimate-multimedia-converter-for-windows-and-mac-edit-and-convert-m2ts-avchd-mkv-to-iosandroid-devices/"><u>MacX HD Pro: Ultimate Multimedia Converter for Windows & Mac - Edit and Convert M2TS, AVCHD, MKV to iOS/Android Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mac202/"><u>Macユーザー必見！曲編集のプログラム202# で音楽愛好家のためのオススメリスト</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-mobile-gaming-the-definitive-tutorial-for-downloading-and-playing-pokemon-go-on-ios-17/"><u>Mastering Mobile Gaming: The Definitive Tutorial for Downloading and Playing Pokémon GO on iOS 17</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-tecno-spark-20-proplus-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Tecno Spark 20 Pro+? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-the-critical-system-threat-fixing-error-code-0xc19001e1-on-windows-10/"><u>Resolving the Critical System Threat: Fixing Error Code 0xC19001E1 on Windows 10</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/schlusselstrategien-fur-den-erfolgreichen-download-von-social-media-videos-in-verschiedenen-formaten-unter-windows-macos-und-ios-geraten/"><u>Schlüsselstrategien Für Den Erfolgreichen Download Von Social Media Videos in Verschiedenen Formaten Unter Windows, macOS Und iOS Geräten</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-using-quicktime-for-screen-capture-and-live-streaming-on-macos-devices/"><u>Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-exclusive-18th-year-milestone-collection-of-digiarty-a-timeless-tribute/"><u>Unveiling the Exclusive 18Th Year Milestone Collection of Digiarty – A Timeless Tribute</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-skills-are-essential-for-modern-job-hunters-and-employees/"><u>Why ChatGPT Skills Are Essential for Modern Job Hunters & Employees</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/macdvdiphone-macx-dvd-to-iphone/"><u>ダイレクト:Mac用無料DVDからiPhoneへのコンバーター - MacX DVD to iPhone変換ソフト</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mac-dvd-iphoneipadandroid2024/"><u>ダウンロードフリーのMac DVDリピング手順: IPhone/iPad/Androidへ移動して楽しむ！2024年最新ガイド</u></a></li>
+</ul></div>
