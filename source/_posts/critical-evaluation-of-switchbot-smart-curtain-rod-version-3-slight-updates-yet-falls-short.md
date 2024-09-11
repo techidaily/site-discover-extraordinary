@@ -1,7 +1,7 @@
 ---
 title: "Critical Evaluation of SwitchBot Smart Curtain Rod Version 3: Slight Updates Yet Falls Short"
-date: 2024-09-05T10:51:16.193Z
-updated: 2024-09-06T10:51:16.193Z
+date: 2024-09-10T08:51:51.976Z
+updated: 2024-09-11T08:51:51.976Z
 tags:
   - product-reviews
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5fba9d132e9a804f9e655142.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Critical Evaluation of SwitchBot Smart Curtain Rod Version 3: Slight Updates Yet Falls Short
 
 ### Key Takeaways
@@ -37,12 +25,20 @@ thumbnail: https://thmb.techidaily.com/5318040ca5179c2e633a424df07002ffecf49f8c5
 
 ![SwitchBot Curtain Rod 3 Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-tag.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  SwitchBot Curtain Rod 3
 
 7/ 10 
@@ -78,22 +74,24 @@ The SwitchBot Curtain Rod 3 offers very small improvements over the Rod 2 and st
 
 [See at Amazon](https://www.amazon.com/SwitchBot-Automatic-Curtain-Opener-High-Performance/dp/B0C6XVXPCC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate) [$89.99 at SwitchBot](https://us.switch-bot.com/products/switchbot-curtain-3) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Installation: More Involved Than Ever Before
 
 ![SwitchBot Curtain Rod 3 Components including Curtain Opener and Beaded Strand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-components.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Mark LoProto / How-To Geek
 
  After moving the Curtain Rod 2 to a new window months after [posting my review](https://buynow-help.techidaily.com/reviewing-the-balanced-capabilities-of-the-affordable-dell-inspiron-3671-desktop-unit/), I had stronger feelings about the complexity of the installation process. I became envious of the [U Rail model](https://www.amazon.com/SwitchBot-Automatic-Curtain-Opener-High-Performance/dp/B0C6XZYFS7?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate), which seems easier to install and doesn’t have the same aesthetic issues that still exist with the Curtain Rod 3.
@@ -104,12 +102,20 @@ Close
 
  I’m not sure of the purpose, especially since I had no issues with the Rod 2’s smart calibration stopping where it was supposed to. Like the pronged metal piece that prevents snags on telescoping curtain rods, the magnets are visible when the curtain is wide open. Between the beaded strand, the metal telescoping bridge, and the magnets, the visual appeal is lost.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Calibration and Pairing: Quick and Painless
 
 ![SwitchBot Curtain Rod 3 Installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-installed-1.jpg) 
@@ -122,6 +128,20 @@ SwitchBot Curtain Rod 3 installed properly behind the curtain.
 
  The SwitchBot app (available on [iPhone](https://apps.apple.com/us/app/switchbot/id1087374760) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001088/https://play.google.com/store/apps/details?id=com.theswitchbot.switchbot&hl=en%5FUS&gl=US)) walks you through every step, clearly laying out what you should expect and quickly connecting to each opener within seconds.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  So Close to Noise-Free Operation
 
  When a SwitchBot rep pitched the Curtain Rod 3 to me at CES 2023, the big draw was virtually noiseless operation. The noise level of the Rod 2 was one of my biggest complaints. To combat this, the Rod 3 boasts a QuietDrift Mode that reduces the decibels to below 25dB. For reference, that’s quieter than a whisper.
@@ -132,12 +152,20 @@ Your browser does not support the video tag.
 
  For my setup, all of this is rendered moot by one thing—that telescoping rod. The piece that allows the Rod 3 to cross from the larger rod to the smaller one is taped into place using an aggressively crinkly tape. Every time the opener crosses that threshold, it amplifies the noise level. It’s not a deal breaker, at least not for me, but if you were hoping for a completely sound-free curtain opener, not even QuietDrift Mode can get past the tape in silence.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Smart Home Integration: As Easy As It Gets
 
  While you can enjoy the Curtain Rod 3 as your only smart home device, you can also pair it with many of SwitchBot's smart devices, including [light bulbs](https://www.amazon.com/SwitchBot-Smart-LED-Light-Bulb/dp/B09KMXQ9SR?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate) and [smart locks](https://www.amazon.com/SwitchBot-Electronic-Deadbolt-Existing-Vacation/dp/B0B157WS3T?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate). In fact, I found that the real value of individual devices like the Rod 3 is in how you integrate these different SwitchBot tools to reduce energy costs or regulate your home environment.
@@ -160,18 +188,26 @@ Close
 
 ![SwitchBot Curtain Rod 3 Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-tag.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975503">
+<span id="1975658">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  SwitchBot Curtain Rod 3
 
 7/ 10 

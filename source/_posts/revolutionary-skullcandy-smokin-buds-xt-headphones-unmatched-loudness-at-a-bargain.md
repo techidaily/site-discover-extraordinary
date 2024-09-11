@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Skullcandy Smokin' Buds XT Headphones: Unmatched Loudness at a Bargain"
-date: 2024-09-05T10:51:16.289Z
-updated: 2024-09-06T10:51:16.289Z
+date: 2024-09-10T08:51:52.069Z
+updated: 2024-09-11T08:51:52.069Z
 tags:
   - product-reviews
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ## Revolutionary Skullcandy Smokin' Buds XT Headphones: Unmatched Loudness at a Bargain
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Skullcandy Smokin' Buds XT are a great option for wireless earbuds under $50, offering solid sound quality and impressive bass.
@@ -101,16 +95,38 @@ Expand
 
 [$25 at Skullcandy](https://www.skullcandy.com/smokin-buds-wireless-earbuds/?maas=maas%5Fadg%5Fapi%5F8445262540301%5Fmacro%5F1%5Fmaas&ref%5F=aa%5Fmaas&aa%5Fcampaignid=20272180547&aa%5Fadgroupid=&aa%5Fcreativeid=ad-%5F%5Fdev-c%5Fext-&gad%5Fsource=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0%5Fmh%5F0epGfWu5DfjtpOSMb62ZfMBQj1RAjQ16OMqSIrmxh2LmSgz4eMaAtrPEALw%5FwcB) [$25 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1795535-REG/skullcandy%5Fs2taw%5Fr740%5Fsmokin%5Fbuds%5Ftrue%5Fwireless.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001210?ap=y&amp%3Bsmp=y&amp%3Bsmpm=ba%5Ff2%5Flar&amp%3Blsft=BI%3A514&amp%3Bgad%5Fsource=1&amp%3Bgclid=Cj0KCQiAgqGrBhDtARIsAM5s0%5FloHAojVJMbvWSW3scHprhgof18Dzqf0kNyt-jL%5FC7z6tGV6fzrEqgaAkkjEALw%5FwcB) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Design: Solid Fit, Cheap Case
 
 ![The Skullcandy Smokin' Buds in front of the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-skullcandy-smokin-buds-infront-of-the-case-2jpg_53055597620_o-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  The Smokin’ Buds XT have a sleek appearance and come in two color options, True Black and Matcha. The box contents include the buds and charging case, a USB-C to USB-A charging cable, small and large-sized ear tips (the buds are already equipped with the medium size), and a user manual.
@@ -119,44 +135,68 @@ Hannah Stryker / How-To Geek
 
  Fit-wise, things started improving though. I had no issue getting the Buds XT to fit my ears and was able to use the ear tips that were already equipped. Jumping and jostling did nothing to unseat them either, and the fact that these are IPX4 buds makes them ideal for sports and exercise.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Controls: Works As Advertised
 
 ![The Skullcandy Smokin' Buds case open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-skullcandy-smokin-buds-case-open-2jpg_53054632267_o-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Like the Skullcandy Dime 3 True Wireless Earbuds, the Smokin’ Buds XT have touch controls mapped to the top of both earbud stems. Unlike the Dime 3 though, the Buds XT taps and long-presses won’t send the earbuds deeper into your ear canals. This is because the Buds XT stems don’t have a clicking mechanism. Instead, you just tap or long-press the upper stem’s flat surface.
 
  Commands include play, pause, call answering, and call hang-ups with a single tap, volume up with two taps, volume down with three taps, and EQ preset cycling with four taps. You can also press and hold to call up your phone or tablet’s voice assistant. There are also a few manual pairing and re-pairing commands you can execute by pressing and holding for longer than three seconds.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Sound Quality: Awesome for What It Is
 
 ![A person holding the Skullcandy Smokin' Buds earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-a-skullcandy-smokin-buds-earbudjpg_53055597230_o-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  Considering the super-low price, I actually thought the Smokin’ Buds XT sounded really good. Over the course of several days, I put them through a number of audio tests, encompassing multiple music genres and podcasts.
@@ -167,12 +207,6 @@ Hannah Stryker / How-To Geek
 
  As a frequent “WTF with Marc Maron” listener, I played through several interviews using the Buds XT, and they all sounded pretty good. There’s even a dedicated podcast-listening mode, which highlights the upper mids and pulls out a lot of the low end. I did prefer doing most of my listening in Standard mode though, which adds a little extra punch to the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Call Quality: Not Awesome
 
  I recently reviewed the Skullcandy Dime 3 True Wireless Earbuds, and I thought the call quality was abysmal. Somehow, the Smokin’ Buds XT are worse. During a test call with my girlfriend, there was a horrible hiss whenever she would talk. And according to her, I sounded just as terrible on the other end of the call.
@@ -182,6 +216,20 @@ Hannah Stryker / How-To Geek
 ##  Battery: Matches the Skullcandy Promise
 
 ![A person holding the Skullcandy Smokin' Buds case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-skullcandy-smokin-buds-case-1jpg_53054631867_o.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Hannah Stryker / How-To Geek
 
@@ -196,6 +244,20 @@ Hannah Stryker / How-To Geek
  If you’re really into genres like rap and metal, you’re going to love the type of bass these buds are capable of. I’m a huge fan of the passive noise isolation these are able to achieve, and appreciate how much battery life each bud (and the charging case) is able to hang onto.
 
 ![The Skullcandy Smokin' Buds XT Wireless Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/skullcandy-smokin-buds-xt-1.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Skullcandy Smokin' Buds XT Wireless Earbuds
 
