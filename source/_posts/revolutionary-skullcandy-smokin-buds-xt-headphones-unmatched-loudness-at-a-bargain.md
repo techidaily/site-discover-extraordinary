@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Skullcandy Smokin' Buds XT Headphones: Unmatched Loudness at a Bargain"
-date: 2024-09-10T08:51:52.069Z
-updated: 2024-09-11T08:51:52.069Z
+date: 2024-09-09T05:02:29.196Z
+updated: 2024-09-15T18:48:54.347Z
 tags:
   - product-reviews
 categories:
@@ -95,37 +95,9 @@ Expand
 
 [$25 at Skullcandy](https://www.skullcandy.com/smokin-buds-wireless-earbuds/?maas=maas%5Fadg%5Fapi%5F8445262540301%5Fmacro%5F1%5Fmaas&ref%5F=aa%5Fmaas&aa%5Fcampaignid=20272180547&aa%5Fadgroupid=&aa%5Fcreativeid=ad-%5F%5Fdev-c%5Fext-&gad%5Fsource=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0%5Fmh%5F0epGfWu5DfjtpOSMb62ZfMBQj1RAjQ16OMqSIrmxh2LmSgz4eMaAtrPEALw%5FwcB) [$25 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1795535-REG/skullcandy%5Fs2taw%5Fr740%5Fsmokin%5Fbuds%5Ftrue%5Fwireless.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2001210?ap=y&amp%3Bsmp=y&amp%3Bsmpm=ba%5Ff2%5Flar&amp%3Blsft=BI%3A514&amp%3Bgad%5Fsource=1&amp%3Bgclid=Cj0KCQiAgqGrBhDtARIsAM5s0%5FloHAojVJMbvWSW3scHprhgof18Dzqf0kNyt-jL%5FC7z6tGV6fzrEqgaAkkjEALw%5FwcB) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Design: Solid Fit, Cheap Case
 
 ![The Skullcandy Smokin' Buds in front of the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/the-skullcandy-smokin-buds-infront-of-the-case-2jpg_53055597620_o-2.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -139,63 +111,15 @@ Hannah Stryker / How-To Geek
 
 ![The Skullcandy Smokin' Buds case open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/the-skullcandy-smokin-buds-case-open-2jpg_53054632267_o-1.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Hannah Stryker / How-To Geek
 
  Like the Skullcandy Dime 3 True Wireless Earbuds, the Smokin’ Buds XT have touch controls mapped to the top of both earbud stems. Unlike the Dime 3 though, the Buds XT taps and long-presses won’t send the earbuds deeper into your ear canals. This is because the Buds XT stems don’t have a clicking mechanism. Instead, you just tap or long-press the upper stem’s flat surface.
 
  Commands include play, pause, call answering, and call hang-ups with a single tap, volume up with two taps, volume down with three taps, and EQ preset cycling with four taps. You can also press and hold to call up your phone or tablet’s voice assistant. There are also a few manual pairing and re-pairing commands you can execute by pressing and holding for longer than three seconds.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Sound Quality: Awesome for What It Is
 
 ![A person holding the Skullcandy Smokin' Buds earbud](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-a-skullcandy-smokin-buds-earbudjpg_53055597230_o-1.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
@@ -217,25 +141,25 @@ Hannah Stryker / How-To Geek
 
 ![A person holding the Skullcandy Smokin' Buds case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-skullcandy-smokin-buds-case-1jpg_53054631867_o.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek
 
  Skullcandy claims the Smokin’ Buds XT should last for up to eight hours on a full charge, with 12 additional listening hours provided with a fully charged case.
 
  I can stand behind these numbers, and can also vouch for the XT’s quick-charge capabilities. At one point during testing, both buds died, but I was able to charge them up in 10 minutes or less.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Skullcandy Smokin’ Buds XT?
 
@@ -245,19 +169,18 @@ Hannah Stryker / How-To Geek
 
 ![The Skullcandy Smokin' Buds XT Wireless Earbuds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/skullcandy-smokin-buds-xt-1.png) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 #####  Skullcandy Smokin' Buds XT Wireless Earbuds
 
@@ -273,8 +196,6 @@ For less than $50, the Skullcandy Smokin Buds’ XT deliver the kind of sound we
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,32 +205,16 @@ For less than $50, the Skullcandy Smokin Buds’ XT deliver the kind of sound we
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[New] In 2024, Perfecting Sound on Snapchat  Master Your Vocal Effects in Minutes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-list-of-12-superior-flipscreen-vlog-cameras/"><u>[New] In 2024, The Ultimate List of 12 Superior Flipscreen Vlog Cameras</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximizing-b-roll-value-essential-techniques/"><u>[Updated] Maximizing B-Roll Value  Essential Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-transfergenius-gurus-viewpoint-for-2024/"><u>[Updated] TransferGenius Gurus' Viewpoint for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-winning-insta-followers-with-irresistible-unboxing-clips/"><u>[Updated] Winning Insta Followers with Irresistible Unboxing Clips</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-get-your-complete-macxdvd-suite-legally-secure-your-full-license-with-our-no-cost-upgrade-offer/"><u>1. Get Your Complete MacXDVD Suite Legally: Secure Your Full License with Our No-Cost Upgrade Offer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/202410/"><u>必見・クリスマスアニメ特集:子供たちに最適な2024年新作ベスト10</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/convert-any-video-format-mkv-m2ts-avchd-avi-to-play-on-your-ipod-ultimate-guide-for-macos-users-with-macx/"><u>Convert Any Video Format (.mkv, .m2ts, .avchd, .avi) to Play on Your iPod: Ultimate Guide for macOS Users with MacX</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dai-un-taglio-ai-tuoi-dvd-gratis-con-questi-top-8-software-di-rip-dvd-per-macbook/"><u>Dai Un Taglio Ai Tuoi DVD Gratis Con Questi Top 8 Software Di Rip DVD per MacBook</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/download-macx-pro-the-ultimate-youtube-downloader-and-media-editor-with-unlimited-free-usage/"><u>Download MacX Pro - The Ultimate YouTube Downloader & Media Editor with Unlimited Free Usage</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-media-versatility-identifying-suitable-video-files-for-ipad-air-and-retina-mini-tablets/"><u>Exploring Media Versatility: Identifying Suitable Video Files for iPad Air & Retina Mini Tablets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-v-purse-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor V Purse to Another | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-master-the-art-of-repeating-iphones-videos/"><u>In 2024, Master the Art of Repeating iPhones Videos</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ipaddvdwifidvd/"><u>IPadへのDVDドライブ接続をマスター！最新おすすめWiFi/有線DVDプレーヤー・ドライブ使い方</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-dvd-decodierungssoftware-fur-windows-10-and-macos-herunterladen/"><u>Kostenlose DVD-Decodierungssoftware Für Windows 10 & macOS - Herunterladen</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/las-herramientas-de-extraccion-de-archivos-de-dvd-sin-coste-para-mac-lista-actualizada-del-2024/"><u>Las Herramientas De Extracción De Archivos De DVD Sin Coste Para Mac: Lista Actualizada Del 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/macx-hd-pro-ultimate-multimedia-converter-for-windows-and-mac-edit-and-convert-m2ts-avchd-mkv-to-iosandroid-devices/"><u>MacX HD Pro: Ultimate Multimedia Converter for Windows & Mac - Edit and Convert M2TS, AVCHD, MKV to iOS/Android Devices</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mac202/"><u>Macユーザー必見！曲編集のプログラム202# で音楽愛好家のためのオススメリスト</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-mobile-gaming-the-definitive-tutorial-for-downloading-and-playing-pokemon-go-on-ios-17/"><u>Mastering Mobile Gaming: The Definitive Tutorial for Downloading and Playing Pokémon GO on iOS 17</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-tips-navigating-without-watching-edgenuity-content-for-2024/"><u>Pro Tips  Navigating Without Watching Edgenuity Content for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reliable-approaches-for-getting-back-permanently-deleted-pictures-from-your-iphone/"><u>Reliable Approaches for Getting Back Permanently Deleted Pictures From Your iPhone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/schlusselstrategien-fur-den-erfolgreichen-download-von-social-media-videos-in-verschiedenen-formaten-unter-windows-macos-und-ios-geraten/"><u>Schlüsselstrategien Für Den Erfolgreichen Download Von Social Media Videos in Verschiedenen Formaten Unter Windows, macOS Und iOS Geräten</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-using-quicktime-for-screen-capture-and-live-streaming-on-macos-devices/"><u>Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-exclusive-18th-year-milestone-collection-of-digiarty-a-timeless-tribute/"><u>Unveiling the Exclusive 18Th Year Milestone Collection of Digiarty – A Timeless Tribute</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-swift-notification-off-switch/"><u>Windows 11: Swift Notification OFF Switch</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/macdvdiphone-macx-dvd-to-iphone/"><u>ダイレクト:Mac用無料DVDからiPhoneへのコンバーター - MacX DVD to iPhone変換ソフト</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mac-dvd-iphoneipadandroid2024/"><u>ダウンロードフリーのMac DVDリピング手順: IPhone/iPad/Androidへ移動して楽しむ！2024年最新ガイド</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-yi-4k-evaluating-2023s-best-for-high-speed-cameras/"><u>[New] GoPro Vs. Yi 4K Evaluating 2023'S Best for High-Speed Cameras</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/4kand/"><u>「どんな予算も不要!フル解決策:4K動画コンプレッション&リサイズをマスターする」</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/windows-11-for-phones/"><u>玩家步骤指南：在Windows 11 for Phones应用中观看视频</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-plug-into-the-future-9-strategic-inquiries-to-ponder-when-choosing-an-ev/"><u>Before You Plug Into the Future: 9 Strategic Inquiries to Ponder When Choosing an EV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/connect-and-create-experience-unique-expressions-in-digiartys-online-gallery/"><u>Connect and Create: Experience Unique Expressions in DigiArty's Online Gallery</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-securing-your-pc-gaming-memories-best-techniques/"><u>In 2024, Securing Your PC Gaming Memories Best Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reimagine-photos-with-picshots-simple-techniques-for-2024/"><u>Reimagine Photos with Picshot’s Simple Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-best-practice-manual-for-text-on-picture-edits/"><u>The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/winvideo-ia-tecnologia-especificaciones-oficiales-explicadas-detalladamente/"><u>WinVídeo IA Tecnología Especificaciones Oficiales Explicadas Detalladamente</u></a></li>
 </ul></div>
+
