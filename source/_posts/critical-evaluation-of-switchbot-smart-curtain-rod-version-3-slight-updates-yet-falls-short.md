@@ -1,7 +1,7 @@
 ---
 title: "Critical Evaluation of SwitchBot Smart Curtain Rod Version 3: Slight Updates Yet Falls Short"
-date: 2024-09-10T02:11:32.449Z
-updated: 2024-09-15T16:14:45.781Z
+date: 2024-09-17T10:01:00.529Z
+updated: 2024-09-21T01:53:07.009Z
 tags:
   - product-reviews
 categories:
@@ -86,6 +86,13 @@ SwitchBot Curtain Rod 3 installed properly behind the curtain.
 
  The SwitchBot app (available on [iPhone](https://apps.apple.com/us/app/switchbot/id1087374760) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001088/https://play.google.com/store/apps/details?id=com.theswitchbot.switchbot&hl=en%5FUS&gl=US)) walks you through every step, clearly laying out what you should expect and quickly connecting to each opener within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  So Close to Noise-Free Operation
 
  When a SwitchBot rep pitched the Curtain Rod 3 to me at CES 2023, the big draw was virtually noiseless operation. The noise level of the Rod 2 was one of my biggest complaints. To combat this, the Rod 3 boasts a QuietDrift Mode that reduces the decibels to below 25dB. For reference, that’s quieter than a whisper.
@@ -95,6 +102,13 @@ SwitchBot Curtain Rod 3 installed properly behind the curtain.
 Your browser does not support the video tag. 
 
  For my setup, all of this is rendered moot by one thing—that telescoping rod. The piece that allows the Rod 3 to cross from the larger rod to the smaller one is taped into place using an aggressively crinkly tape. Every time the opener crosses that threshold, it amplifies the noise level. It’s not a deal breaker, at least not for me, but if you were hoping for a completely sound-free curtain opener, not even QuietDrift Mode can get past the tape in silence.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Smart Home Integration: As Easy As It Gets
 
@@ -108,19 +122,6 @@ Close
 
  The Rod 3 is compatible with [SwitchBot's Hub 2](https://article-helps.techidaily.com/thank-you-access-comprehensive-paidfree-templates/), a [Matter-supported](https://facebook-videos.techidaily.com/2024-approved-enhancing-user-experience-creating-high-roi-animated-ads-for-fb/)central point that helps connect all of your smart home devices. Through the Hub 2, you can customize scenes and automation so that your curtains open or close when certain conditions are met. You can also use Alexa, Google Assistant, Siri Shortcuts, IFTTT, and SmartThings to remotely control the Rod 3.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the SwitchBot Curtain Rod 3?
 
  The [SwitchBot Curtain Rod 3](https://www.amazon.com/SwitchBot-Automatic-Curtain-Opener-High-Performance/dp/B0C6XVXPCC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate) may have its pitfalls, like instances of unwarranted noisiness due to how it’s installed, but it still gets the job done. It can automatically open and close your curtains even when you’re not home. As an upgrade to the Rod 2, it's more disappointing than if you're using the curtain opener for the first time.
@@ -130,13 +131,6 @@ Close
  As a standalone piece of hardware, it remains a novelty that is admittedly fun to toy around with. SwitchBot sent me its two-button remote, and I did enjoy assigning the Rod 3’s functions to each button. The process was very simple, and now I get to feel like I have a true 21st-century office with curtains that open with the press of a button. Is that worth a purchase? That all depends on whether you’re excited by new technology.
 
 ![SwitchBot Curtain Rod 3 Tag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-tag.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  SwitchBot Curtain Rod 3
 
@@ -161,21 +155,16 @@ The SwitchBot Curtain Rod 3 offers very small improvements over the Rod 2 and st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>[New] From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-step-by-step-enabling-screen-capture-on-macos/"><u>[New] In 2024, Step-by-Step Enabling Screen Capture on MacOS</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dvd-rip-dvd/"><u>専用DVD-Ripプログラムを見つける:最新有料も無料もチェック! - DVD取り込み解説</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/5pya6ygp44gq44ot44oh44kq5zyn57iu44k944ov44oi44ks6kal44gk44gr44kl77yb54sh5paz44gu44kq44oz44op44kk44oz44oe44o844or44go5l244ge44ke44gz44ge44og44kv44ol44od44kv.83/"><u>最適なビデオ圧縮ソフトを見つける！無料のオンラインツールと使いやすいテクニック</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/1723088299053-comprehensive-review-of-the-razer-book-13-a-mini-beasts-bite/"><u>Comprehensive Review of the Razer Book 13 – A Mini Beast's Bite!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/external-microphones-to-elevate-film-quality-for-2024/"><u>External Microphones to Elevate Film Quality for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34 5G? Try These Fixes</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guida-completa-al-migliore-software-italiano-per-la-riduzione-delle-dimensioni-dei-video/"><u>Guida Completa Al Migliore Software Italiano per La Riduzione Delle Dimensioni Dei Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-vive-headset-revolutionizes-virtual-reality-playtime/"><u>In 2024, Vive Headset Revolutionizes Virtual Reality Playtime</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-guide-to-installing-microsofts-movie-maker-for-2024/"><u>In-Depth Guide to Installing Microsoft's Movie Maker for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/masterful-methods-for-downscaling-ultra-hd-footage-an-expert-guide-to-converting-4k-video-to-full-hd-format/"><u>Masterful Methods for Downscaling Ultra HD Footage: An Expert Guide to Converting 4K Video to Full HD Format</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/pickup-or-something-else-unveiling-best-android-photo-editor-for-2024/"><u>PickUp or Something Else? Unveiling Best Android Photo Editor for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/premiere-or-after-effects-choosing-the-right-tool-for-your-video-project/"><u>Premiere or After Effects Choosing the Right Tool for Your Video Project</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/quick-guide-ripping-and-casting-dvd-films-onto-your-amazon-fire-tv-using-pc-or-mac/"><u>Quick Guide: Ripping & Casting DVD Films Onto Your Amazon Fire TV Using PC or Mac</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-tips-resolving-issues-with-moviebox-app-crashing-on-ios-versions-14-13-and-12/"><u>Troubleshooting Tips: Resolving Issues with MovieBox App Crashing on iOS Versions 14, 13, and 12</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/verstandliche-vertragsbedingungen-von-digiartys-winxdvd-vertrage-und-lizenzen-erklart-fur-den-privaten-gebrauch/"><u>Verständliche Vertragsbedingungen Von Digiarty's WinXDVD – Verträge Und Lizenzen Erklärt Für Den Privaten Gebrauch</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-phones-as-cameras-a-comprehensive-guide-to-mobile-video-production/"><u>[New] 2024 Approved Phones as Cameras A Comprehensive Guide to Mobile Video Production</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-quickest-method-to-construct-google-image-mosaics/"><u>[Updated] 2024 Approved Unveiling the Quickest Method to Construct Google Image Mosaics</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/2024dvdandwindows-1011/"><u>【2024対応】プロレベルの無料DVD&ブルーレイマスタリングソフトを探せる！Windows 10/11ユーザ向け</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725289685435-mp4/"><u>【セキュリティ・高級】 MP4ビデオからクリアな音声抽出ソフトウェアランキング</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>2024 Approved Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/adrian-jones-elevated-to-cro-position-at-abbyy-leading-revenue-innovation/"><u>Adrian Jones Elevated to CRO Position at ABBYY - Leading Revenue Innovation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand Memes with KineMaster</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-pova-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Pova 5</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/problembehaftete-handbrake-installation-unter-windows-10-fuhrende-problemlosungsmoglichkeiten-und-ersatzlosungen/"><u>Problembehaftete HandBrake-Installation Unter Windows 10 - Führende Problemlösungsmöglichkeiten Und Ersatzlösungen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shining-light-on-dark-screens-expert-advice-for-rectifying-blackouts-during-facetime-calls/"><u>Shining Light on Dark Screens: Expert Advice for Rectifying Blackouts During FaceTime Calls</u></a></li>
 </ul></div>
 
