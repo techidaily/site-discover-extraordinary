@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Drop CSTM65 Analysis: Explore the Extensive Customization Options of This High-Quality Mechanical Keyboard"
-date: 2024-09-16T18:12:35.362Z
-updated: 2024-09-21T08:20:01.630Z
+date: 2024-09-18T22:28:52.877Z
+updated: 2024-09-25T21:42:09.799Z
 tags:
   - product-reviews
 categories:
@@ -95,6 +95,13 @@ Expand
 
 [$129 at Drop](https://drop.com/buy/drop-cstm65-mechanical-keyboard?defaultSelectionIds=983766) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Design: A Sturdy, Compact Keyboard
 
 ![DROP CSTM65 Keyboard custom covers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/keyboard-custom-cover.jpg) 
@@ -125,16 +132,16 @@ Jerome Thomas / How-To Geek
 
  I like that you can choose your own weight and that it's visible when you flip the keyboard over. Yes, most people will never see your shiny keyboard weight, but I think it's a nice touch on a board like the CSTM65\. It ships with a 3.9oz weight, which is heavy enough to keep the keyboard in place under normal circumstances. If you tend to get a little aggressive while gaming and want to make sure the CSTM65 isn't going anywhere, you can choose from CNC-machined brass (12.97oz) and stainless steel (11.96oz) weights. When it comes to the steel weights, you have a few color options, including a slick chroma color weight.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Software: Customization for Keys, Not Lighting
 
 ![CSTM65 backlit with front-key markings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-keyboard-backlit-showing-front-facing-key-markingsjpg_53519440588_o-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -143,6 +150,13 @@ Jerome Thomas / How-To Geek
  I downloaded the [Drop Keyboard Configurator](https://dro.ps/keyboard-configurator-windows). Flashy software it isn't, but you can heavily customize the key assignments. The software has some bumper rails to help you avoid making a mess of things, but if you want to unlock those protections, you can. The Configurator also lets you flash the firmware, should you need to.
 
  The software doesn't handle the CSTM65's per-key RGB customization, though. For that, you'll need to use the keyboard itself. That likely means going to the website and reading the instructions there. That's going to annoy users who like to have software for customizing that sort of feature. On the other hand, some people will be happy to not have any extra software using their PC's resources.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Drop CSTM65 Keyboard?
 
@@ -156,14 +170,14 @@ Jerome Thomas / How-To Geek
 
 ![Drop keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cleanshot-2024-04-22-at-09-27-17-2x.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Drop CSTM65 Mechanical Keyboard
 
@@ -186,5 +200,21 @@ The CSTM65 is a compact enthusiast desktop centerpiece made for game-changing cu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-android-video-playback-turning-ends-into-beginnings/"><u>[New] Android Video Playback Turning Ends Into Beginnings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>[New] The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-for-capturing-your-gaming-skills-in-obs/"><u>[Updated] 2024 Approved Expert Tips for Capturing Your Gaming Skills in OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boost-professional-look-adding-borders-to-instagram-content/"><u>[Updated] Boost Professional Look Adding Borders to Instagram Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-rescue-cameras-are-back-up/"><u>[Updated] In 2024, OBS Rescue Cameras Are Back Up</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-zooms-filters-for-clear-premium-calls-for-2024/"><u>[Updated] Mastering Zoom's Filters for Clear, Premium Calls for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725287013348-winxdvd/"><u>如何利用 WinXDVD：深入探索此軟體功能指南</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-screen-reporter-toolkit-for-youtube-streamers-for-2024/"><u>Best Screen Reporter Toolkit for YouTube Streamers for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/choosing-the-ideal-video-format-mkv-vs-mp4-showdown/"><u>Choosing the Ideal Video Format: MKV vs MP4 Showdown</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/convertissez-un-dvd-regionalise-a-laide-de-contourner-le-code-regional-pour-windows-11-8-ou-7/"><u>Convertissez Un DVD Régionalisé À L'aide De Contourner Le Code Régional Pour Windows 11, 8 Ou 7</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/hd-video-player-herunterladen-kostenlos-fur-high-definition-videowiedergabe-auf-dem-pc/"><u>HD Video Player Herunterladen - Kostenlos Für High Definition Videowiedergabe Auf Dem PC</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/quick-fixes-for-when-anydvd-hd-fails-to-read-discs-comprehensive-solutions-and-tips/"><u>Quick Fixes for When AnyDVD (HD) Fails to Read Discs: Comprehensive Solutions and Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725289747019-windows-mac-ai-10/"><u>Windows과 Mac에 가장 좋은 무료 AI 비디오 리소스를 사용하는 10가지 최고 인핸서</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/cddvdiphone/"><u>マッキー用ディスクインポート手順：安全かつ無償で、合法的にCD/DVDコピー保護フリーiPhoneへ</u></a></li>
+</ul></div>
 
