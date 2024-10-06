@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices"
-date: 2024-09-23T17:07:22.589Z
-updated: 2024-09-30T16:59:50.447Z
+date: 2024-09-30T23:24:43.515Z
+updated: 2024-10-06T01:58:27.396Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b474ce8b9b8af13ad1eeef19a7.jpg
@@ -33,10 +33,10 @@ _Summary: how do you record screen and audio on Mac QuickTime player? How to cap
 QuickTime player - the Mac native media player, is also an inherent [Mac screen recorder software](https://tools.techidaily.com/macxdvd/products/) for your MacBook Pro, MacBook Air, iMac or Mac Mini. Follow the below guide to record screen and audio on Mac QuickTime player if you're not familiar with QT record feature. Plus, the troubleshooting tips also stand you in a good stead when QuickTime screen recording no sound occurs on your MacBook/iMac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## QuickTime Won't Record Screen with System Audio? 
@@ -44,13 +44,6 @@ QuickTime player - the Mac native media player, is also an inherent [Mac screen 
 Try **MacX Video Converter Pro** \- best QuickTime alternative to freely record Mac screen with audio (internal sound & microphone) at any record size (part screen or full screen). And it gives you full control over size, quality (720p, 1080p, 4K) and format of the result that QuickTime cannot do. Support you to compress large-sized screen video to smaller by converting QT MOV to HEVC, MP4, 3GP, WMV, WebM, FLV, etc. or cutting off unnecessary clips from video. 
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Table of Contents
 
@@ -62,13 +55,6 @@ Try **MacX Video Converter Pro** \- best QuickTime alternative to freely record 
 **Step 1.** Open QuickTime Player from your Applications folder under Finder app. Afterwards, tap File > New Screen Recording from the drop-down menu. 
 
 ![Enable QT screen recorder](https://www.macxdvd.com/mac-video-converter-pro/../mac-dvd-video-converter-how-to/article-image/youtube-screen-recorder.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Enable QT screen recorder
 
@@ -118,6 +104,13 @@ Input volume is easy to understand, and you'd better move the slide bar to crank
 
  Sometimes, all the settings related to sound are correct but your QuickTime screen recording still lacks audio. That might be the capture content to blame. Some DRM-protected contents like YouTube movie, music video, iTunes movies, TV shows are encrypted so that your QuickTime player might only capture video image, no audio. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Solution 4\. Deactivate "Use Ambient Noise Reduction" Setting
 
  There is an extra option for macOS Mojave users - "Use Ambient Noise Reduction". It's designed to reduce the external noise interference. Yet, you're advised to disable this setting, for sometimes it would confuse voice and noise so as to mute your voice, as well. Record your Mac screen using QuickTime player to try again after turning off this setting.
@@ -133,13 +126,6 @@ Utilize your QuickTime player under the assistance of Soundflower, which helps y
 **Step 3:** Navigate to Sound system preference > choose Output tab > select SoundFlower (2ch) for current audio recording. 
 
 ![Download soundflower to record audio on mac](https://www.macxdvd.com/mac-video-converter-pro/article-image/download-soundflower.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Download soundflower to record audio on mac
 
@@ -162,6 +148,19 @@ No matter you're prone to [record streaming video](https://tools.techidaily.com/
 **Step 1:** [Free download](https://tools.techidaily.com/macxdvd/products/) this Mac screen capture software. Fire it up and click Screen Recorder on the UI.
 
 ![record screen video and audio on Mac](https://www.macxdvd.com/mac-video-converter-pro/step-image/record-screen-audio.png) 
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 record screen video and audio on Mac
 
@@ -196,15 +195,22 @@ Related Articles
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [How to Crop a Screenshot on Mac?](https://tools.techidaily.com/macxdvd/products/)
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Best 3 Ways to Record Minecraft Gameplay on Mac](https://tools.techidaily.com/macxdvd/products/)
 
@@ -214,35 +220,28 @@ Related Articles
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [6 Ways to Fix Screen Recording Not Saving on iPhone or iPad](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/mac-video-converter-pro/../image-style/new-seo/pic2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [How to Record HD Video with a Webcam on macOS](https://tools.techidaily.com/macxdvd/products/)
 
 ![Digiarty Software](https://www.macxdvd.com/mac-video-converter-pro/../icon/logo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia software applications for worldwide users since its establishment in 2006.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Hot Products
@@ -250,6 +249,13 @@ Digiarty Software, Inc. (MacXDVD) is a leader in delivering stable multimedia so
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tips and Tricks
 
@@ -289,19 +295,17 @@ Apple, the Apple logo, Mac, iPhone, iPad, iPod and iTunes are trademarks of Appl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>[New] 2024 Approved Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-elevate-your-tiktok-with-bigger-head-vfx-3-effective-ways/"><u>[New] In 2024, Elevate Your TikTok with Bigger-Head VFX (3 Effective Ways)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rethinking-color-dynamics-in-videography-with-hdrs-introduction/"><u>[Updated] Rethinking Color Dynamics in Videography with HDR's Introduction</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-chronic-removal-method-for-youtubes-bite-sized-videos/"><u>2024 Approved Chronic Removal Method for YouTube's Bite-Sized Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/can-adobe-premiere-pro-handle-av1-video-formats-for-import-and-export-tasks/"><u>Can Adobe Premiere Pro Handle AV1 Video Formats for Import and Export Tasks?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/como-insertar-la-herramienta-libdvdcss-usando-handbrake-en-sistemas-mac-y-windows-10-para-duplicacion-de-dvds/"><u>Cómo Insertar La Herramienta LibDVDCSS Usando HandBrake en Sistemas Mac Y Windows 10 Para Duplicación De DVDs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/convertendo-dvd-para-avi-gratuitamente-em-2023-guia-rapido-com-3-metodos-eficientes/"><u>Convertendo DVD Para AVI Gratuitamente Em 2023: Guia Rápido Com 3 Métodos Eficientes</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/descarga-sin-costo-del-codec-hevc-h265-mejora-de-reproduccion-de-video-uhd8k/"><u>Descarga Sin Costo Del Códec HEVC (H.2^65) - Mejora De Reproducción De Video UHD/8K</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-stabilizing-your-controller-no-more-frequent-freezes/"><u>Expert Tips on Stabilizing Your Controller: No More Frequent Freezes</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-your-iphone-running-slow-uncover-effective-methods-to-accelerate-its-functionality/"><u>Is Your iPhone Running Slow? Uncover Effective Methods to Accelerate Its Functionality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-organizations-in-creating-immersive-vr-experiences/"><u>Leading Organizations in Creating Immersive VR Experiences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ogv-online-free-conversion-ogv-to-avi-with-movavi/"><u>OGV 폴리불 자유 - Online Free Conversion OGV to AVI with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/persistent-usb-problem-solved-stop-seeing-device-not-recognized-alerts-forever/"><u>Persistent USB Problem Solved: Stop Seeing 'Device Not Recognized' Alerts Forever!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unseen-sides-novel-strategies-for-inverting-your-youtube-views/"><u>[New] In 2024, Unseen Sides Novel Strategies for Inverting Your YouTube Views</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-prime-obs-arrangements-on-economy-computers-for-2024/"><u>[Updated] Prime OBS Arrangements on Economy Computers for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-common-pitfalls-expert-tips-for-choosing-a-high-quality-selfie-stick/"><u>Avoiding Common Pitfalls: Expert Tips for Choosing a High-Quality Selfie Stick</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-the-wdf-violation-bsod-issue-solutions-for-windows-11-10-8-and/"><u>Fixing the WDF Violation BSOD Issue: Solutions for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-g2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo G2 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-game-preventing-and-resolving-tales-of-arise-system-crashes/"><u>Mastering the Game: Preventing and Resolving 'Tales of Arise' System Crashes</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-10-outils-de-montage-video-gratuits-et-premium-pour-ordinateurs/"><u>Top 10 Outils De Montage Vidéo Gratuits Et Premium Pour Ordinateurs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-methods-for-converting-your-dvd-videots-into-mp4-format/"><u>Top Methods for Converting Your DVD VIDEO_TS Into MP4 Format</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ultimate-selection-of-top-18-video-streaming-tools-for-cross-platform-support-on-mac-windows-11-and-mobile-oses/"><u>Ultimate Selection of Top 18 Video Streaming Tools for Cross-Platform Support on Mac, Windows 11, and Mobile OSes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725287646004-and/"><u>ビデオコンバート&圧縮時の一般的なエラーを解消する方法</u></a></li>
 </ul></div>
 
