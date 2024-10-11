@@ -1,7 +1,7 @@
 ---
 title: "Critical Evaluation of SwitchBot Smart Curtain Rod Version 3: Slight Updates Yet Falls Short"
-date: 2024-09-30T18:31:31.885Z
-updated: 2024-10-05T19:48:27.735Z
+date: 2024-10-08T17:14:57.947Z
+updated: 2024-10-11T17:10:42.906Z
 tags:
   - product-reviews
 categories:
@@ -61,22 +61,15 @@ The SwitchBot Curtain Rod 3 offers very small improvements over the Rod 2 and st
 [See at Amazon](https://www.amazon.com/SwitchBot-Automatic-Curtain-Opener-High-Performance/dp/B0C6XVXPCC?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001088&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fswitchbot-curtain-rod-3-review%2F&asc%5Fcampaign=Affiliate) [$89.99 at SwitchBot](https://us.switch-bot.com/products/switchbot-curtain-3) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Installation: More Involved Than Ever Before
 
 ![SwitchBot Curtain Rod 3 Components including Curtain Opener and Beaded Strand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-components.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mark LoProto / How-To Geek
 
@@ -88,15 +81,28 @@ Close
 
  I’m not sure of the purpose, especially since I had no issues with the Rod 2’s smart calibration stopping where it was supposed to. Like the pronged metal piece that prevents snags on telescoping curtain rods, the magnets are visible when the curtain is wide open. Between the beaded strand, the metal telescoping bridge, and the magnets, the visual appeal is lost.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Calibration and Pairing: Quick and Painless
 
 ![SwitchBot Curtain Rod 3 Installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/switchbot-curtain-rod-3-installed-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Mark LoProto / How-To Geek
@@ -108,10 +114,10 @@ SwitchBot Curtain Rod 3 installed properly behind the curtain.
  The SwitchBot app (available on [iPhone](https://apps.apple.com/us/app/switchbot/id1087374760) and [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2001088/https://play.google.com/store/apps/details?id=com.theswitchbot.switchbot&hl=en%5FUS&gl=US)) walks you through every step, clearly laying out what you should expect and quickly connecting to each opener within seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  So Close to Noise-Free Operation
@@ -169,17 +175,18 @@ The SwitchBot Curtain Rod 3 offers very small improvements over the Rod 2 and st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-videography-items-for-travelers/"><u>[New] 2024 Approved Top Videography Items for Travelers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-laugh-riot-twitters-funniest-moments-for-2024/"><u>[Updated] Laugh Riot Twitter's Funniest Moments for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725289870987-dvd/"><u>「新着、日本語対応のDVDクランキングソフトを無料で入手！」</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effortless-winx-youtube-downloader-tutorial-for-beginners-easy-video-download-software/"><u>Effortless WinX YouTube Downloader Tutorial for Beginners - Easy Video Download Software!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-videos-upconvert-content-to-1080p-or-4k-using-vlc-media-player/"><u>Enhance Your Videos: Upconvert Content to 1080P or 4K Using VLC Media Player</u></a></li>
-<li><a href="https://article-files.techidaily.com/fcps-ultimate-editing-aid-best-10-plug-ins/"><u>FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G34 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-best-practices-in-digital-image-creation-for-youtube/"><u>In 2024, Best Practices in Digital Image Creation for YouTube</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-jpeg-png-ecess/"><u>Online JPEG 프리미퓰어 제공을 위해 PNG 파일 구문 변경: 무료, 쉽금ecess</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/revitalize-blurry-footage-a-guide-to-sharpening-videos-in-adobe-premiere-pro/"><u>Revitalize Blurry Footage: A Guide to Sharpening Videos in Adobe Premiere Pro</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-3-unlimited-use-no-cost-windows-1110-dvd-ripping-tools-download-the-complete-software/"><u>Top 3 Unlimited-Use, No-Cost Windows 11/10 DVD Ripping Tools (Download the Complete Software)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-appreciation-roundup-premiumfree-outro-templates/"><u>[New] In 2024, Appreciation Roundup Premium/Free Outro Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-playful-media-extractor-evaluation/"><u>[Updated] Playful Media Extractor Evaluation</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/4kand/"><u>「どんな予算も不要!フル解決策:4K動画コンプレッション&リサイズをマスターする」</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-taming-high-quality-streams-obs/"><u>2024 Approved Taming High-Quality Streams (OBS)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay/"><u>2024 Approved Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725287746169-avchdtsmovaviwmvflv/"><u>全ての動画形式への完璧な変換方法：AVCHD、ts、MOV、AVI、WMV、FLV対応</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/best-offline-playlists-free-and-uninterrupted-music-experience-on-your-iphone-in-202aturday/"><u>Best Offline Playlists: FREE & Uninterrupted Music Experience on Your iPhone in 202Aturday</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/connect-and-create-experience-unique-expressions-in-digiartys-online-gallery/"><u>Connect and Create: Experience Unique Expressions in DigiArty's Online Gallery</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/deciphering-tiktoks-endless-video-processing-message-causes-and-fixes/"><u>Deciphering TikTok's Endless 'Video Processing' Message - Causes & Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722954696859-how-can-i-install-sandisk-solid-state-drive-drivers-a-step-by-step-solution/"><u>How Can I Install SanDisk Solid State Drive Drivers? A Step-by-Step Solution</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 14 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-11f-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 11F 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/xvid-encoder-explained-finding-and-installing-it-gratis-on-your-windows-10-or-11-pc/"><u>Xvid Encoder Explained: Finding and Installing It Gratis on Your Windows 10 or 11 PC</u></a></li>
 </ul></div>
 
