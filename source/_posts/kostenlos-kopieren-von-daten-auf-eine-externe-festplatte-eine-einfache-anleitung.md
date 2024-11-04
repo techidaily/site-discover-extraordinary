@@ -1,7 +1,7 @@
 ---
 title: "Kostenlos Kopieren Von Daten Auf Eine Externe Festplatte: Eine Einfache Anleitung"
-date: 2024-10-25T19:59:29.576Z
-updated: 2024-10-29T08:53:27.067Z
+date: 2024-11-01T01:15:44.891Z
+updated: 2024-11-03T21:09:23.318Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/570c9f8c489ab7b177e107bb70e943c2e83376fe2ec5c74db5d76221f33fc6de.jpg
@@ -48,20 +48,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
@@ -86,11 +72,25 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3\. Recover selected files**
 
@@ -99,10 +99,17 @@ You can expand the Deleted files folder and Other missing files folder to select
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
@@ -116,10 +123,10 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
@@ -131,10 +138,10 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
@@ -206,13 +213,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -242,19 +242,25 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -272,22 +278,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-hiring-game-with-the-best-vids-in-town/"><u>[New] In 2024, Elevate Your Hiring Game with the Best Vids in Town</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-guide-to-youtube-trailer-making-with-filmora/"><u>[New] Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-traditional-markets-with-virtual-engineering/"><u>[New] Transforming Traditional Markets with Virtual Engineering</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-expert-walkthrough-transferring-visuals-on-apple-devices/"><u>[Updated] Expert Walkthrough Transferring Visuals on Apple Devices</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728493845073-windows-11pc/"><u>簡単移行ガイド：Windows 11を使って古ハードディスクの新PCへ</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728474571202-windows/"><u>解決 Windows 不能開機的困境：前三種最有效的資料夾備份手法</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726224076280-rmvb-mpeg-movavi/"><u>免費移動電影 RMVB到 MPEG 在线转换 - 使用 Movavi 软件</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/best-tech-in-cards-for-4k-video-editing-for-2024/"><u>Best Tech in Cards For 4K Video Editing for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/come-effettuare-il-migrato-della-licenza-oem-di-windows-cu-un-nuovo-disco-rigido-in-solo-fasi-principali/"><u>Come Effettuare Il Migrato Della Licenza OEM Di Windows Cu Un Nuovo Disco Rigido in Solo Fasi Principali</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/deverrouiller-avec-succes-linstallation-du-patch-windows-section-1-advanced-problem-on-ophthalmic-emergencies/"><u>Déverrouiller Avec Succès L'Installation Du Patch Windows # Section 1: Advanced Problem on Ophthalmic Emergencies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleashing-your-camera-roll-in-a-snap-a-snapchat-tutorial/"><u>In 2024, Unleashing Your Camera Roll in a Snap A Snapchat Tutorial</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1154586-9781577313564-path-of-empowerment/"><u>Path of Empowerment | Free Book</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/professionelle-ansatze-fur-die-losung-des-bsod-fehlers-code-0xc000021a-unter-windows-server-2012-r2/"><u>Professionelle Ansätze Für Die Lösung Des BSoD-Fehlers (Code 0xC000021A) Unter Windows Server 2012 R2</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/resolved-problem-hyper-v-vm-exhausted-available-ram-resources/"><u>Resolved Problem: Hyper-V VM Exhausted Available RAM Resources</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-nokia-c12-plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Nokia C12 Plus to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshoot-your-unresponsive-micro-sd-card-on-windows-10-top-4-fixes-and-a-proven-hack/"><u>Troubleshoot Your Unresponsive Micro SD Card on Windows 10: Top 4 Fixes and a Proven Hack</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-diy-tutorial-for-replacing-traditional-hdd-with-samsungs-evo-ebvy-850-ssd/"><u>Ultimate DIY Tutorial for Replacing Traditional HDD with Samsung's EVO Ebvy 850 SSD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effective-ways-for-home-based-podcasting/"><u>[New] 2024 Approved Effective Ways for Home-Based Podcasting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unveiling-funimate-the-ultimate-video-guide/"><u>[Updated] 2024 Approved Unveiling Funimate The Ultimate Video Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-easy-screencasting-techniques-systematic-guidebook/"><u>[Updated] In 2024, Easy Screencasting Techniques Systematic Guidebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-overcoming-obscured-visual-space-on-youtube/"><u>[Updated] In 2024, Overcoming Obscured Visual Space on YouTube</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/3-googleonedrive/"><u>「3つの効果的な方法: GoogleドライブをOnedriveにシームレスにバックアップ」</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/backup-your-iphone-data-to-external-hdd-on-windows-11-step-by-step-guide/"><u>Backup Your iPhone Data to External HDD on Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/comment-synchronisez-selectivement-des-fichiers-avec-google-drive/"><u>Comment Synchronisez Sélectivement Des Fichiers Avec Google Drive?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/como-convertir-tus-discos-dvd-a-archivos-avi-con-garantia-de-alta-fidelidad-desde-la-comodidad-de-tu-hogar/"><u>Cómo Convertir Tus Discos DVD a Archivos AVI Con Garantía De Alta Fidelidad Desde La Comodidad De Tu Hogar</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guia-paso-a-paso-para-crear-y-usar-un-disco-de-rescate-en-windows-11-instrucciones-especificas-para-computadoras-dell/"><u>Guía Paso a Paso Para Crear Y Usar Un Disco De Rescate en Windows 11: Instrucciones Específicas Para Computadoras DELL</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/probleme-mit-der-itunes-privatfreigabe-auf-windows-10-losungen-finden-sie-hier/"><u>Probleme Mit Der iTunes-Privatfreigabe Auf Windows 10 - Lösungen Finden Sie Hier</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-lost-content-how-to-restore-deleted-youtube-videos-on-your-pc/"><u>Reviving Lost Content: How to Restore Deleted YouTube Videos on Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/spirited-account-creation-steps/"><u>Spirited Account Creation Steps</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-moving-your-information-from-an-older-apple-id-to-a-new-one/"><u>Step-by-Step Guide: Moving Your Information From an Older Apple ID to a New One</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-insidious-art-of-online-manipulation/"><u>The Insidious Art of Online Manipulation</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-3-best-cloning-programs-for-macos-effortless-file-and-hard-drive-duplication/"><u>Top 3 Best Cloning Programs for macOS: Effortless File and Hard Drive Duplication</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-7-factors-for-optimal-smart-tv-selection/"><u>Top 7 Factors for Optimal Smart TV Selection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210641243-9780762482108-weed-witch/"><u>Weed Witch | Free Book</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/thsyn-koa-tshghyl-albtyaa-afdl-tknologyat-hgra-hdd-il-ssd-ssd-il-ssd-snaa-2024/"><u>تحسين قوة تشغيل البطيء - أفضل تكنولوجيات هجرة HDD إلى SSD / SSD إلى SSD | صنع 2024</u></a></li>
 </ul></div>
 
