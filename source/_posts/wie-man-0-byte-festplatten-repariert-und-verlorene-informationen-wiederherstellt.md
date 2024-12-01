@@ -1,7 +1,7 @@
 ---
 title: Wie Man 0-Byte-Festplatten Repariert Und Verlorene Informationen Wiederherstellt
-date: 2024-11-18T04:15:58.443Z
-updated: 2024-11-22T18:15:37.163Z
+date: 2024-11-27T02:50:23.152Z
+updated: 2024-12-01T04:15:18.345Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b899b1042a541c20e9321a2f.jpg
@@ -29,7 +29,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -54,11 +54,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -81,10 +81,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -103,10 +99,6 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -124,6 +116,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -156,10 +152,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -221,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -251,6 +247,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -259,11 +259,11 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/earn-to-convert-youtube-videos-into-text-no-cost-in-2024/"><u>[New] Learn to Convert YouTube Videos Into Text – No Cost, In 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/uefi-windows-server-2ebf3d648-7c25-49e0-9bde-9a0bfeccda96/"><u>高效修复 UEFI引导 Windows Server 2Ebf3d648-7c25-49e0-9bde-9a0bfeccda96 :专家提供顶级方法!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/behebt-das-schwarze-monitorbild-auf-deinem-pc-mit-dem-windows-11-patch-professionelle-tipps/"><u>Behebt Das Schwarze Monitorbild Auf Deinem PC Mit Dem Windows 11-Patch: Professionelle Tipps</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-connectivity-and-sound-quality-eliminating-glitches-in-windows-11/"><u>Bluetooth Connectivity and Sound Quality: Eliminating Glitches in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-12-proplus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 12 Pro+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-g35-headset-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech G35 Headset Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ia-su-chiave-usb-tutorial-completo/"><u>Ia Su Chiave USB - Tutorial Completo</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-a2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi A2 FRP Bypass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movaviwebpjpeg/"><u>Movaviを使ってWebPファイルを無料でJPEGに変換する – 簡単ガイド</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/optimisez-vous-votre-portfolio-avec-une-sauvegarde-pour-ameliorer-la-distinction/"><u>Optimisez-Vous Votre Portfolio Avec Une Sauvegarde Pour Améliorer La Distinction?</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-data-collection-the-cookiebot-way/"><u>Revolutionize Data Collection - The Cookiebot Way</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/sicherheitsmassnahmen-ohne-schutzlaufwerk-losungen-im-bereich-der-systemintegritat/"><u>Sicherheitsmaßnahmen Ohne Schutzlaufwerk: Lösungen Im Bereich Der Systemintegrität</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/tecnicas-efectivas-para-solucionar-fallas-de-transferencia-de-datos-inactivos-en-clonaciones-con-dispositivos-samsung/"><u>Técnicas Efectivas Para Solucionar Fallas De Transferencia De Datos Inactivos en Clonaciones Con Dispositivos Samsung</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-non-wd-solutions-advanced-replacement-software-for-windows-11-users/"><u>Top Non-WD Solutions: Advanced Replacement Software for Windows 11 Users</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-instructions-removing-personal-information-from-your-iphone-device/"><u>Ultimate Instructions: Removing Personal Information From Your iPhone Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveil-5-must-try-no-cost-apps-for-effortless-cross-border-communication/"><u>Unveil 5 Must-Try No-Cost Apps for Effortless Cross-Border Communication</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/verstandliche-erklarung-warum-systemwiederherstellungsvorgange-monatelang-dauern-konnen/"><u>Verständliche Erklärung: Warum Systemwiederherstellungsvorgänge Monatelang Dauern Können</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/wireless-iphone-syncing-automatic-device-backups-over-wifi-explained-for-computers/"><u>Wireless iPhone Syncing: Automatic Device Backups Over WiFi Explained for Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-global-leaders-in-digital-education-beyond-udemy/"><u>[New] 2024 Approved Global Leaders in Digital Education Beyond Udemy</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-telegram-online-comprehensive-user-guide-for-2024/"><u>[New] Mastering Telegram Online Comprehensive User Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unleash-the-power-of-words-on-tiktok-videos-for-2024/"><u>[Updated] Unleash the Power of Words on TikTok Videos for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722958261613-download-the-hp-universal-printer-driver-for-windows-get-set-up-today/"><u>Download the HP Universal Printer Driver for Windows - Get Set Up Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-5-v-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 5 V Pattern Lock Screen</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guia-rapida-para-hacer-un-respaldo-de-datos-en-windows-server-2019-sin-complicaciones/"><u>Guía Rápida Para Hacer Un Respaldo De Datos en Windows Server 2019 Sin Complicaciones</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/les-top-4-solutions-de-remplacement-pour-transwiz-decouvrez-celles-quon-ne-saurait-oublier/"><u>Les Top 4 Solutions De Remplacement Pour Transwiz - Découvrez Celles Qu'on Ne Saurait Oublier!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resizing-your-drive-and-restoring-windows-with-less-space-a-step-by-step-guide/"><u>Resizing Your Drive & Restoring Windows with Less Space - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/synchronizing-your-devices-seamlessly-connecting-windows-10-and-11-laptops-with-desktops/"><u>Synchronizing Your Devices: Seamlessly Connecting Windows 10 & 11 Laptops with Desktops</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ubersetzen-sie-ihre-android-klingeltone-auf-das-iphone-schnelllosung-fur-benutzer/"><u>Übersetzen Sie Ihre Android-Klingeltöne Auf Das iPhone - Schnelllösung Für Benutzer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing/"><u>Updated 2024 Approved MKVtoolnix for macOS A Beginners Guide to Video Editing</u></a></li>
 </ul></div>
 
