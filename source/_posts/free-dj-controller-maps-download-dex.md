@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2024-11-28T10:45:05.143Z
-updated: 2024-11-30T17:56:04.251Z
+date: 2024-12-04T16:23:29.643Z
+updated: 2024-12-09T03:59:54.194Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,17 +88,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-audio-perfection-achieved-expert-tips-without-a-microphone/"><u>[New] Audio Perfection Achieved Expert Tips Without a Microphone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-make-a-memorable-mark-with-your-own-thumbnails/"><u>[New] In 2024, Make a Memorable Mark with Your Own Thumbnails</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-trailblazing-top-zooid-beginnings-list-for-2024/"><u>[New] Trailblazing Top Zooid Beginnings List for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>[Updated] In 2024, Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-note-30i-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Note 30i? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728474571202-windows/"><u>解決 Windows 不能開機的困境：前三種最有效的資料夾備份手法</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/comprehensive-instructions-for-creating-your-own-sql-database-environment/"><u>Comprehensive Instructions for Creating Your Own SQL Database Environment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-cinematic-experiences-on-your-desktop-with-windows-hdr-for-2024/"><u>Crafting Cinematic Experiences on Your Desktop with Windows HDR for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/deverrouiller-avec-succes-linstallation-du-patch-windows-section-1-advanced-problem-on-ophthalmic-emergencies/"><u>Déverrouiller Avec Succès L'Installation Du Patch Windows # Section 1: Advanced Problem on Ophthalmic Emergencies</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshoot-your-unresponsive-micro-sd-card-on-windows-10-top-4-fixes-and-a-proven-hack/"><u>Troubleshoot Your Unresponsive Micro SD Card on Windows 10: Top 4 Fixes and a Proven Hack</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728470997932-windows-11/"><u>Windows 11设备加密开关指南 - 激活/禁用方法</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[New] In 2024, Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-when-to-start-the-podcast-journey/"><u>[New] In 2024, When to Start the Podcast Journey</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-quick-guide-posting-podcast-on-instagram/"><u>2024 Approved Quick Guide Posting Podcast on Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smartphone-solutions-top-voice-changer-applications/"><u>2024 Approved Smartphone Solutions Top Voice Changer Applications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-guide-to-audio-transitions/"><u>2024 Approved The Definitive Guide to Audio Transitions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-windows-10s-built-in-privacy-configuration-a-guide-by-yl-computing/"><u>Exploring Windows 10'S Built-In Privacy Configuration: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/high-definition-1080p-desktop-backgrounds-and-wallpapers-premium-visuals-by-yl-software/"><u>High-Definition 1080P Desktop Backgrounds & Wallpapers - Premium Visuals by YL Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-you-enhance-your-sound-cards-efficiency-expert-tips-from-yl-computing/"><u>How Can You Enhance Your Sound Card's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-to-turn-on-windows-audio-boosts-for-better-performance-tips-from-yl-software-experts/"><u>Step-by-Step to Turn On Windows Audio Boosts for Better Performance - Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-vob-videos-to-mp4-top-13-techniques-for-windows-11-users-and-macos-enthusiasts/"><u>Transform Your VOB Videos to MP4: Top 13 Techniques for Windows 11 Users and macOS Enthusiasts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/understanding-screen-color-distortion-insights-from-yl-computings-expert-analysis/"><u>Understanding Screen Color Distortion: Insights From YL Computing's Expert Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-ai-innovation-at-meta-an-insight-into-their-advanced-technology/"><u>Unveiling AI Innovation at Meta - An Insight Into Their Advanced Technology</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unzipping-archives-made-easy-a-detailed-walkthrough-for-windows-users-yl-software-solutions/"><u>Unzipping Archives Made Easy: A Detailed Walkthrough for Windows Users - YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-softwares-ultimate-step-by-step-process-to-set-up-your-printer-on-a-pc-running-windows/"><u>YL Software's Ultimate Step-by-Step Process to Set Up Your Printer on a PC Running Windows</u></a></li>
 </ul></div>
 
