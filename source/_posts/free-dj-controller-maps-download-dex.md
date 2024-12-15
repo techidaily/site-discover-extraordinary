@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2024-12-04T16:23:29.643Z
-updated: 2024-12-09T03:59:54.194Z
+date: 2024-12-08T16:29:19.430Z
+updated: 2024-12-15T16:03:31.356Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,20 +88,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[New] In 2024, Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-when-to-start-the-podcast-journey/"><u>[New] In 2024, When to Start the Podcast Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-quick-guide-posting-podcast-on-instagram/"><u>2024 Approved Quick Guide Posting Podcast on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smartphone-solutions-top-voice-changer-applications/"><u>2024 Approved Smartphone Solutions Top Voice Changer Applications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-guide-to-audio-transitions/"><u>2024 Approved The Definitive Guide to Audio Transitions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-windows-10s-built-in-privacy-configuration-a-guide-by-yl-computing/"><u>Exploring Windows 10'S Built-In Privacy Configuration: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/high-definition-1080p-desktop-backgrounds-and-wallpapers-premium-visuals-by-yl-software/"><u>High-Definition 1080P Desktop Backgrounds & Wallpapers - Premium Visuals by YL Software</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-can-you-enhance-your-sound-cards-efficiency-expert-tips-from-yl-computing/"><u>How Can You Enhance Your Sound Card's Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-to-turn-on-windows-audio-boosts-for-better-performance-tips-from-yl-software-experts/"><u>Step-by-Step to Turn On Windows Audio Boosts for Better Performance - Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-vob-videos-to-mp4-top-13-techniques-for-windows-11-users-and-macos-enthusiasts/"><u>Transform Your VOB Videos to MP4: Top 13 Techniques for Windows 11 Users and macOS Enthusiasts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-screen-color-distortion-insights-from-yl-computings-expert-analysis/"><u>Understanding Screen Color Distortion: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-ai-innovation-at-meta-an-insight-into-their-advanced-technology/"><u>Unveiling AI Innovation at Meta - An Insight Into Their Advanced Technology</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unzipping-archives-made-easy-a-detailed-walkthrough-for-windows-users-yl-software-solutions/"><u>Unzipping Archives Made Easy: A Detailed Walkthrough for Windows Users - YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-softwares-ultimate-step-by-step-process-to-set-up-your-printer-on-a-pc-running-windows/"><u>YL Software's Ultimate Step-by-Step Process to Set Up Your Printer on a PC Running Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>[Updated] 2024 Approved Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-horizonhawk-reality-check/"><u>[Updated] HorizonHawk Reality Check</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ensuring-optimal-security-and-performance-expert-tips-from-yl-computings-latest-guide/"><u>Ensuring Optimal Security & Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/expand-your-horizons-with-yl-software-premium-wide-angle-backdrop-images-and-desktop-wallpapers/"><u>Expand Your Horizons with YL Software - Premium Wide Angle Backdrop Images and Desktop Wallpapers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expert-nzxt-switchmix-assessment-the-ultimate-tech-savvy-solution-compactly-packaged/"><u>Expert NZXT SwitchMix Assessment: The Ultimate Tech-Savvy Solution Compactly Packaged</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-did-the-opium-conflicts-impact-chinese-society-and-economy-insights-from-yl-computing/"><u>How Did the Opium Conflicts Impact Chinese Society and Economy? Insights From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-p60-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Huawei P60</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-techniques-scan-documents-straight-from-your-local-print-device-to-pc/"><u>Innovative Techniques: Scan Documents Straight From Your Local Print Device to PC</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/master-the-art-of-ending-your-dj-performance-top-25-songs-by-pcdj/"><u>Master the Art of Ending Your DJ Performance: Top 25 Songs by PCDJ</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/online-visionaries-subscriber-play-button-triumphs/"><u>Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/personalized-high-performance-vehicle-graphics-and-desktop-scenes-yl-tech-solutions/"><u>Personalized High-Performance Vehicle Graphics & Desktop Scenes - YL Tech Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/scanner-problem-solving-effective-fixes-and-tips-from-yl-computings-software/"><u>Scanner Problem Solving: Effective Fixes & Tips From YL Computing's Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-gaming-potential-easy-guide-to-finding-and-installing-the-latest-amd-vega-drivers/"><u>Unleash Gaming Potential - Easy Guide to Finding & Installing the Latest AMD Vega Drivers!</u></a></li>
 </ul></div>
 

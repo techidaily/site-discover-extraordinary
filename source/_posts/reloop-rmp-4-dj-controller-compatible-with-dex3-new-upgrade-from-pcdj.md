@@ -1,7 +1,7 @@
 ---
 title: "Reloop RMP-4 DJ Controller: Compatible with DEX3 - New Upgrade From PCDJ!"
-date: 2024-12-06T22:13:21.605Z
-updated: 2024-12-09T05:44:41.718Z
+date: 2024-12-12T16:43:54.877Z
+updated: 2024-12-15T16:14:21.950Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,22 +106,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-do-youtube-channels-get-paid-regularly-for-2024/"><u>[New] How Do YouTube Channels Get Paid Regularly for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hat-drives-youtubes-content-creator-hub-in-2024/"><u>[New] What Drives YouTube's Content Creator Hub, In 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/creating-effective-bookmarks-in-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Creating Effective Bookmarks in Your eBook with FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/editing-instagram-messages-made-simple-essential-techniques-and-tips/"><u>Editing Instagram Messages Made Simple: Essential Techniques and Tips</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effective-strategies-for-diagnosing-and-fixing-hardware-problems-on-your-windows-pc-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Hardware Problems on Your Windows PC - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exclusive-bargain-upgrade-to-dex-3-plus-karaoke-for-a-splash-at-only-49-more/"><u>Exclusive Bargain – Upgrade to DEX 3 Plus Karaoke for a Splash at Only $49 More!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/experience-the-joy-of-easter-with-yl-softwares-premium-ultra-hd-static-background-images-in-4k/"><u>Experience the Joy of Easter with YL Software’s Premium Ultra HD Static Background Images in 4K</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/harmonize-visuals-and-melodies-in-facebook-media-posts-for-2024/"><u>Harmonize Visuals & Melodies in Facebook Media Posts for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-building-a-stronger-presence-with-effective-youtube-pairings/"><u>In 2024, Building a Stronger Presence with Effective YouTube Pairings</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-windows-control-panel-a-comprehensive-guide-to-customize-desktop-settings-expert-advice-from-yl-software-solutions/"><u>Mastering Window's Control Panel: A Comprehensive Guide to Customize Desktop Settings - Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reset-your-windows-pcs-network-adapter-a-step-by-step-guide-techtips-by-yl/"><u>Reset Your Windows PC's Network Adapter: A Step-by-Step Guide - TechTips by YL</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/risks-and-rewards-can-boosting-your-graphics-card-lead-to-early-failures-explored-with-yl-software/"><u>Risks and Rewards: Can Boosting Your Graphics Card Lead to Early Failures? - Explored with YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-unrecognized-controllers-for-steam-games-on-windows-systems/"><u>Solving the Issue of Unrecognized Controllers for Steam Games on Windows Systems</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-entering-your-pcs-bios-insights-from-yl-computing-experts/"><u>Step-by-Step Guide: Entering Your PC's BIOS - Insights From YL Computing Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/the-dawn-of-hostility-pinpointing-the-start-year-of-chinas-first-war-against-british-forces-with-expertise-from-yl-software-solutions/"><u>The Dawn of Hostility: Pinpointing the Start Year of China's First War Against British Forces with Expertise From YL Software Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlocking-video-content-free-downloader-apps-guide/"><u>Unlocking Video Content Free Downloader Apps Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-integrating-zoom-and-fb-live-effortlessly/"><u>[Updated] 2024 Approved Integrating ZOOM and FB Live Effortlessly</u></a></li>
+<li><a href="https://win-great.techidaily.com/choisir-entre-samsung-t7-et-sandisk-extreme-comparatif-complet-pour-les-navigateurs/"><u>Choisir Entre Samsung T7 Et SanDisk Extreme: Comparatif Complet Pour Les Navigateurs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-chart-topping-tunes-get-your-favorites-from-the-video-pools-most-watched-music-videos/"><u>Download Chart-Topping Tunes: Get Your Favorites From The Video Pool's Most Watched Music Videos</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-solutions-fixing-a-stuck-printer-at-home-or-office-tips-from-yl-software/"><u>Effective Solutions: Fixing a Stuck Printer at Home or Office - Tips From YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/expand-your-horizons-with-yl-software-premium-wide-angle-backdrop-images-and-desktop-wallpapers/"><u>Expand Your Horizons with YL Software - Premium Wide Angle Backdrop Images and Desktop Wallpapers</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/exploring-compatible-video-types-in-windows-system-preferences-insights-with-yl-computing/"><u>Exploring Compatible Video Types in Windows System Preferences: Insights with YL Computing</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/gratuit-wmv-converteren-naar-m4a-online-movavi/"><u>Gratuit WMV-Converteren Naar M4A Online - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guarda-playlist-in-ultra-hd-4k-il-downloader-di-filmati-free-piu-efficiente-per-streaming-incontrastabile/"><u>Guarda Playlist in Ultra HD (4K): Il Downloader Di Filmati Free Più Efficiente per Streaming Incontrastabile</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-can-i-monitor-my-gpu-temperature-for-safety-advice-from-yl-tech-experts/"><u>How Can I Monitor My GPU Temperature for Safety? Advice From YL Tech Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-did-the-opium-conflicts-impact-chinese-society-and-economy-insights-from-yl-computing/"><u>How Did the Opium Conflicts Impact Chinese Society and Economy? Insights From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/master-the-art-of-ending-your-dj-performance-top-25-songs-by-pcdj/"><u>Master the Art of Ending Your DJ Performance: Top 25 Songs by PCDJ</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/maximizing-your-machines-performance-expert-tips-from-yl-computing-and-yl-software/"><u>Maximizing Your Machine's Performance: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pc-performance-basics-how-quickly-should-it-run/"><u>PC Performance Basics: How Quickly Should It Run?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-eyewear-challenge-google-vs-samsung-virtual-reality-for-2024/"><u>The Eyewear Challenge Google Vs. Samsung Virtual Reality for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-impact-of-the-opium-conflicts-on-chinas-past-insights-by-yl-tech/"><u>Unveiling the Impact of the Opium Conflicts on China's Past - Insights by YL Tech</u></a></li>
 </ul></div>
 

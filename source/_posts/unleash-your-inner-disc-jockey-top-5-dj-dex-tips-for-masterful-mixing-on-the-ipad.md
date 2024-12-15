@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Inner Disc Jockey: Top 5 DJ DEX Tips for Masterful Mixing on the iPad"
-date: 2024-12-05T23:33:19.590Z
-updated: 2024-12-09T13:34:58.951Z
+date: 2024-12-10T16:26:14.375Z
+updated: 2024-12-15T16:31:56.121Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ The much anticipated V2 of [DJ DEX is now available in the App Store](https://it
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Tips for Getting the Most out of DJ DEX
@@ -55,13 +55,13 @@ DJ DEX doesn’t work with cloud-stored files (yet). So be sure to open up the m
 [![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")![DJ DEX app platters](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0192.png?resize=495%2C400&ssl=1 "DJ DEX app platters")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0192.png?fit=1030%2C773&ssl=1 "Platter Display Mode")[![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")![DJ DEX app eq](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0195.png?resize=495%2C400&ssl=1 "DJ DEX app eq")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0195.png?fit=1030%2C773&ssl=1 "Equalizer")[![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")![DJ DEX app effects](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0194.png?resize=495%2C400&ssl=1 "DJ DEX app effects")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0194.png?fit=1030%2C773&ssl=1 "X/Y Effects Pads")[![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")![DJ DEX app horizontal waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0193.png?resize=495%2C400&ssl=1 "DJ DEX app horizontal waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0193.png?fit=1030%2C773&ssl=1 "Horizontal Waveform Mode")[![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")![DJ DEX app loops](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0196.png?resize=495%2C400&ssl=1 "DJ DEX app loops")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0196.png?fit=1030%2C773&ssl=1 "Looping Controls")[![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")![DJ DEX App hot cues](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0197.png?resize=495%2C400&ssl=1 "DJ DEX App hot cues")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0197.png?fit=1030%2C773&ssl=1 "Hot Cues")[![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")![DJ DEX App Settings](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0198.png?resize=495%2C400&ssl=1 "DJ DEX App Settings")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0198.png?fit=1030%2C773&ssl=1 "Preferences")[![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")![DJ DEX app splash screen](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG_0199.png?resize=495%2C400&ssl=1 "DJ DEX app splash screen")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/IMG%5F0199.png?fit=1030%2C773&ssl=1 "Loading/Splash Screen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about the DJ DEX **iPad DJ app**? Leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -83,20 +83,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2018/05/djdex-tips-update.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-audiophiles-ultimate-narrative-guides/"><u>[New] Audiophile's Ultimate Narrative Guides</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-screens-top-10-most-popular-female-youtubers/"><u>[Updated] 2024 Approved Breaking the Screens Top 10 Most Popular Female YouTubers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-rotating-reality-in-visuals-the-art-of-spinning-images-for-instagram-triumphs-for-2024/"><u>[Updated] Rotating Reality in Visuals The Art of Spinning Images for Instagram Triumphs for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-effective-solutions-for-diagnosing-and-fixing-audio-card-issues-expert-advice-from-yl-computing/"><u>1. Effective Solutions for Diagnosing and Fixing Audio Card Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/a-scriptwriters-playbook-for-2024/"><u>A Scriptwriter's Playbook for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-promo-alert-cut-costs-by-30-on-ankers-high-capacity-737-portable-charger-shop-smart-with-zdnet/"><u>Exclusive Promo Alert: Cut Costs by $30 on Anker's High-Capacity 737 Portable Charger - Shop Smart with ZDNet!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-the-blue-screen-error-0xc00000e9-in-windows/"><u>How to Diagnose and Repair the Blue Screen Error (0XC00000E9) in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-connect-and-sync-multiple-bluetooth-speakers-for-optimal-sound/"><u>How to Easily Connect and Sync Multiple Bluetooth Speakers for Optimal Sound</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-power-supply-issues-in-your-machine-tips-by-yl-software-experts/"><u>Identifying Power Supply Issues in Your Machine - Tips by YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-the-world-of-openais-vulnerability-rewards-the-pathway-to-contribute-and-earn/"><u>Inside the World of OpenAI's Vulnerability Rewards – The Pathway to Contribute and Earn</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-child-safety-on-pcs-accessing/"><u>Mastering Child Safety on PCs: Accessing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/speeding-up-your-computer-expert-guide-on-virus-and-malware-scanning-techniques-yl-solutions/"><u>Speeding Up Your Computer: Expert Guide on Virus & Malware Scanning Techniques - YL Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-locating-files-and-folders-on-your-pc-tech-tips-by-yl/"><u>Step-by-Step Guide: Locating Files & Folders on Your PC - Tech Tips by YL</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-setting-up-your-printer-with-windows-operating-system-insights-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer with Windows Operating System - Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[New] Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-playbook-to-conquer-spotify-advertising/"><u>[New] The Complete Playbook to Conquer Spotify Advertising</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments-for-2024/"><u>[New] The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/can-windows-defender-cause-conflicts-with-additional-antivirus-programs-insights-from-yl-computing/"><u>Can Windows Defender Cause Conflicts With Additional Antivirus Programs? Insights From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-chart-topping-tunes-get-your-favorites-from-the-video-pools-most-watched-music-videos/"><u>Download Chart-Topping Tunes: Get Your Favorites From The Video Pool's Most Watched Music Videos</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-solutions-fixing-a-stuck-printer-at-home-or-office-tips-from-yl-software/"><u>Effective Solutions: Fixing a Stuck Printer at Home or Office - Tips From YL Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/growth-hackers-guide-the-ultimate-list-of-top-strategies-to-retain-youtube-viewers/"><u>Growth Hackers Guide The Ultimate List of Top Strategies to Retain YouTube Viewers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-can-i-monitor-my-gpu-temperature-for-safety-advice-from-yl-tech-experts/"><u>How Can I Monitor My GPU Temperature for Safety? Advice From YL Tech Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-lenovo-legion-5-pro-16ach6h-essential-driver-software-guide/"><u>How to Update Your Lenovo Legion 5 Pro (16ACH6H) - Essential Driver Software Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-drivers-responsible-for-computer-hardware-issues-expert-tips-from-yl-computings-technical-blog/"><u>Identifying Drivers Responsible for Computer Hardware Issues: Expert Tips From YL Computing's Technical Blog</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-dual-performance-the-tiktok-duet-trend/"><u>In 2024, Dual Performance The TikTok Duet Trend</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-revolutionize-tiktok-experience-with-personalized-numbers/"><u>In 2024, Revolutionize TikTok Experience with Personalized Numbers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-impact-of-the-opium-conflicts-on-chinas-past-insights-by-yl-tech/"><u>Unveiling the Impact of the Opium Conflicts on China's Past - Insights by YL Tech</u></a></li>
 </ul></div>
 

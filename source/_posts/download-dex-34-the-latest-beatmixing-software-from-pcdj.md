@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2024-12-05T13:07:10.393Z
-updated: 2024-12-09T09:34:52.414Z
+date: 2024-12-10T17:13:39.723Z
+updated: 2024-12-15T16:48:53.712Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,19 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-digital-dive-capturing-the-days-lifelike-snapshots-on-fb/"><u>[New] 2024 Approved Digital Dive Capturing the Day's Lifelike Snapshots on FB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-harness-the-potential-of-instagram-videos-for-brand-growth/"><u>[New] 2024 Approved Harness the Potential of Instagram Videos for Brand Growth</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-action-choosing-from-5-leading-game-stream-webcams-for-2024/"><u>[Updated] Capturing Action Choosing From 5 Leading Game Stream Webcams for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-stop-and-start-strategies-fb-livestream-recovery-methods/"><u>[Updated] In 2024, Stop and Start Strategies FB Livestream Recovery Methods</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-exploring-potential-rewards-and-pitfalls-a-guide-to-crypto-investment-strategies-insights-by-yl-computing/"><u>1. Exploring Potential Rewards & Pitfalls: A Guide to Crypto Investment Strategies - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/can-windows-defender-cause-conflicts-with-additional-antivirus-programs-insights-from-yl-computing/"><u>Can Windows Defender Cause Conflicts With Additional Antivirus Programs? Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/decoding-the-lasting-effects-a-comprehensive-analysis-of-the-legacy-left-by-the-taiping-insurrection/"><u>Decoding the Lasting Effects: A Comprehensive Analysis of the Legacy Left by the Taiping Insurrection</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-microsoft-teams-microphone-issues-in-windows-11-and-windows-10/"><u>Fixing Microsoft Teams Microphone Issues in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-adaptive-speaking-methods-in-free-fire/"><u>In 2024, Adaptive Speaking Methods in Free Fire</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/protecting-access-expert-guide-on-private-key-management-with-yl-software-solutions/"><u>Protecting Access: Expert Guide on Private Key Management with YL Software Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-c51-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme C51 Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-to-look-forward-to-at-the-samsung-unpacked-showdown-of-2025-dates-news-and-rumors-revealed/"><u>What to Look Forward to At The Samsung Unpacked Showdown of 2025 - Dates, News & Rumors Revealed</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-computing-tutorial-install-or-uninstall-software-using-the-control-panel/"><u>YL Computing Tutorial: Install or Uninstall Software Using the Control Panel</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-anniversary-graphics-kit/"><u>[Updated] In 2024, Anniversary Graphics Kit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860229979-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>2024 Approved Best Free Call Apps on Android, Ranks Them!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effortless-troubleshooting-for-cddvd-drives-yl-computings-guide-to-smooth-functionality/"><u>Effortless Troubleshooting for CD/DVD Drives: YL Computing's Guide to Smooth Functionality</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-power-management-features-a-guide-to-the-windows-control-panel-options-by-yl-software/"><u>Exploring Power Management Features: A Guide to the Windows Control Panel Options by YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/premium-lauren-german-wallpapers-and-visual-content-for-pcmac-enhance-your-display-with-yl-softwares-exclusive-range/"><u>Premium Lauren German Wallpapers & Visual Content for PC/Mac - Enhance Your Display with YL Software's Exclusive Range</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-your-scanner-expert-tips-by-yl-software-for-mending-frayed-wires/"><u>Reviving Your Scanner: Expert Tips by YL Software for Mending Frayed Wires</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-adjusting-your-computers-remote-desktop-options-via-windows-control-panel-yl-tech-solutions/"><u>Step-by-Step Guide: Adjusting Your Computer's Remote Desktop Options via Windows Control Panel - YL Tech Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-c50-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco C50 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-triggers-behind-the-boxer-uprising-insights-from-history/"><u>Unveiling the Triggers Behind the Boxer Uprising: Insights From History</u></a></li>
 </ul></div>
 

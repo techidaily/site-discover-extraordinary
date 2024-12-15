@@ -1,7 +1,7 @@
 ---
 title: "Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software"
-date: 2024-12-06T19:49:06.858Z
-updated: 2024-12-08T16:17:31.224Z
+date: 2024-12-10T16:39:15.444Z
+updated: 2024-12-15T17:11:49.518Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-integrating-virtual-boards-into-remote-discussions-iphoneipadandroid-and-computers/"><u>[Updated] 2024 Approved Integrating Virtual Boards Into Remote Discussions IPhone/iPad/Android and Computers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-step-by-step-guide-to-perfect-voice-recording-for-2024/"><u>A Step-by-Step Guide to Perfect Voice Recording for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effortless-troubleshooting-for-cddvd-drives-yl-computings-guide-to-smooth-functionality/"><u>Effortless Troubleshooting for CD/DVD Drives: YL Computing's Guide to Smooth Functionality</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-power-management-features-a-guide-to-the-windows-control-panel-options-by-yl-software/"><u>Exploring Power Management Features: A Guide to the Windows Control Panel Options by YL Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rclass-banishing-green-on-your-mac-for-youtube-success-for-2024/"><u>Masterclass Banishing Green on Your Mac for YouTube Success for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-performance-problems-a-2024-how-to-guide/"><u>Overcoming Overwatch Performance Problems: A 2024 How-To Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/premium-lauren-german-wallpapers-and-visual-content-for-pcmac-enhance-your-display-with-yl-softwares-exclusive-range/"><u>Premium Lauren German Wallpapers & Visual Content for PC/Mac - Enhance Your Display with YL Software's Exclusive Range</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reviving-your-scanner-expert-tips-by-yl-software-for-mending-frayed-wires/"><u>Reviving Your Scanner: Expert Tips by YL Software for Mending Frayed Wires</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-adjusting-your-computers-remote-desktop-options-via-windows-control-panel-yl-tech-solutions/"><u>Step-by-Step Guide: Adjusting Your Computer's Remote Desktop Options via Windows Control Panel - YL Tech Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-timeless-elegance-of-the-withings-move-smartwatch-our-comprehensive-review/"><u>The Timeless Elegance of The Withings Move Smartwatch: Our Comprehensive Review</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-android-apps-for-securely-storing-and-managing-your-passwords/"><u>Top-Rated Android Apps for Securely Storing and Managing Your Passwords</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-guide-resolving-issues-with-non-responsive-device-drivers-at-yl-software/"><u>Troubleshooting Guide: Resolving Issues with Non-Responsive Device Drivers at YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-and-preventing-critical-errors-in-google-chrome-stay-protected/"><u>Ultimate Guide: Fixing and Preventing Critical Errors in Google Chrome - Stay Protected!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-triggers-behind-the-boxer-uprising-insights-from-history/"><u>Unveiling the Triggers Behind the Boxer Uprising: Insights From History</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/when-your-gpu-isnt-working-right-expert-advice-and-strategies-by-yl-software/"><u>When Your GPU Isn't Working Right: Expert Advice and Strategies by YL Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-advice-best-mobile-melody-crafters/"><u>[Updated] Expert Advice Best Mobile Melody Crafters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-into-cinematic-quality-using-instagrams-chroma-keying-effect-for-2024/"><u>[Updated] Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-downloadfacebookcontent-the-premiere-addons-and-browser-plugins-for-facebook-videos-firefox-edition/"><u>2024 Approved DownloadFacebookContent! - The Premiere Addons and Browser Plugins for Facebook Videos, FireFox Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-tecno-pop-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pop 8 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/folder-creation-on-windows-simplified-by-yl-software-expert-team/"><u>Folder Creation on Windows Simplified by YL Software Expert Team</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-google-account-integration-for-private-youtube-video-sharing/"><u>In 2024, Google Account Integration for Private YouTube Video Sharing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-11f-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 11F 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-it-necessary-to-combine-additional-anti-virus-programs-with-windows-defender-expert-advice-from-yl-computings-security-specialists/"><u>Is It Necessary To Combine Additional Anti-Virus Programs With Windows Defender? - Expert Advice From YL Computing's Security Specialists</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/premium-music-mixing-suite-download-the-latest-pcdj-dex-3171-software-today/"><u>Premium Music Mixing Suite: Download the Latest PCDJ Dex 3.17.1 Software Today!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/premium-san-francisco-visual-themes-hd-wallpaper-image-collections-and-graphics-perfect-for-your-pc-or-mac-designed-by-yl-computing/"><u>Premium San Francisco Visual Themes: HD Wallpaper, Image Collections & Graphics Perfect for Your PC or Mac – Designed by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/recognizing-signs-of-a-deteriorating-hard-disk-tips-and-tricks-from-yl-computing/"><u>Recognizing Signs of a Deteriorating Hard Disk: Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/white-snake-myth-inspired-wallpaper-and-image-collections-premium-designs-by-yl-computing/"><u>White Snake Myth Inspired Wallpaper & Image Collections: Premium Designs by YL Computing</u></a></li>
 </ul></div>
 
