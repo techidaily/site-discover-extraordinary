@@ -1,7 +1,7 @@
 ---
 title: "Introducing Enhanced Karaoke Experience with PCDJ's Latest Software Additions: Slideshows and Promotions"
-date: 2024-12-13T16:39:36.274Z
-updated: 2024-12-15T17:20:14.140Z
+date: 2024-12-19T08:45:33.185Z
+updated: 2024-12-24T07:20:09.528Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ This highly-requested feature will soon be available in PCDJ Karaoki, our [best 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Introducing The Karaoki Slide Show Feature
@@ -33,7 +33,7 @@ The upcoming _**Slide Show**_ feature will allow you to place your own images, a
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/slideshow-preview.png?fit=300%2C191&ssl=1 "slideshow-preview")](https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/slideshow-preview.png?fit=644%2C409&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The uses are plentiful, including advertisements for the venue (_drink specials etc_), adverts for local businesses (_you can sell ad space!_), trivia games or just something visually pleasing while you play background music.
@@ -43,7 +43,7 @@ If you look closely at the screen capture you’ll notice another nice bonus; th
 We expect the _**Slide Show**_ feature to roll out in the next Karaoki beta, so keep checking the blog as we’ll release a public beta for all to play pre-release!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,22 +65,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/03/karaokislideshow-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>[New] Ideas in Images Top 20 Photos to Fire Up Creativity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>[Updated] 2024 Approved Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-nubia-unlock-without-password-by-drfone-android/"><u>5 Solutions For Nubia Unlock Without Password</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/activating-windows-defender-a-step-by-step-guide-protect-your-pc-with-ease/"><u>Activating Windows Defender: A Step-by-Step Guide - Protect Your PC with Ease</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/free-dj-controller-maps-download-dex/"><u>Free DJ Controller Maps: [Download] DEX</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-narzo-60-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme Narzo 60 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-spark-go-2024-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Spark Go (2024) Activity | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-printer-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Printer: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-revelation-how-apple-engineers-a-fortified-os-to-power-its-artificial-intelligence-and-data-hubs-in-depth-report/"><u>Tech Revelation: How Apple Engineers a Fortified OS to Power Its Artificial Intelligence and Data Hubs | In-Depth Report</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-s23-fe-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy S23 FE IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uncover-the-solution-to-restore-gone-icons-on-your-windows-11-pc-easily/"><u>Uncover the Solution to Restore Gone Icons on Your Windows 11 PC Easily</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/uncover-your-digital-wealth-checking-crypto-wallet-balances-with-ease-insights-by-yl-computing/"><u>Uncover Your Digital Wealth: Checking Crypto Wallet Balances with Ease - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-delays-in-your-windows-setup-insights-from-yl-computing-and-yl-software/"><u>Understanding Delays in Your Windows Setup: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unleash-your-inner-disc-jockey-top-5-dj-dex-tips-for-masterful-mixing-on-the-ipad/"><u>Unleash Your Inner Disc Jockey: Top 5 DJ DEX Tips for Masterful Mixing on the iPad</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/urgent-advisory-from-philippine-authorities-on-red-tide-risks-do-not-catch-or-eat-affected-shellfish-says-pis-province-health-office/"><u>Urgent Advisory From Philippine Authorities on Red Tide Risks - Do Not Catch or Eat Affected Shellfish, Says Pis Province Health Office!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-guide-to-optimizing-windows-performance-how-to-identify-and-remove-unwanted-drivers/"><u>YL Computing's Guide to Optimizing Windows Performance: How to Identify and Remove Unwanted Drivers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-create-professional-minecraft-graphics/"><u>[New] 2024 Approved Create Professional Minecraft Graphics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-strategies-for-capturing-fb-chats/"><u>2024 Approved Advanced Strategies for Capturing FB Chats</u></a></li>
+<li><a href="https://driver-error.techidaily.com/drivers-not-recognized-by-os/"><u>Drivers Not Recognized by OS</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/find-out-what-sound-card-is-inside-your-pc-when-youve-forgotten-the-name-hardwareexperts/"><u>Find Out What Sound Card Is Inside Your PC When You've Forgotten The Name - HardwareExperts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-tell-if-your-pcs-graphics-performance-is-lacking-do-you-need-a-new-gpu-expert-advice-from-yl-software/"><u>How to Tell if Your PC's Graphics Performance Is Lacking: Do You Need a New GPU? – Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/revitalize-audio-performance-in-windows-easy-sound-card-driver-update-instructions-yl-software-solutions/"><u>Revitalize Audio Performance in Windows: Easy Sound Card Driver Update Instructions - YL Software Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-store-and-view-onedrive-data-locally/"><u>Securely Store and View OneDrive Data Locally</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-common-printer-issues-a-step-by-step-guide-yl-computing/"><u>Solving Common Printer Issues: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-memory-issues-on-your-windows-pc-a-comprehensive-guide-by-yl-computing/"><u>Solving Memory Issues on Your Windows PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-world-in-a-whole-view-video-edition-for-2024/"><u>Unveiling the World in a Whole View Video Edition for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-stellar-file-cleaner-set-up-automated-erasure-of-files-and-folders/"><u>Windows Stellar File Cleaner: Set Up Automated Erasure of Files & Folders</u></a></li>
 </ul></div>
 

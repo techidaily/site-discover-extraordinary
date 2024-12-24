@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!
-date: 2024-12-03T20:35:57.903Z
-updated: 2024-12-09T09:00:05.018Z
+date: 2024-12-20T01:18:01.183Z
+updated: 2024-12-23T19:33:28.802Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,14 +95,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-filmmakers-essential-guide-to-free-royalty-free-audiosites-for-2024/"><u>[New] A Filmmaker's Essential Guide to Free Royalty-Free Audiosites for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-beating-buffering-bars-in-twitch-broadcasts-today-for-2024/"><u>[Updated] Beating Buffering Bars in Twitch Broadcasts Today for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-free-youtube-video-editing-apps-for-iphone-and-ipad/"><u>[Updated] In 2024, Best Free YouTube Video Editing Apps for iPhone & iPad</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/high-definition-1080p-desktop-backgrounds-and-wallpapers-premium-visuals-by-yl-software/"><u>High-Definition 1080P Desktop Backgrounds & Wallpapers - Premium Visuals by YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock HTC U23 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-to-turn-on-windows-audio-boosts-for-better-performance-tips-from-yl-software-experts/"><u>Step-by-Step to Turn On Windows Audio Boosts for Better Performance - Tips From YL Software Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/unclutter-your-windows-desktop-space/"><u>Unclutter Your Windows Desktop Space</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-screen-color-distortion-insights-from-yl-computings-expert-analysis/"><u>Understanding Screen Color Distortion: Insights From YL Computing's Expert Analysis</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-supreme-song-synchronizer-app-android/"><u>[New] In 2024, Supreme Song Synchronizer App (Android)</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/accessing-your-computers-control-panel-in-windows-with-ease-yl-software-solutions/"><u>Accessing Your Computer's Control Panel in Windows with Ease - YL Software Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202543311-cookiebot-powered-solutions-enhance-your-websites-traffic-and-engagement/"><u>Cookiebot Powered Solutions - Enhance Your Website's Traffic & Engagement!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-an-aural-experience-for-previews/"><u>Crafting an Aural Experience for Previews</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/fast-track-file-finding-tips-on-windows-or-mac-with-yl-softwares-expert-advice/"><u>Fast-Track File Finding Tips on Windows or Mac with YL Software's Expert Advice</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/holding-firm-asti-holdings-confirms-timely-shareholders-assembly-despite-risk-of-delisting-cited-by-four-investors-expert-commentary-by-yl-computing-yl-soft58/"><u>Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-enhance-your-pcs-speed-with-expert-recommended-software-and-tools-tips-from-yl-solutions/"><u>How to Enhance Your PC's Speed with Expert-Recommended Software and Tools - Tips From YL Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-a78-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo A78 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-download-igtv-videos-on-iphone-and-android-5-ways/"><u>In 2024, How to Download IGTV Videos on iPhone & Android [5 Ways]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1127020-9781612830636-meditations-from-conversations-with-god/"><u>Meditations from Conversations With God | Free Book</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-strategies-for-boosting-your-computers-functionality-and-productivity-with-yl-software/"><u>Top Strategies for Boosting Your Computer's Functionality & Productivity with YL Software</u></a></li>
 </ul></div>
 

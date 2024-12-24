@@ -1,7 +1,7 @@
 ---
 title: Wie Man 0-Byte-Festplatten Repariert Und Verlorene Informationen Wiederherstellt
-date: 2024-12-05T21:02:03.892Z
-updated: 2024-12-09T08:40:59.830Z
+date: 2024-12-20T08:37:29.039Z
+updated: 2024-12-24T08:34:17.251Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b899b1042a541c20e9321a2f.jpg
@@ -24,17 +24,9 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -58,7 +50,11 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -81,10 +77,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -102,6 +94,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -121,10 +117,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -142,10 +134,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -187,6 +175,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -206,6 +198,10 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -259,10 +255,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,17 +280,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-accessing-vintage-facebook-content-tips-for-all-devices-for-2024/"><u>[New] Accessing Vintage Facebook Content Tips for All Devices for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-depth-evaluation-hero4-black-experience/"><u>[New] In-Depth Evaluation Hero4 Black Experience</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unusual-sideway-photos-in-instagram-storytelling/"><u>[Updated] 2024 Approved Unusual Sideway Photos in Instagram Storytelling</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-diagnosing-intermittent-scanner-connectivity-issues-expert-tips-from-yl-computing/"><u>1. Diagnosing Intermittent Scanner Connectivity Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/15-revolutionary-metaverse-ventures-explored-for-2024/"><u>15 Revolutionary Metaverse Ventures Explored for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-90-lite-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor 90 Lite.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-look-at-netgear-orbi-a-superior-mesh-router-option-for-unmatched-home-networking-experience/"><u>In-Depth Look at Netgear Orbi - A Superior Mesh Router Option for Unmatched Home Networking Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210299944-9781789047127-pagan-portals-iris-goddess-of-the-rainbow-and-messenger-of-the-godds/"><u>Pagan Portals - Iris, Goddess of the Rainbow and Messenger of the Godds | Free Book</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-synergy-between-blockchain-tech-and-digital-coins-a-deep-dive-with-yl-software-experts/"><u>Unveiling the Synergy Between Blockchain Tech & Digital Coins: A Deep Dive with YL Software Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-software-risen-3-titan-lords-dynamic-desktop-background-and-live-wallpapers/"><u>YL Software Risen 3: Titan Lords - Dynamic Desktop Background & Live Wallpapers</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-softwares-expert-advice-on-detecting-and-fixing-motherboard-firmware-glitches/"><u>YL Software's Expert Advice on Detecting and Fixing Motherboard Firmware Glitches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-music-infused-videos-perfecting-sound-with-inshot/"><u>[New] Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-cutting-through-the-clutter-how-to-pick-a-premium-4k-monitor/"><u>2024 Approved Cutting Through the Clutter How to Pick a Premium 4K Monitor</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-potential-of-your-phone-and-dslr-for-igtv-videos/"><u>2024 Approved Unlocking the Potential of Your Phone & DSLR for IGTV Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-connectivity-fixes-no-more-disconnects/"><u>League of Legends Connectivity Fixes - No More Disconnects</u></a></li>
+<li><a href="https://games-able.techidaily.com/outlast-the-ultimate-plan-rise-on-xbox-subscription/"><u>Outlast the Ultimate Plan Rise on Xbox Subscription</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-to-turn-on-windows-audio-boosts-for-better-performance-tips-from-yl-software-experts/"><u>Step-by-Step to Turn On Windows Audio Boosts for Better Performance - Tips From YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-and-repairing-your-pcs-network-adapter-issues-in-windows-tech-tips-by-yl-computing/"><u>Troubleshooting and Repairing Your PC's Network Adapter Issues in Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ultimate-2023-festive-mix-a-contemporary-christmas-and-holiday-dj-playlist/"><u>Ultimate 2023 Festive Mix: A Contemporary Christmas & Holiday DJ Playlist</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unraveling-the-mystery-behind-your-recurring-windows-issues-insights-from-yl-computing/"><u>Unraveling the Mystery Behind Your Recurring Windows Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unzipping-archives-made-easy-a-detailed-walkthrough-for-windows-users-yl-software-solutions/"><u>Unzipping Archives Made Easy: A Detailed Walkthrough for Windows Users - YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
 </ul></div>
 

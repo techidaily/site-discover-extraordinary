@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2024-12-08T16:29:19.430Z
-updated: 2024-12-15T16:03:31.356Z
+date: 2024-12-18T04:00:15.268Z
+updated: 2024-12-24T00:21:39.215Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,19 +88,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>[Updated] 2024 Approved Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-horizonhawk-reality-check/"><u>[Updated] HorizonHawk Reality Check</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ensuring-optimal-security-and-performance-expert-tips-from-yl-computings-latest-guide/"><u>Ensuring Optimal Security & Performance: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/expand-your-horizons-with-yl-software-premium-wide-angle-backdrop-images-and-desktop-wallpapers/"><u>Expand Your Horizons with YL Software - Premium Wide Angle Backdrop Images and Desktop Wallpapers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-nzxt-switchmix-assessment-the-ultimate-tech-savvy-solution-compactly-packaged/"><u>Expert NZXT SwitchMix Assessment: The Ultimate Tech-Savvy Solution Compactly Packaged</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-did-the-opium-conflicts-impact-chinese-society-and-economy-insights-from-yl-computing/"><u>How Did the Opium Conflicts Impact Chinese Society and Economy? Insights From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-p60-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Huawei P60</u></a></li>
-<li><a href="https://techtrends.techidaily.com/innovative-techniques-scan-documents-straight-from-your-local-print-device-to-pc/"><u>Innovative Techniques: Scan Documents Straight From Your Local Print Device to PC</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/master-the-art-of-ending-your-dj-performance-top-25-songs-by-pcdj/"><u>Master the Art of Ending Your DJ Performance: Top 25 Songs by PCDJ</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/online-visionaries-subscriber-play-button-triumphs/"><u>Online Visionaries Subscriber, Play Button Triumphs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/personalized-high-performance-vehicle-graphics-and-desktop-scenes-yl-tech-solutions/"><u>Personalized High-Performance Vehicle Graphics & Desktop Scenes - YL Tech Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/scanner-problem-solving-effective-fixes-and-tips-from-yl-computings-software/"><u>Scanner Problem Solving: Effective Fixes & Tips From YL Computing's Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-gaming-potential-easy-guide-to-finding-and-installing-the-latest-amd-vega-drivers/"><u>Unleash Gaming Potential - Easy Guide to Finding & Installing the Latest AMD Vega Drivers!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-address-mobile-devices-stalled-fb-videos/"><u>[New] Address Mobile Devices Stalled FB Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-groundbreiting-recording-solutions-for-environmental-films-for-2024/"><u>[Updated] Groundbreiting Recording Solutions for Environmental Films for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unearthing-inshots-video-magic-for-editors-for-2024/"><u>[Updated] Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/assessing-google-for-safe-passwords/"><u>Assessing Google for Safe Passwords</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/diagnosing-faulty-usb-connections-with-expert-advice-from-yl-computing-and-yl-software/"><u>Diagnosing Faulty USB Connections with Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-your-virtual-worlds-choosing-between-portable-and-plugged-in-headsets/"><u>Explore Your Virtual Worlds Choosing Between Portable and Plugged-In Headsets</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-digital-assets-key-differences-between-cryptocurrencies-and-traditional-fiat-currencies-yl-software-insights/"><u>Exploring Digital Assets: Key Differences Between Cryptocurrencies and Traditional Fiat Currencies | YL Software Insights</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/fixing-graphics-card-glitches-with-windows-11s-native-diagnostic-tools-a-guide-from-yl-software/"><u>Fixing Graphics Card Glitches with Windows 11'S Native Diagnostic Tools: A Guide From YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-and-troubleshooting-system-failures-with-expert-tips-from-yl-software/"><u>Identifying & Troubleshooting System Failures with Expert Tips From YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-visuals-galore-top-10-sites-to-explore/"><u>In 2024, Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-snappro-v3-windows-screen-mastery/"><u>In 2024, SnapPro V3 Windows Screen Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-info-on-meta-quest-light-projections-for-price-point-release-timeline-and-tech-specs/"><u>Insider Info on Meta Quest ^ Light: Projections for Price Point, Release Timeline, and Tech Specs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-stop-kodi-streaming-lag-permanently/"><u>Resolved: How to Stop Kodi Streaming Lag Permanently</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/seamless-transfer-of-soundfiles-between-computers-expert-tips-by-yl-software-professionals/"><u>Seamless Transfer of Soundfiles Between Computers: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/singing-along-at-nuptials-discover-the-joy-of-karaoke-dj-services/"><u>Singing Along at Nuptials: Discover the Joy of Karaoke DJ Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-persistent-0x8024401a-update-issue-on-windows/"><u>Step-by-Step Solutions for the Persistent 0X8024401a Update Issue on Windows</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/supercharge-your-graphics-card-essential-strategies-by-yl-software-experts/"><u>Supercharge Your Graphics Card: Essential Strategies by YL Software Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/understanding-cryptocurrency-oversight-a-guide-to-current-legal-structures-yl-computing/"><u>Understanding Cryptocurrency Oversight: A Guide to Current Legal Structures - YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-essentials-of-decentralized-virtual-tokens-with-yl-softwares-analysis/"><u>Unveiling the Essentials of Decentralized Virtual Tokens with YL Software's Analysis</u></a></li>
 </ul></div>
 

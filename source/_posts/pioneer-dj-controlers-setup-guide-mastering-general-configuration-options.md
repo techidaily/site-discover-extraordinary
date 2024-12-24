@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2024-12-14T17:15:21.614Z
-updated: 2024-12-15T16:04:58.700Z
+date: 2024-12-21T21:58:00.532Z
+updated: 2024-12-24T09:08:00.520Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ However, there are 2 general deck selections under the General Tab in options yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
@@ -42,11 +42,11 @@ However, there are 2 general deck selections under the General Tab in options yo
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,21 +68,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>[New] 2024 Approved Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seeking-cheap-cloud-best-plans-of-2024-unveiled/"><u>[New] Seeking Cheap Cloud Best Plans of 2024 Unveiled</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-learn-how-to-create-compelling-youtube-closures-economically/"><u>[Updated] Learn How To Create Compelling YouTube Closures Economically</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-blueprint-for-becoming-a-trending-force-on-facebook-for-2024/"><u>[Updated] The Blueprint for Becoming a Trending Force on Facebook for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/activating-windows-defender-a-step-by-step-guide-protect-your-pc-with-ease/"><u>Activating Windows Defender: A Step-by-Step Guide - Protect Your PC with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-c53-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme C53 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-common-reasons-why-your-pcs-cd-rom-drive-fails-to-read-disc-data-solutions-by-yl-tech-experts/"><u>Identifying Common Reasons Why Your PC's CD-ROM Drive Fails to Read Disc Data - Solutions by YL Tech Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-it-possible-to-enhance-your-laptop-performance-by-changing-the-processor-insights-by-yl-software/"><u>Is It Possible To Enhance Your Laptop Performance by Changing The Processor? Insights By YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mao-tse-tung-and-his-pivotal-role-as-leader-of-ccp-throughout-the-chinese-cultural-revolution/"><u>Mao Tse-Tung and His Pivotal Role as Leader of CCP Throughout the Chinese Cultural Revolution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/professional-hd-graphics-authentic-imagery-of-the-audi-r18-le-mans-race-car-perfect-as-screen-savers-or-profile-pictures/"><u>Professional HD Graphics: Authentic Imagery of the Audi R18 Le Mans Race Car, Perfect as Screen Savers or Profile Pictures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-world-of-warcraft-wow-latency-problems-a-comprehensive-guide/"><u>Resolving World of Warcraft (WoW) Latency Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/say-goodbye-to-laggy-applications-in-windows-11-unveiling-a-powerful-hidden-option-to-swiftly-terminate-faulty-software-insights-by-zdnet/"><u>Say Goodbye to Laggy Applications in Windows 11! Unveiling a Powerful Hidden Option to Swiftly Terminate Faulty Software – Insights by ZDNET</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-printer-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Printer: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/urgent-advisory-from-philippine-authorities-on-red-tide-risks-do-not-catch-or-eat-affected-shellfish-says-pis-province-health-office/"><u>Urgent Advisory From Philippine Authorities on Red Tide Risks - Do Not Catch or Eat Affected Shellfish, Says Pis Province Health Office!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-story-peeking-a-compre-written-in-english-but-can-be-understood-by-non-native-speakers-as-well-due-to-its-simplicity-and-univers/"><u>[New] 2024 Approved Instagram Story Peeking - A Compre Written in English but Can Be Understood by Non-Native Speakers as Well Due to Its Simplicity and Universal Appeal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tips-for-dimming-windows-and-mac-music-volume/"><u>[New] Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/get-your-hands-on-the-latest-pcdj-dex-v34-rc-download-instantly/"><u>Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guide-adding-the-fdjhd-youtube-extension-to-your-kodi-setup/"><u>Guide: Adding the FDJ.HD YouTube Extension to Your Kodi Setup</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-enhance-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>How to Enhance Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>In 2024, A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/integrate-soundscape-into-premiere-pro-projects/"><u>Integrate Soundscape Into Premiere Pro Projects</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/limited-time-deal-switch-to-the-pro-dj-experience-with-pcdj-trade-in-your-current-dj-app/"><u>Limited-Time Deal: Switch to the Pro DJ Experience with PCDJ - Trade In Your Current DJ App!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17t for Parents | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-hardware-concerns-for-your-windows-pc-insights-from-yl-software-experts/"><u>Top Hardware Concerns for Your Windows PC - Insights From YL Software Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-guide-resolving-black-ink-printing-issues-with-your-printer-expert-tips-from-yl-software/"><u>Troubleshooting Guide: Resolving Black Ink Printing Issues with Your Printer - Expert Tips From YL Software</u></a></li>
 </ul></div>
 

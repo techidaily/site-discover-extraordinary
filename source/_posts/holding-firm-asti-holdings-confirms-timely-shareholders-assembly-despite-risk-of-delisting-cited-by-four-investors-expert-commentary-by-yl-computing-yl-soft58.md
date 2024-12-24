@@ -1,7 +1,7 @@
 ---
 title: "Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software"
-date: 2024-12-10T16:39:15.444Z
-updated: 2024-12-15T17:11:49.518Z
+date: 2024-12-22T23:57:36.296Z
+updated: 2024-12-23T23:45:12.164Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-expert-advice-best-mobile-melody-crafters/"><u>[Updated] Expert Advice Best Mobile Melody Crafters</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-into-cinematic-quality-using-instagrams-chroma-keying-effect-for-2024/"><u>[Updated] Step Into Cinematic Quality Using Instagram’s Chroma Keying Effect for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-downloadfacebookcontent-the-premiere-addons-and-browser-plugins-for-facebook-videos-firefox-edition/"><u>2024 Approved DownloadFacebookContent! - The Premiere Addons and Browser Plugins for Facebook Videos, FireFox Edition</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-tecno-pop-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Tecno Pop 8 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/folder-creation-on-windows-simplified-by-yl-software-expert-team/"><u>Folder Creation on Windows Simplified by YL Software Expert Team</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-google-account-integration-for-private-youtube-video-sharing/"><u>In 2024, Google Account Integration for Private YouTube Video Sharing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-11f-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 11F 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-it-necessary-to-combine-additional-anti-virus-programs-with-windows-defender-expert-advice-from-yl-computings-security-specialists/"><u>Is It Necessary To Combine Additional Anti-Virus Programs With Windows Defender? - Expert Advice From YL Computing's Security Specialists</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/premium-music-mixing-suite-download-the-latest-pcdj-dex-3171-software-today/"><u>Premium Music Mixing Suite: Download the Latest PCDJ Dex 3.17.1 Software Today!</u></a></li>
-<li><a href="https://win-unique.techidaily.com/premium-san-francisco-visual-themes-hd-wallpaper-image-collections-and-graphics-perfect-for-your-pc-or-mac-designed-by-yl-computing/"><u>Premium San Francisco Visual Themes: HD Wallpaper, Image Collections & Graphics Perfect for Your PC or Mac – Designed by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/recognizing-signs-of-a-deteriorating-hard-disk-tips-and-tricks-from-yl-computing/"><u>Recognizing Signs of a Deteriorating Hard Disk: Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/white-snake-myth-inspired-wallpaper-and-image-collections-premium-designs-by-yl-computing/"><u>White Snake Myth Inspired Wallpaper & Image Collections: Premium Designs by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-auto-captions-to-instagram-stories-and-reels/"><u>[New] 2024 Approved How to Add Auto Captions to Instagram Stories and Reels?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>[New] In 2024, The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-changing-tactics-to-record-high-stakes-gameplay/"><u>[Updated] 2024 Approved Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>[Updated] 2024 Approved Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-drone-motor-choose-the-5-best-motors-for-your-quadcopter-for-2024/"><u>[Updated] Drone Motor Choose the 5 Best Motors for Your Quadcopter for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations/"><u>2024 Approved A Compreranble Collection of Game Logging Apps Transcending FBX Limitations</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/activating-windows-defender-a-step-by-step-guide-protect-your-pc-with-ease/"><u>Activating Windows Defender: A Step-by-Step Guide - Protect Your PC with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mao-tse-tung-and-his-pivotal-role-as-leader-of-ccp-throughout-the-chinese-cultural-revolution/"><u>Mao Tse-Tung and His Pivotal Role as Leader of CCP Throughout the Chinese Cultural Revolution</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/professional-hd-graphics-authentic-imagery-of-the-audi-r18-le-mans-race-car-perfect-as-screen-savers-or-profile-pictures/"><u>Professional HD Graphics: Authentic Imagery of the Audi R18 Le Mans Race Car, Perfect as Screen Savers or Profile Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/retroid-pocket-3plus-the-handbag-sized-retro-gaming-console/"><u>Retroid Pocket 3+: The Handbag-Sized Retro Gaming Console</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-printer-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Printer: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/urgent-advisory-from-philippine-authorities-on-red-tide-risks-do-not-catch-or-eat-affected-shellfish-says-pis-province-health-office/"><u>Urgent Advisory From Philippine Authorities on Red Tide Risks - Do Not Catch or Eat Affected Shellfish, Says Pis Province Health Office!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2024-12-10T17:13:39.723Z
-updated: 2024-12-15T16:48:53.712Z
+date: 2024-12-20T08:10:49.970Z
+updated: 2024-12-24T04:38:36.917Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,18 +93,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-anniversary-graphics-kit/"><u>[Updated] In 2024, Anniversary Graphics Kit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860229979-2024-approved-best-free-call-apps-on-android-ranks-them/"><u>2024 Approved Best Free Call Apps on Android, Ranks Them!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/brightening-blacked-out-win10-post-release/"><u>Brightening Blacked-Out Win10 Post Release</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effortless-troubleshooting-for-cddvd-drives-yl-computings-guide-to-smooth-functionality/"><u>Effortless Troubleshooting for CD/DVD Drives: YL Computing's Guide to Smooth Functionality</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-power-management-features-a-guide-to-the-windows-control-panel-options-by-yl-software/"><u>Exploring Power Management Features: A Guide to the Windows Control Panel Options by YL Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/premium-lauren-german-wallpapers-and-visual-content-for-pcmac-enhance-your-display-with-yl-softwares-exclusive-range/"><u>Premium Lauren German Wallpapers & Visual Content for PC/Mac - Enhance Your Display with YL Software's Exclusive Range</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reviving-your-scanner-expert-tips-by-yl-software-for-mending-frayed-wires/"><u>Reviving Your Scanner: Expert Tips by YL Software for Mending Frayed Wires</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-adjusting-your-computers-remote-desktop-options-via-windows-control-panel-yl-tech-solutions/"><u>Step-by-Step Guide: Adjusting Your Computer's Remote Desktop Options via Windows Control Panel - YL Tech Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-poco-c50-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Poco C50 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-triggers-behind-the-boxer-uprising-insights-from-history/"><u>Unveiling the Triggers Behind the Boxer Uprising: Insights From History</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-frost-your-view-freezing-desktop-on-pcs/"><u>[New] In 2024, Frost Your View Freezing Desktop on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[New] Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-imageslice-editor/"><u>[Updated] In 2024, ImageSlice Editor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-1-boosting-local-communities-through-volunteer-tourism-a-sustainable-approach-to-traveling/"><u>Explore These 1 # Boosting Local Communities Through Volunteer Tourism: A Sustainable Approach to Traveling</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-boost-your-instagram-vids-visibility/"><u>How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-safeguard-your-cryptocurrency-investments-a-comprehhrenveiw-by-yl-software-on-effective-storage-options/"><u>How to Safeguard Your Cryptocurrency Investments: A Comprehhrenveiw by YL Software on Effective Storage Options</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/pcdj-top-performer-in-featured-user-spotlight-leading-karaoke-platforms-and-software/"><u>PCDJ: Top Performer in Featured User Spotlight – Leading Karaoke Platforms & Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-your-printers-paper-jam-issue-expert-advice-from-yl-computing/"><u>Solving Your Printer's Paper Jam Issue: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-pc-understanding-why-it-wont-turn-on-tech-solutions-by-yl/"><u>Troubleshooting Your PC: Understanding Why It Won't Turn On - Tech Solutions by YL</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-overclocking-an-easy-to-follow-guide-for-enhancing-cpu-performance/"><u>Unlock the Power of Overclocking: An Easy-to-Follow Guide for Enhancing CPU Performance</u></a></li>
 </ul></div>
 
