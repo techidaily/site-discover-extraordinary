@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!
-date: 2024-12-20T01:18:01.183Z
-updated: 2024-12-23T19:33:28.802Z
+date: 2024-12-23T22:36:02.667Z
+updated: 2024-12-30T03:21:05.999Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,16 +95,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-supreme-song-synchronizer-app-android/"><u>[New] In 2024, Supreme Song Synchronizer App (Android)</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/accessing-your-computers-control-panel-in-windows-with-ease-yl-software-solutions/"><u>Accessing Your Computer's Control Panel in Windows with Ease - YL Software Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202543311-cookiebot-powered-solutions-enhance-your-websites-traffic-and-engagement/"><u>Cookiebot Powered Solutions - Enhance Your Website's Traffic & Engagement!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-an-aural-experience-for-previews/"><u>Crafting an Aural Experience for Previews</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fast-track-file-finding-tips-on-windows-or-mac-with-yl-softwares-expert-advice/"><u>Fast-Track File Finding Tips on Windows or Mac with YL Software's Expert Advice</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/holding-firm-asti-holdings-confirms-timely-shareholders-assembly-despite-risk-of-delisting-cited-by-four-investors-expert-commentary-by-yl-computing-yl-soft58/"><u>Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-enhance-your-pcs-speed-with-expert-recommended-software-and-tools-tips-from-yl-solutions/"><u>How to Enhance Your PC's Speed with Expert-Recommended Software and Tools - Tips From YL Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-a78-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo A78 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-download-igtv-videos-on-iphone-and-android-5-ways/"><u>In 2024, How to Download IGTV Videos on iPhone & Android [5 Ways]</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1127020-9781612830636-meditations-from-conversations-with-god/"><u>Meditations from Conversations With God | Free Book</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-strategies-for-boosting-your-computers-functionality-and-productivity-with-yl-software/"><u>Top Strategies for Boosting Your Computer's Functionality & Productivity with YL Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ro-tools-pro-results-elevating-video-quality-in-youtube-editing-for-2024/"><u>[New] Pro Tools, Pro Results Elevating Video Quality in YouTube Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-revitalized-interview-questions-for-listener-involvement/"><u>[New] Revitalized Interview Questions for Listener Involvement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-factors-behind-slow-system-responses-with-yl-software-experts/"><u>Exploring Factors Behind Slow System Responses with YL Software Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/fixing-graphics-card-glitches-with-windows-11s-native-diagnostic-tools-a-guide-from-yl-software/"><u>Fixing Graphics Card Glitches with Windows 11'S Native Diagnostic Tools: A Guide From YL Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-f04-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy F04 Devices</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-malfunctioning-ram-expert-tips-from-yl-software-solutions/"><u>Identifying Malfunctioning RAM: Expert Tips From YL Software Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/inaugural-vocal-augmented-communication-tool/"><u>Inaugural Vocal-Augmented Communication Tool</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/maximizing-your-gpu-efficiency-insights-from-yls-expert-team-at-yl-computing-and-yl-software/"><u>Maximizing Your GPU Efficiency: Insights From YL's Expert Team at YL Computing & YL Software</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/razers-kiyo-webcam-complete-overview-for-2024/"><u>Razer's Kiyo Webcam - Complete Overview for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solutions-when-your-hard-drive-fails-expert-advice-from-yl-computing/"><u>Solutions When Your Hard Drive Fails: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-integrating-audio-backdrops-in-video-content-on-pcs-and-macs/"><u>Step-by-Step Guide: Integrating Audio Backdrops in Video Content on PCs and Macs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/understanding-cryptocurrency-oversight-a-guide-to-current-legal-structures-yl-computing/"><u>Understanding Cryptocurrency Oversight: A Guide to Current Legal Structures - YL Computing</u></a></li>
 </ul></div>
 

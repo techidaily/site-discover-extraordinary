@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2024-12-21T21:58:00.532Z
-updated: 2024-12-24T09:08:00.520Z
+date: 2024-12-23T20:34:12.913Z
+updated: 2024-12-29T16:35:31.061Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ However, there are 2 general deck selections under the General Tab in options yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
@@ -42,11 +42,11 @@ However, there are 2 general deck selections under the General Tab in options yo
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,16 +68,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-story-peeking-a-compre-written-in-english-but-can-be-understood-by-non-native-speakers-as-well-due-to-its-simplicity-and-univers/"><u>[New] 2024 Approved Instagram Story Peeking - A Compre Written in English but Can Be Understood by Non-Native Speakers as Well Due to Its Simplicity and Universal Appeal</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tips-for-dimming-windows-and-mac-music-volume/"><u>[New] Tips for Dimming Windows & Mac Music Volume</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/get-your-hands-on-the-latest-pcdj-dex-v34-rc-download-instantly/"><u>Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/guide-adding-the-fdjhd-youtube-extension-to-your-kodi-setup/"><u>Guide: Adding the FDJ.HD YouTube Extension to Your Kodi Setup</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-enhance-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>How to Enhance Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>In 2024, A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/integrate-soundscape-into-premiere-pro-projects/"><u>Integrate Soundscape Into Premiere Pro Projects</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/limited-time-deal-switch-to-the-pro-dj-experience-with-pcdj-trade-in-your-current-dj-app/"><u>Limited-Time Deal: Switch to the Pro DJ Experience with PCDJ - Trade In Your Current DJ App!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17t for Parents | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-hardware-concerns-for-your-windows-pc-insights-from-yl-software-experts/"><u>Top Hardware Concerns for Your Windows PC - Insights From YL Software Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-guide-resolving-black-ink-printing-issues-with-your-printer-expert-tips-from-yl-software/"><u>Troubleshooting Guide: Resolving Black Ink Printing Issues with Your Printer - Expert Tips From YL Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ios-the-ultimate-list-of-ps2-emulators/"><u>[New] In 2024, IOS The Ultimate List of PS2 Emulators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-rethinking-windows-photo-viewer-usage-on-modern-os/"><u>[New] In 2024, Rethinking Windows Photo Viewer Usage on Modern OS</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-easy-steps-to-refresh-your-devices-drivers-via-windows-control-panel-tips-from-yl-computing/"><u>1. Easy Steps to Refresh Your Device's Drivers via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/android-screen-recording-tutorial-essentials/"><u>Android Screen Recording Tutorial Essentials</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-enigmatic-return-of-apples-homeos-within-the-latest-tvos-developers-beta-insights/"><u>Exploring the Enigmatic Return of Apple's 'homeOS' Within the Latest tvOS Developers Beta - Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-mastering-the-features-of-apple-musics-shared-playlists/"><u>Guide: Mastering the Features of Apple Music's Shared Playlists</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tomtom-gopro-alternative-a-2023-review/"><u>In 2024, TomTom GoPro Alternative A 2023 Review</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/mastering-crypto-chart-analysis-a-comprehensive-guide-by-yl-computing/"><u>Mastering Crypto Chart Analysis: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-audio-hardware-clashes-expert-advice-on-sound-card-drivers-compatibility-by-yl-software/"><u>Resolving Audio Hardware Clashes: Expert Advice on Sound Card Drivers Compatibility by YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-network-issues-comprehensive-fixes-and-tips/"><u>Resolving Windows Network Issues: Comprehensive Fixes & Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-pc-compatibility-issues-with-external-hardware-expert-advice-from-yl-computing/"><u>Resolving Windows PC Compatibility Issues with External Hardware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-switch-your-primary-language-on-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Switch Your Primary Language on Windows 11 - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-budget-friendly-gaming-desktops-industry-experts-picks-techradar/"><u>Top-Rated Budget Friendly Gaming Desktops - Industry Experts' Picks | TechRadar</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-scanner-drivers-solutions-when-installation-fails-expert-advice-from-yl-computings-tech-gurus/"><u>Troubleshooting Scanner Drivers: Solutions When Installation Fails - Expert Advice From YL Computing's Tech Gurus</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unlock-new-potentials-with-windows-10-custom-settings-discover-the-updates-by-yl-software-experts/"><u>Unlock New Potentials with Windows 10 Custom Settings - Discover the Updates by YL Software Experts</u></a></li>
 </ul></div>
 

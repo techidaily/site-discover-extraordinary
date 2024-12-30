@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2024-12-18T04:00:15.268Z
-updated: 2024-12-24T00:21:39.215Z
+date: 2024-12-24T18:26:58.116Z
+updated: 2024-12-29T21:40:44.681Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,24 +88,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-address-mobile-devices-stalled-fb-videos/"><u>[New] Address Mobile Devices Stalled FB Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-groundbreiting-recording-solutions-for-environmental-films-for-2024/"><u>[Updated] Groundbreiting Recording Solutions for Environmental Films for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unearthing-inshots-video-magic-for-editors-for-2024/"><u>[Updated] Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/assessing-google-for-safe-passwords/"><u>Assessing Google for Safe Passwords</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/diagnosing-faulty-usb-connections-with-expert-advice-from-yl-computing-and-yl-software/"><u>Diagnosing Faulty USB Connections with Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-your-virtual-worlds-choosing-between-portable-and-plugged-in-headsets/"><u>Explore Your Virtual Worlds Choosing Between Portable and Plugged-In Headsets</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-digital-assets-key-differences-between-cryptocurrencies-and-traditional-fiat-currencies-yl-software-insights/"><u>Exploring Digital Assets: Key Differences Between Cryptocurrencies and Traditional Fiat Currencies | YL Software Insights</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fixing-graphics-card-glitches-with-windows-11s-native-diagnostic-tools-a-guide-from-yl-software/"><u>Fixing Graphics Card Glitches with Windows 11'S Native Diagnostic Tools: A Guide From YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-and-troubleshooting-system-failures-with-expert-tips-from-yl-software/"><u>Identifying & Troubleshooting System Failures with Expert Tips From YL Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-visuals-galore-top-10-sites-to-explore/"><u>In 2024, Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-snappro-v3-windows-screen-mastery/"><u>In 2024, SnapPro V3 Windows Screen Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insider-info-on-meta-quest-light-projections-for-price-point-release-timeline-and-tech-specs/"><u>Insider Info on Meta Quest ^ Light: Projections for Price Point, Release Timeline, and Tech Specs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-stop-kodi-streaming-lag-permanently/"><u>Resolved: How to Stop Kodi Streaming Lag Permanently</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/seamless-transfer-of-soundfiles-between-computers-expert-tips-by-yl-software-professionals/"><u>Seamless Transfer of Soundfiles Between Computers: Expert Tips by YL Software Professionals</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/singing-along-at-nuptials-discover-the-joy-of-karaoke-dj-services/"><u>Singing Along at Nuptials: Discover the Joy of Karaoke DJ Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-persistent-0x8024401a-update-issue-on-windows/"><u>Step-by-Step Solutions for the Persistent 0X8024401a Update Issue on Windows</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/supercharge-your-graphics-card-essential-strategies-by-yl-software-experts/"><u>Supercharge Your Graphics Card: Essential Strategies by YL Software Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-cryptocurrency-oversight-a-guide-to-current-legal-structures-yl-computing/"><u>Understanding Cryptocurrency Oversight: A Guide to Current Legal Structures - YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-essentials-of-decentralized-virtual-tokens-with-yl-softwares-analysis/"><u>Unveiling the Essentials of Decentralized Virtual Tokens with YL Software's Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-video-dimensions-what-you-need-to-know/"><u>[Updated] In 2024, Twitter's Video Dimensions What You Need to Know</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quick-guide-to-mac-screen-taking-techniques/"><u>[Updated] Quick Guide to MAC Screen Taking Techniques</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-pc-effective-techniques-to-boost-computer-performance-yl-computings-expert-guide/"><u>Accelerate Your PC: Effective Techniques to Boost Computer Performance - YL Computing's Expert Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/demystifying-youtubes-seo-a-keyword-research-guide/"><u>Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dive-into-she-hulks-world-of-justice-with-exclusive-4k-graphics-and-desktop-art-officially-licensed-from-yl-softwares-she-hulk-attorney-at-law-collection/"><u>Dive Into She-Hulk's World of Justice with Exclusive 4K Graphics and Desktop Art – Officially Licensed From YL Software’s ‘She-Hulk: Attorney At Law’ Collection</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-dex-34-the-latest-beatmixing-software-from-pcdj/"><u>Download DEX 3.4: The Latest Beatmixing Software From PCDJ</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-effective-is-windows-defender-in-blocking-dangerous-applications-instantly/"><u>How Effective Is Windows Defender in Blocking Dangerous Applications Instantly?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>In 2024, The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>In 2024, Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-solutions-for-windows-network-interface-device-errors-from-expert-source-yl-software/"><u>Step-by-Step Solutions for Windows Network Interface Device Errors From Expert Source, YL Software</u></a></li>
 </ul></div>
 

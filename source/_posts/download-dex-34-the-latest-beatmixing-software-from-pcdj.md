@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2024-12-20T08:10:49.970Z
-updated: 2024-12-24T04:38:36.917Z
+date: 2024-12-24T23:28:40.550Z
+updated: 2024-12-29T18:32:55.065Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,15 +93,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-frost-your-view-freezing-desktop-on-pcs/"><u>[New] In 2024, Frost Your View Freezing Desktop on PCs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-skype-call-recording-tips-ensuring-clarity-across-platforms/"><u>[New] Skype Call Recording Tips - Ensuring Clarity Across Platforms</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-imageslice-editor/"><u>[Updated] In 2024, ImageSlice Editor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-these-1-boosting-local-communities-through-volunteer-tourism-a-sustainable-approach-to-traveling/"><u>Explore These 1 # Boosting Local Communities Through Volunteer Tourism: A Sustainable Approach to Traveling</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-boost-your-instagram-vids-visibility/"><u>How to Boost Your Instagram Vids' Visibility</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-safeguard-your-cryptocurrency-investments-a-comprehhrenveiw-by-yl-software-on-effective-storage-options/"><u>How to Safeguard Your Cryptocurrency Investments: A Comprehhrenveiw by YL Software on Effective Storage Options</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/pcdj-top-performer-in-featured-user-spotlight-leading-karaoke-platforms-and-software/"><u>PCDJ: Top Performer in Featured User Spotlight – Leading Karaoke Platforms & Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/solving-your-printers-paper-jam-issue-expert-advice-from-yl-computing/"><u>Solving Your Printer's Paper Jam Issue: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-pc-understanding-why-it-wont-turn-on-tech-solutions-by-yl/"><u>Troubleshooting Your PC: Understanding Why It Won't Turn On - Tech Solutions by YL</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-overclocking-an-easy-to-follow-guide-for-enhancing-cpu-performance/"><u>Unlock the Power of Overclocking: An Easy-to-Follow Guide for Enhancing CPU Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-record-games-on-windows-10-pc-for-2024/"><u>[New] Ultimate Guide to Record Games on Windows 10 PC for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-effortless-audio-volume-reduction-in-garageband/"><u>[Updated] In 2024, Effortless Audio Volume Reduction in Garageband</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>[Updated] Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-easy-steps-to-refresh-your-devices-drivers-via-windows-control-panel-tips-from-yl-computing/"><u>1. Easy Steps to Refresh Your Device's Drivers via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>2024 Approved The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/complete-minecraft-overview-a-revolutionary-creative-playground-suitable-for-everyone/"><u>Complete Minecraft Overview: A Revolutionary Creative Playground Suitable for Everyone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-nord-ce-3-lite-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Nord CE 3 Lite 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-can-you-broadcast-videos-without-infringing-laws-specifically-fb/"><u>In 2024, Can You Broadcast Videos Without Infringing Laws, Specifically FB?</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/investors-react-positively-as-sandp-500-and-nasdaq-100-futures-climb-amid-interest-rate-hike-speculations-post-powell-remarks/"><u>Investors React Positively as S&P 500 and Nasdaq 100 Futures Climb Amid Interest Rate Hike Speculations Post-Powell Remarks</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-network-issues-comprehensive-fixes-and-tips/"><u>Resolving Windows Network Issues: Comprehensive Fixes & Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-pc-compatibility-issues-with-external-hardware-expert-advice-from-yl-computing/"><u>Resolving Windows PC Compatibility Issues with External Hardware - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-multiple-instances-problem-in-windows/"><u>Tackling 'Multiple Instances' Problem in Windows</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-scanner-drivers-solutions-when-installation-fails-expert-advice-from-yl-computings-tech-gurus/"><u>Troubleshooting Scanner Drivers: Solutions When Installation Fails - Expert Advice From YL Computing's Tech Gurus</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unlock-new-potentials-with-windows-10-custom-settings-discover-the-updates-by-yl-software-experts/"><u>Unlock New Potentials with Windows 10 Custom Settings - Discover the Updates by YL Software Experts</u></a></li>
 </ul></div>
 

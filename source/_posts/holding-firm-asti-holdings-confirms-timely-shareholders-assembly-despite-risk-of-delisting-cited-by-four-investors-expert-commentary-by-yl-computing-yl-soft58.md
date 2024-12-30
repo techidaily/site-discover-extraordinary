@@ -1,7 +1,7 @@
 ---
 title: "Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software"
-date: 2024-12-22T23:57:36.296Z
-updated: 2024-12-23T23:45:12.164Z
+date: 2024-12-26T23:59:44.645Z
+updated: 2024-12-30T05:37:59.955Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-add-auto-captions-to-instagram-stories-and-reels/"><u>[New] 2024 Approved How to Add Auto Captions to Instagram Stories and Reels?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>[New] In 2024, The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-game-changing-tactics-to-record-high-stakes-gameplay/"><u>[Updated] 2024 Approved Game-Changing Tactics to Record High-Stakes Gameplay</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>[Updated] 2024 Approved Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-drone-motor-choose-the-5-best-motors-for-your-quadcopter-for-2024/"><u>[Updated] Drone Motor Choose the 5 Best Motors for Your Quadcopter for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-a-compreranble-collection-of-game-logging-apps-transcending-fbx-limitations/"><u>2024 Approved A Compreranble Collection of Game Logging Apps Transcending FBX Limitations</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/activating-windows-defender-a-step-by-step-guide-protect-your-pc-with-ease/"><u>Activating Windows Defender: A Step-by-Step Guide - Protect Your PC with Ease</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mao-tse-tung-and-his-pivotal-role-as-leader-of-ccp-throughout-the-chinese-cultural-revolution/"><u>Mao Tse-Tung and His Pivotal Role as Leader of CCP Throughout the Chinese Cultural Revolution</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/professional-hd-graphics-authentic-imagery-of-the-audi-r18-le-mans-race-car-perfect-as-screen-savers-or-profile-pictures/"><u>Professional HD Graphics: Authentic Imagery of the Audi R18 Le Mans Race Car, Perfect as Screen Savers or Profile Pictures</u></a></li>
-<li><a href="https://games-able.techidaily.com/retroid-pocket-3plus-the-handbag-sized-retro-gaming-console/"><u>Retroid Pocket 3+: The Handbag-Sized Retro Gaming Console</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-printer-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Printer: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/urgent-advisory-from-philippine-authorities-on-red-tide-risks-do-not-catch-or-eat-affected-shellfish-says-pis-province-health-office/"><u>Urgent Advisory From Philippine Authorities on Red Tide Risks - Do Not Catch or Eat Affected Shellfish, Says Pis Province Health Office!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-premium-gopro-enhancements-guide/"><u>[New] Premium Gopro Enhancements Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screen-capture-central-apowsort-vs-competitors-explored/"><u>[New] Screen Capture Central Apowsort vs Competitors Explored</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-snapchat-savants-handbook-perfecting-every-boomerang/"><u>[Updated] In 2024, The Snapchat Savant's Handbook Perfecting Every Boomerang</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-streaming-gear-top-hd-360-cameras-compared/"><u>2024 Approved Elite Streaming Gear Top HD 360° Cameras Compared</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-strategies-for-diagnosing-and-fixing-hardware-problems-on-your-windows-pc-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing and Fixing Hardware Problems on Your Windows PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/el-replazo-libre-de-costo-para-macrium-reflect-la-opcion-ideal-para-windows-11-8-y-7/"><u>El Replazo Libre De Costo Para Macrium Reflect: La Opción Ideal Para Windows 11, 8 Y 7</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exclusive-bargain-upgrade-to-dex-3-plus-karaoke-for-a-splash-at-only-49-more/"><u>Exclusive Bargain – Upgrade to DEX 3 Plus Karaoke for a Splash at Only $49 More!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/experience-the-joy-of-easter-with-yl-softwares-premium-ultra-hd-static-background-images-in-4k/"><u>Experience the Joy of Easter with YL Software’s Premium Ultra HD Static Background Images in 4K</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-stop-bluetooth-on-windows-11/"><u>How to Stop Bluetooth On Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-there-a-fee-for-using-yls-cryptocurrency-wallet-balance-verification-feature/"><u>Is There a Fee for Using YL's Cryptocurrency Wallet Balance Verification Feature?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-restoration-modes-a-comprehensive-walkthrough/"><u>Mastering iPhone Restoration Modes: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/risks-and-rewards-can-boosting-your-graphics-card-lead-to-early-failures-explored-with-yl-software/"><u>Risks and Rewards: Can Boosting Your Graphics Card Lead to Early Failures? - Explored with YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-entering-your-pcs-bios-insights-from-yl-computing-experts/"><u>Step-by-Step Guide: Entering Your PC's BIOS - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-dawn-of-hostility-pinpointing-the-start-year-of-chinas-first-war-against-british-forces-with-expertise-from-yl-software-solutions/"><u>The Dawn of Hostility: Pinpointing the Start Year of China's First War Against British Forces with Expertise From YL Software Solutions</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-premier-voice-recorders-for-android-comprehensive-and-cost-free/"><u>Updated 2024 Approved Premier Voice Recorders for Android - Comprehensive and Cost-Free</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/why-does-my-screen-turn-black-on-windows-expert-answers-by-yl-computing/"><u>Why Does My Screen Turn Black on Windows? - Expert Answers by YL Computing</u></a></li>
 </ul></div>
 
