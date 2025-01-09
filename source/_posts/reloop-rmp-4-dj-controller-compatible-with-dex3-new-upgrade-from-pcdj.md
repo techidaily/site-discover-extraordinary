@@ -1,7 +1,7 @@
 ---
 title: "Reloop RMP-4 DJ Controller: Compatible with DEX3 - New Upgrade From PCDJ!"
-date: 2024-12-25T04:11:10.042Z
-updated: 2024-12-29T22:17:31.679Z
+date: 2025-01-02T02:51:16.141Z
+updated: 2025-01-08T16:27:53.630Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,24 +106,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[New] Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-stand-out-in-the-digital-realm-selecting-unique-youtube-channel-names/"><u>[Updated] 2024 Approved Stand Out in the Digital Realm Selecting Unique YouTube Channel Names</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-understanding-youtubes-monthly-revenue-options/"><u>[Updated] In 2024, Understanding YouTube's Monthly Revenue Options</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-indonesia-hosts-43rd-asean-summit-with-innovative-online-classes-and-remote-work-for-officials-ease-traffic-safeguard-leader-movement-yl-computing/"><u>1. Indonesia Hosts 43Rd ASEAN Summit with Innovative Online Classes & Remote Work for Officials: Ease Traffic, Safeguard Leader Movement - YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-13-mini-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 13 mini Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/choosing-the-perfect-gpu-for-maximum-performance-expert-advice-by-yl-software-team/"><u>Choosing the Perfect GPU for Maximum Performance: Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://extra-information.techidaily.com/color-contrast-reimagined-choosing-hdr-for-better-videos-for-2024/"><u>Color Contrast Reimagined Choosing HDR for Better Videos for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-effective-is-windows-defender-in-blocking-dangerous-applications-instantly/"><u>How Effective Is Windows Defender in Blocking Dangerous Applications Instantly?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-fix-spontaneous-shutdowns-and-restarts-on-your-computer-with-tips-from-yl-experts/"><u>How to Fix Spontaneous Shutdowns & Restarts on Your Computer with Tips From YL Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/introducing-enhanced-karaoke-experience-with-pcdjs-latest-software-additions-slideshows-and-promotions/"><u>Introducing Enhanced Karaoke Experience with PCDJ's Latest Software Additions: Slideshows and Promotions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-persuasion-in-proposals-using-chatgpt-techniques/"><u>Master the Art of Persuasion in Proposals Using ChatGPT Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/online-free-converter-transform-ram-into-mpeg-format-with-movavi/"><u>Online Free Converter: Transform RAM Into MPEG Format with Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/skype-troubleshooting-essential-advice-for-better-connectivity/"><u>Skype Troubleshooting: Essential Advice for Better Connectivity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y17s-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y17s Location | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-strategies-for-enhancing-your-pcs-efficiency-insights-from-yl-computing/"><u>Top Strategies for Enhancing Your PC's Efficiency: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-tough-hardware-problems-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting Tough Hardware Problems: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-network-adapter-drivers-insights-from-yl-computing/"><u>Troubleshooting Your Network Adapter Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/upcoming-trends-the-next-phase-of-pcdj-in-the-year-2nce-upon-a-time-2015/"><u>Upcoming Trends: The Next Phase of PCDJ in the Year 2Nce Upon a Time - 2015</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>[New] A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-past-through-youtube-top-10-for-students-and-enthusiasts-for-2024/"><u>[Updated] Mastering the Past Through YouTube Top 10 for Students & Enthusiasts for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-essential-dj-tools-and-techniques-infographic-your-ultimate-pcdj-guide/"><u>1. Essential DJ Tools and Techniques Infographic - Your Ultimate 'PCDJ Guide'</u></a></li>
+<li><a href="https://win-best.techidaily.com/6auy55s76loq5pig5yop44gu5zob6loq5zcr5lik5oml6acg77ya5a6m5ywo44ks44kk44oj/"><u>高画質映像の品質向上手順：完全ガイド</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-smart-8-plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Smart 8 Plus To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/pcdj-top-performer-in-featured-user-spotlight-leading-karaoke-platforms-and-software/"><u>PCDJ: Top Performer in Featured User Spotlight – Leading Karaoke Platforms & Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-your-printers-paper-jam-issue-expert-advice-from-yl-computing/"><u>Solving Your Printer's Paper Jam Issue: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-creating-free-dvds-from-wmv-videos-with-winx-dvd-author-software/"><u>Step-by-Step Tutorial on Creating Free DVDs From WMV Videos with WinX DVD Author Software</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/topo-8-de-herramientas-ai-para-la-rehabilitacion-digital-de-imagenes-clasicas-totalmente-gratis/"><u>Topo 8 De Herramientas AI Para La Rehabilitación Digital De Imágenes Clásicas, Totalmente Gratis</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-common-issues-why-wont-your-printer-print-correctly-insights-from-yl-computing/"><u>Troubleshooting Common Issues: Why Won't Your Printer Print Correctly? Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!
-date: 2024-12-23T22:36:02.667Z
-updated: 2024-12-30T03:21:05.999Z
+date: 2025-01-03T22:19:45.561Z
+updated: 2025-01-09T05:27:09.186Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,21 +95,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ro-tools-pro-results-elevating-video-quality-in-youtube-editing-for-2024/"><u>[New] Pro Tools, Pro Results Elevating Video Quality in YouTube Editing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-revitalized-interview-questions-for-listener-involvement/"><u>[New] Revitalized Interview Questions for Listener Involvement</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exploring-factors-behind-slow-system-responses-with-yl-software-experts/"><u>Exploring Factors Behind Slow System Responses with YL Software Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fixing-graphics-card-glitches-with-windows-11s-native-diagnostic-tools-a-guide-from-yl-software/"><u>Fixing Graphics Card Glitches with Windows 11'S Native Diagnostic Tools: A Guide From YL Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-f04-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy F04 Devices</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-malfunctioning-ram-expert-tips-from-yl-software-solutions/"><u>Identifying Malfunctioning RAM: Expert Tips From YL Software Solutions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/inaugural-vocal-augmented-communication-tool/"><u>Inaugural Vocal-Augmented Communication Tool</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/maximizing-your-gpu-efficiency-insights-from-yls-expert-team-at-yl-computing-and-yl-software/"><u>Maximizing Your GPU Efficiency: Insights From YL's Expert Team at YL Computing & YL Software</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/razers-kiyo-webcam-complete-overview-for-2024/"><u>Razer's Kiyo Webcam - Complete Overview for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-own-crypto-wallet-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Own Crypto Wallet: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/solutions-when-your-hard-drive-fails-expert-advice-from-yl-computing/"><u>Solutions When Your Hard Drive Fails: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-integrating-audio-backdrops-in-video-content-on-pcs-and-macs/"><u>Step-by-Step Guide: Integrating Audio Backdrops in Video Content on PCs and Macs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-cryptocurrency-oversight-a-guide-to-current-legal-structures-yl-computing/"><u>Understanding Cryptocurrency Oversight: A Guide to Current Legal Structures - YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>[New] 2024 Approved Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[New] In 2024, The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>[New] In 2024, Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[New] Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-capture-solutions-azs-reviews-and-backups-for-2024/"><u>[Updated] Comprehensive Capture Solutions - AZ's Reviews & Backups for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-markets-top-picks-premier-drone-gimbals/"><u>2024 Approved Market's Top Picks Premier Drone Gimbals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/beginners-booklet-on-backdrops-and-blending/"><u>Beginner's Booklet on Backdrops & Blending</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/easy-file-format-transformation-techniques-for-windows-users-yl-software-solutions/"><u>Easy File Format Transformation Techniques for Windows Users - YL Software Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/enhance-visual-appeal-adding-borders-in-social-media-vids-for-2024/"><u>Enhance Visual Appeal Adding Borders in Social Media Vids for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/revamped-karaoke-cloud-pro-your-new-favorite-djing-platform-is-back-with-exciting-updates/"><u>Revamped Karaoke Cloud Pro: Your New Favorite DJing Platform Is Back with Exciting Updates!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/securing-your-files-in-windows-a-step-by-step-guide-to-setting-passwords-expert-tips-from-yl-computing/"><u>Securing Your Files in Windows: A Step-by-Step Guide to Setting Passwords - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/setting-up-parent-safe-settings-on-your-pc-with-windows-11-a-step-by-step-guide/"><u>Setting Up Parent-Safe Settings on Your PC with Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-macos-system-booster-apps-recommended-by-tech-experts-at-zdnet/"><u>Top 5 MACOS System Booster Apps - Recommended by Tech Experts at ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2024-12-24T23:28:40.550Z
-updated: 2024-12-29T18:32:55.065Z
+date: 2025-01-01T22:41:42.009Z
+updated: 2025-01-09T01:46:34.163Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,20 +93,15 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-guide-to-record-games-on-windows-10-pc-for-2024/"><u>[New] Ultimate Guide to Record Games on Windows 10 PC for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-effortless-audio-volume-reduction-in-garageband/"><u>[Updated] In 2024, Effortless Audio Volume Reduction in Garageband</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>[Updated] Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-easy-steps-to-refresh-your-devices-drivers-via-windows-control-panel-tips-from-yl-computing/"><u>1. Easy Steps to Refresh Your Device's Drivers via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>2024 Approved The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/complete-minecraft-overview-a-revolutionary-creative-playground-suitable-for-everyone/"><u>Complete Minecraft Overview: A Revolutionary Creative Playground Suitable for Everyone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-nord-ce-3-lite-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Nord CE 3 Lite 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-can-you-broadcast-videos-without-infringing-laws-specifically-fb/"><u>In 2024, Can You Broadcast Videos Without Infringing Laws, Specifically FB?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/investors-react-positively-as-sandp-500-and-nasdaq-100-futures-climb-amid-interest-rate-hike-speculations-post-powell-remarks/"><u>Investors React Positively as S&P 500 and Nasdaq 100 Futures Climb Amid Interest Rate Hike Speculations Post-Powell Remarks</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-network-issues-comprehensive-fixes-and-tips/"><u>Resolving Windows Network Issues: Comprehensive Fixes & Tips</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/resolving-windows-pc-compatibility-issues-with-external-hardware-expert-advice-from-yl-computing/"><u>Resolving Windows PC Compatibility Issues with External Hardware - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-multiple-instances-problem-in-windows/"><u>Tackling 'Multiple Instances' Problem in Windows</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-scanner-drivers-solutions-when-installation-fails-expert-advice-from-yl-computings-tech-gurus/"><u>Troubleshooting Scanner Drivers: Solutions When Installation Fails - Expert Advice From YL Computing's Tech Gurus</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unlock-new-potentials-with-windows-10-custom-settings-discover-the-updates-by-yl-software-experts/"><u>Unlock New Potentials with Windows 10 Custom Settings - Discover the Updates by YL Software Experts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-downloading-and-installing-obs-for-macos-for-2024/"><u>[New] Step-by-Step Guide Downloading & Installing OBS for macOS for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-huge-discount-alert-top-tier-gaming-laptop-slashes-price-by-50-during-october-prime-day-insider-report/"><u>1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50% During October Prime Day - Insider Report</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-lgs-smart-tv-leap-discovering-the-bp550-update/"><u>2024 Approved LG's Smart TV Leap Discovering the BP550 Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-fixing-iphones-inability-to-upload-data-to-icloud-a-closer-look-at-9-techniques/"><u>Comprehensive Guide to Fixing iPhone's Inability to Upload Data to iCloud: A Closer Look at 9 Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-bouncie-drivelink-reviews-cost-effective-and-user-friendly-gps-navigation-system/"><u>Discover the Bouncie DriveLink Reviews: Cost-Effective & User-Friendly GPS Navigation System</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exclusive-bargain-upgrade-to-dex-3-plus-karaoke-for-a-splash-at-only-49-more/"><u>Exclusive Bargain – Upgrade to DEX 3 Plus Karaoke for a Splash at Only $49 More!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to others devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-windows-control-panel-a-comprehensive-guide-to-customize-desktop-settings-expert-advice-from-yl-software-solutions/"><u>Mastering Window's Control Panel: A Comprehensive Guide to Customize Desktop Settings - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reset-your-windows-pcs-network-adapter-a-step-by-step-guide-techtips-by-yl/"><u>Reset Your Windows PC's Network Adapter: A Step-by-Step Guide - TechTips by YL</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-entering-your-pcs-bios-insights-from-yl-computing-experts/"><u>Step-by-Step Guide: Entering Your PC's BIOS - Insights From YL Computing Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2024-12-24T18:26:58.116Z
-updated: 2024-12-29T21:40:44.681Z
+date: 2025-01-07T03:33:42.311Z
+updated: 2025-01-08T20:08:38.394Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,17 +88,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-video-dimensions-what-you-need-to-know/"><u>[Updated] In 2024, Twitter's Video Dimensions What You Need to Know</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-quick-guide-to-mac-screen-taking-techniques/"><u>[Updated] Quick Guide to MAC Screen Taking Techniques</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-pc-effective-techniques-to-boost-computer-performance-yl-computings-expert-guide/"><u>Accelerate Your PC: Effective Techniques to Boost Computer Performance - YL Computing's Expert Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/demystifying-youtubes-seo-a-keyword-research-guide/"><u>Demystifying YouTube's SEO A Keyword Research Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dive-into-she-hulks-world-of-justice-with-exclusive-4k-graphics-and-desktop-art-officially-licensed-from-yl-softwares-she-hulk-attorney-at-law-collection/"><u>Dive Into She-Hulk's World of Justice with Exclusive 4K Graphics and Desktop Art – Officially Licensed From YL Software’s ‘She-Hulk: Attorney At Law’ Collection</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/download-dex-34-the-latest-beatmixing-software-from-pcdj/"><u>Download DEX 3.4: The Latest Beatmixing Software From PCDJ</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-effective-is-windows-defender-in-blocking-dangerous-applications-instantly/"><u>How Effective Is Windows Defender in Blocking Dangerous Applications Instantly?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>In 2024, The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>In 2024, Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-solutions-for-windows-network-interface-device-errors-from-expert-source-yl-software/"><u>Step-by-Step Solutions for Windows Network Interface Device Errors From Expert Source, YL Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-video-capture-expert-tips-for-obs-on-android/"><u>[New] 2024 Approved Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>[New] The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-visual-narratives-with-youtube-studios-editing-suite/"><u>[Updated] 2024 Approved Crafting Visual Narratives with YouTube Studio's Editing Suite</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-eyeball-enticer-titan-master-for-2024/"><u>[Updated] Eyeball Enticer Titan Master for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-peeking-behind-the-screen-instagram-audience-explorer/"><u>[Updated] In 2024, Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-memories-mobile-recording-tips/"><u>[Updated] Securing Your Snapchat Memories Mobile Recording Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-computer-top-components-for-significant-speed-enhancements/"><u>Accelerate Your Computer: Top Components for Significant Speed Enhancements</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-methods-for-eradicating-harmful-programs-from-your-computer-guidance-by-yl-tech-solutions/"><u>Effective Methods for Eradicating Harmful Programs From Your Computer - Guidance by YL Tech Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs-for-2024/"><u>From Inconsistent Exports Securing Smooth SRT Outputs for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/immerse-your-workspace-in-crisp-visuals-1920x1080-high-fidelity-wallpaper-collections-powered-by-yl-software-solutions/"><u>Immerse Your Workspace in Crisp Visuals: 1920X1080 High Fidelity Wallpaper Collections Powered by YL Software Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-insiders-guide-to-elevating-conference-calls-with-effects-and-masks/"><u>In 2024, The Insider's Guide to Elevating Conference Calls with Effects and Masks</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/investors-react-positively-as-sandp-500-and-nasdaq-100-futures-climb-amid-interest-rate-hike-speculations-post-powell-remarks/"><u>Investors React Positively as S&P 500 and Nasdaq 100 Futures Climb Amid Interest Rate Hike Speculations Post-Powell Remarks</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-your-graphic-processor-malfunctioning-diagnose-with-help-from-yl-software-solutions/"><u>Is Your Graphic Processor Malfunctioning? Diagnose with Help From YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-album-aesthetics-how-cover-art-shapes-your-music-selection-process/"><u>Reviving Album Aesthetics: How Cover Art Shapes Your Music Selection Process</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-common-printer-issues-a-step-by-step-guide-yl-computing/"><u>Solving Common Printer Issues: A Step-by-Step Guide - YL Computing</u></a></li>
 </ul></div>
 

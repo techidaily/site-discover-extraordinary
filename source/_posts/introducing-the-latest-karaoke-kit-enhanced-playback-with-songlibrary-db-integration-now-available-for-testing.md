@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Latest Karaoke Kit: Enhanced Playback with SongLibrary DB Integration Now Available for Testing"
-date: 2024-12-24T22:12:20.622Z
-updated: 2024-12-29T21:16:06.569Z
+date: 2025-01-06T03:19:08.465Z
+updated: 2025-01-09T13:09:12.932Z
 tags:
   - product
 categories:
@@ -74,7 +74,7 @@ ALL BETA REPORTS FOR KARAOKI CAN BE POSTED [HERE ON THE PCDJ FORUM](https://tool
 #### To Gain Access To The SongbookDB Custom PCDJ Plug-In, Fill Out The Form Below. We Will Get Back To You Shortly With Testing Details
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -96,20 +96,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/karaokibeta-songbookdbcove
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-elite-hd-video-capture-software-listings/"><u>[New] 2024 Approved Elite HD Video Capture Software Listings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-what-every-independent-youtuber-should-know-about-mcns/"><u>[Updated] In 2024, What Every Independent YouTuber Should Know About MCNs</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-thorough-examination-of-jabra-talk-45s-clear-communication-dependable-power/"><u>A Thorough Examination of Jabra Talk 45'S Clear Communication, Dependable Power</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/all-in-one-dj-experience-dive-into-pcdjs-built-in-karaoke-plus-monthly-membership/"><u>All-in-One DJ Experience: Dive Into PCDJ's Built-In Karaoke Plus Monthly Membership!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy-for-2024/"><u>Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-seamlessly-how-to-resolve-your-stadia-headsets-pairing-difficulties/"><u>Connecting Seamlessly: How to Resolve Your Stadia Headset’s Pairing Difficulties</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-effective-is-windows-defender-at-identifying-threats-in-your-system-expert-advice-from-yl-software-experts/"><u>How Effective Is Windows Defender at Identifying Threats in Your System? - Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-a-defective-gpu-expert-tips-from-yl-computing/"><u>Identifying a Defective GPU - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/pioneer-dj-wego4-advanced-controller-with-dex-n-support-and-downloadable-maps-for-ace-mixing/"><u>Pioneer DJ WeGo4 Advanced Controller with DEX N Support & Downloadable Maps for Ace Mixing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-setting-up-your-printer-with-any-pc-insights-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Printer with Any PC - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-scanner-fixing-inaccurate-size-readings-insights-from-yl-computing/"><u>Troubleshooting Your Scanner: Fixing Inaccurate Size Readings - Insights From YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/vn-video-editor-apk-review/"><u>VN Video Editor Apk Review</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-software-analyzes-patterns-in-pc-utilization-time-understanding-how-long-you-use-your-computer-per-day-by-yl-computing/"><u>YL Software Analyzes Patterns in PC Utilization Time: Understanding How Long You Use Your Computer Per Day by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-through-your-instagram-post-eye-balls/"><u>[Updated] 2024 Approved Navigating Through Your Instagram Post Eye-Balls</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-add-subtitles-to-vimeo-videos-for-2024/"><u>[Updated] How to Add Subtitles to Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-guide-to-implementing-speech-transcription-in-powerpoint/"><u>2024 Approved Simplified Guide to Implementing Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-for-effective-free-timer-utilization/"><u>2024 Approved The Essentials for Effective Free Timer Utilization</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/eye-catching-ford-mustang-18-widewall-hd-images-and-icons-designed-by-yl-tech-solutions/"><u>Eye-Catching Ford Mustang '18 Widewall HD Images & Icons Designed by YL Tech Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-airwaves-to-iphone-essential-knowledge-on-podcast-downloads-for-2024/"><u>From Airwaves to iPhone Essential Knowledge on Podcast Downloads for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-samsung-galaxy-a24-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Samsung Galaxy A24 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-personalize-control-panel-content-tips-by-yl-computing/"><u>How to Personalize Control Panel Content - Tips by YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-it-necessary-to-combine-additional-anti-virus-programs-with-windows-defender-expert-advice-from-yl-computings-security-specialists/"><u>Is It Necessary To Combine Additional Anti-Virus Programs With Windows Defender? - Expert Advice From YL Computing's Security Specialists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production-for-2024/"><u>Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/premium-music-mixing-suite-download-the-latest-pcdj-dex-3171-software-today/"><u>Premium Music Mixing Suite: Download the Latest PCDJ Dex 3.17.1 Software Today!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/recognizing-signs-of-a-deteriorating-hard-disk-tips-and-tricks-from-yl-computing/"><u>Recognizing Signs of a Deteriorating Hard Disk: Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-motorola-one-5g-ace-unmatched-5g-connectivity-and-long-lasting-battery-performance/"><u>Review of Motorola One 5G Ace: Unmatched 5G Connectivity and Long-Lasting Battery Performance</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/unveiling-the-moment-how-and-when-did-the-chinese-communist-party-ascend-to-authority-insights-from-yl-computing/"><u>Unveiling the Moment: How and When Did the Chinese Communist Party Ascend to Authority - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/white-snake-myth-inspired-wallpaper-and-image-collections-premium-designs-by-yl-computing/"><u>White Snake Myth Inspired Wallpaper & Image Collections: Premium Designs by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-softwares-premium-overwatch-widescreen-visuals-for-pc-hd-wallpaper-and-background-pack/"><u>YL Software's Premium Overwatch Widescreen Visuals for PC: HD Wallpaper & Background Pack</u></a></li>
 </ul></div>
 

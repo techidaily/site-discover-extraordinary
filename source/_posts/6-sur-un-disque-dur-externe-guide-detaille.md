@@ -1,7 +1,7 @@
 ---
 title: 6 Sur Un Disque Dur Externe - Guide Détaillé
-date: 2024-12-25T19:56:27.709Z
-updated: 2024-12-29T20:03:07.321Z
+date: 2025-01-06T09:55:09.250Z
+updated: 2025-01-09T10:39:26.398Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3659bdf5766d705fbc85be65.jpg
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -61,10 +69,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -78,7 +82,7 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
@@ -93,10 +97,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -109,10 +109,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,6 +116,14 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -136,10 +140,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -166,7 +166,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -180,7 +180,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,19 +198,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>[New] 2024 Approved Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-income-through-effective-video-marketing/"><u>[Updated] 2024 Approved Boosting Income Through Effective Video Marketing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-9gag-pathway-to-piling-up-popular-memes/"><u>2024 Approved The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-c50-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco C50 to Roku | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/comparing-process-insights-distinguishing-process-intelligence-from-traditional-business-analytics/"><u>Comparing Process Insights: Distinguishing Process Intelligence From Traditional Business Analytics</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/constructing-a-legacy-tracing-genghis-khans-creation-of-the-mongol-empire-with-yl-software-expert-analysis/"><u>Constructing a Legacy: Tracing Genghis Khan’s Creation of the Mongol Empire with YL Software Expert Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-spiritual-soundtracks-where-to-find-christian-tunes/"><u>In 2024, Spiritual Soundtracks Where to Find Christian Tunes</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/printer-wont-power-up-expert-guide-from-yl-software-to-fix-common-issues/"><u>Printer Won't Power Up? Expert Guide From YL Software to Fix Common Issues</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/replenish-your-print-quality-a-guide-to-fix-low-or-no-ink-problems-with-tips-from-yl-software-experts/"><u>Replenish Your Print Quality! A Guide to Fix Low or No-Ink Problems with Tips From YL Software Experts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/stepwise-discovery-of-covert-youtube-archives/"><u>Stepwise Discovery of Covert YouTube Archives</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/the-insight-into-digital-wallets-mechanics-benefits-and-yls-perspective-from-the-tech-experts-at-yl-software/"><u>The Insight Into Digital Wallets: Mechanics, Benefits, and YL's Perspective From the Tech Experts at YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-chinas-reaction-to-the-1949-revolutionary-shift-in-power-a-comprehensive-breakdown/"><u>Understanding China’s Reaction to the 1949 Revolutionary Shift in Power - A Comprehensive Breakdown</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-reno-11f-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Reno 11F 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-revisit-facebooks-top-watches-a-step-by-step/"><u>[New] 2024 Approved Revisit Facebook's Top Watches A Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-how-to-edit-youtube-videos-in-sony-vegas/"><u>[New] In 2024, How to Edit YouTube Videos in Sony Vegas</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-leading-list-where-to-find-gamers-music-without-costs/"><u>[Updated] 2024 Approved The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-detailed-guide-to-minecraft-live-broadcasting-for-2024/"><u>[Updated] Detailed Guide to Minecraft Live Broadcasting for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/iphoneitunes/"><u>最新手順：iPhoneに曲を簡単に移動する方法！iTunes無用</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/convert-your-dvds-into-high-quality-mkv-files-the-ultimate-guide/"><u>Convert Your DVDs Into High-Quality MKV Files: The Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-gameplay-with-ai-driven-frame-rate-upscaling-improve-fps-and-ensure-seamless-visuals/"><u>Enhance Gameplay with AI-Driven Frame Rate Upscaling: Improve FPS and Ensure Seamless Visuals</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/enhancing-image-quality-in-print-the-benefits-of-600-dpi-over-300-dpi/"><u>Enhancing Image Quality in Print - The Benefits of 600 DPI over ➡️ 300 DPI</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ripping-dvds-and-adding-custom-subtitle-tracks-for-multilingual-viewing/"><u>Ripping DVDs and Adding Custom Subtitle Tracks for Multilingual Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-embedding-company-imagery-in-video-posts-for-2024/"><u>Step-by-Step Guide Embedding Company Imagery in Video Posts for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/transform-your-videos-into-high-definition-masterpieces-with-winxvideo-ai-technology/"><u>Transform Your Videos Into High-Definition Masterpieces with Winxvideo AI Technology</u></a></li>
 </ul></div>
 
