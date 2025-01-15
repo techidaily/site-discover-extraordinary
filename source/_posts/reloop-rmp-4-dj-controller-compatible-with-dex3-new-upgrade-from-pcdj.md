@@ -1,7 +1,7 @@
 ---
 title: "Reloop RMP-4 DJ Controller: Compatible with DEX3 - New Upgrade From PCDJ!"
-date: 2025-01-02T02:51:16.141Z
-updated: 2025-01-08T16:27:53.630Z
+date: 2025-01-10T01:12:28.053Z
+updated: 2025-01-15T01:23:14.238Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,16 +106,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>[New] A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-past-through-youtube-top-10-for-students-and-enthusiasts-for-2024/"><u>[Updated] Mastering the Past Through YouTube Top 10 for Students & Enthusiasts for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-essential-dj-tools-and-techniques-infographic-your-ultimate-pcdj-guide/"><u>1. Essential DJ Tools and Techniques Infographic - Your Ultimate 'PCDJ Guide'</u></a></li>
-<li><a href="https://win-best.techidaily.com/6auy55s76loq5pig5yop44gu5zob6loq5zcr5lik5oml6acg77ya5a6m5ywo44ks44kk44oj/"><u>高画質映像の品質向上手順：完全ガイド</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-smart-8-plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Smart 8 Plus To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/pcdj-top-performer-in-featured-user-spotlight-leading-karaoke-platforms-and-software/"><u>PCDJ: Top Performer in Featured User Spotlight – Leading Karaoke Platforms & Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/solving-your-printers-paper-jam-issue-expert-advice-from-yl-computing/"><u>Solving Your Printer's Paper Jam Issue: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-creating-free-dvds-from-wmv-videos-with-winx-dvd-author-software/"><u>Step-by-Step Tutorial on Creating Free DVDs From WMV Videos with WinX DVD Author Software</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/topo-8-de-herramientas-ai-para-la-rehabilitacion-digital-de-imagenes-clasicas-totalmente-gratis/"><u>Topo 8 De Herramientas AI Para La Rehabilitación Digital De Imágenes Clásicas, Totalmente Gratis</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-common-issues-why-wont-your-printer-print-correctly-insights-from-yl-computing/"><u>Troubleshooting Common Issues: Why Won't Your Printer Print Correctly? Insights From YL Computing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-improving-zoom-video-quality-essential-tips/"><u>[New] 2024 Approved Improving Zoom Video Quality Essential Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-simplified-guide-to-using-virtual-whiteboards-in-zoom-platforms/"><u>[Updated] 2024 Approved Simplified Guide to Using Virtual Whiteboards in Zoom Platforms</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/xcopyrobocopy/"><u>複製最近時間文件的高效方式： XCopy、Robocopy及其他技術</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/immediate-access-comprehensive-windows-10-troubleshooting-guide-free-downloadable-pdf/"><u>Immediate Access: Comprehensive Windows 10 Troubleshooting Guide - Free Downloadable PDF</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-grasping-video-aspect-ratios-a-beginners-tale/"><u>In 2024, Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-no-cash-only-computers-recording-youtube-video-playback-for-screenshots/"><u>In 2024, No Cash, Only Computers Recording YouTube Video Playback for Screenshots</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-dvd-ripping-convert-your-movies-into-hd-wmv-format-using-windows-tools/"><u>Mastering DVD Ripping: Convert Your Movies Into HD WMV Format Using Windows Tools</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/page-unavailable-error-404-what-to-do-next/"><u>Page Unavailable Error 404 – What To Do Next?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886273999-qled-vs-oled-tvs-understanding-the-key-distinctions/"><u>QLED Vs. OLED TVs: Understanding The Key Distinctions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-your-lg-devices-channel-options/"><u>Understanding Your LG Device's Channel Options</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/une-solution-fiable-pour-le-transfert-de-donnees-rapides-dun-pc-a-un-autre/"><u>Une Solution Fiable Pour Le Transfert De Données Rapides D'un PC À Un Autre</u></a></li>
 </ul></div>
 

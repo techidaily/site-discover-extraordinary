@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2025-01-04T02:02:50.343Z
-updated: 2025-01-09T07:57:03.336Z
+date: 2025-01-13T01:22:46.380Z
+updated: 2025-01-15T06:57:06.542Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ However, there are 2 general deck selections under the General Tab in options yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
@@ -42,11 +42,11 @@ However, there are 2 general deck selections under the General Tab in options yo
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,19 +68,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-slow-mo-camera-apps-for-iphoneandroid-users/"><u>[New] Leading Slow Mo Camera Apps for iPhone/Android Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-your-photos-with-text-tips-for-adding-titles-in-microsoft-photos/"><u>[New] Perfect Your Photos with Text Tips for Adding Titles in Microsoft Photos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoid-blur-and-clarity-issues-zooming-techniques-with-videoleap/"><u>[Updated] Avoid Blur and Clarity Issues Zooming Techniques with Videoleap</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[Updated] In 2024, The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-subtitle-integration-on-instagram-tv/"><u>[Updated] Mastering Subtitle Integration on Instagram TV</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/accessing-your-computers-control-panel-in-windows-with-ease-yl-software-solutions/"><u>Accessing Your Computer's Control Panel in Windows with Ease - YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/constructing-a-legacy-tracing-genghis-khans-creation-of-the-mongol-empire-with-yl-software-expert-analysis/"><u>Constructing a Legacy: Tracing Genghis Khan’s Creation of the Mongol Empire with YL Software Expert Analysis</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/fast-track-file-finding-tips-on-windows-or-mac-with-yl-softwares-expert-advice/"><u>Fast-Track File Finding Tips on Windows or Mac with YL Software's Expert Advice</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/holding-firm-asti-holdings-confirms-timely-shareholders-assembly-despite-risk-of-delisting-cited-by-four-investors-expert-commentary-by-yl-computing-yl-soft58/"><u>Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-enhance-your-pcs-speed-with-expert-recommended-software-and-tools-tips-from-yl-solutions/"><u>How to Enhance Your PC's Speed with Expert-Recommended Software and Tools - Tips From YL Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-image-format-change-with-dall-e-webp-output/"><u>Mastering Image Format Change with DALL-E WebP Output</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-insights-for-placement-of-software-shortcuts-on-taskbar/"><u>Quick Insights for Placement of Software Shortcuts on Taskbar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/record-desktop-on-windows-3-simple-cost-free-methods-for-2024/"><u>Record Desktop on Windows 3 Simple, Cost-Free Methods for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/understanding-chinas-reaction-to-the-1949-revolutionary-shift-in-power-a-comprehensive-breakdown/"><u>Understanding China’s Reaction to the 1949 Revolutionary Shift in Power - A Comprehensive Breakdown</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>[New] 2024 Approved A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-look-at-obs-studios-full-screen-recorder-tools/"><u>[New] 2024 Approved In-Depth Look at OBS Studio's Full Screen Recorder Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>[Updated] 2024 Approved Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-guide-for-snapchat-business-for-2024/"><u>[Updated] Guide for Snapchat Business for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/como-hacer-una-copia-de-seguridad-en-windows-11-hacia-un-dispositivo-nas-qnap-guia-paso-a-paso/"><u>Cómo Hacer Una Copia De Seguridad en Windows 11 Hacia Un Dispositivo NAS QNAP - Guía Paso a Paso</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/fixing-common-issues-how-to-repair-your-pc-on-windows-10/"><u>Fixing Common Issues: How to Repair Your PC on Windows 10</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-do-formatting-and-deleting-distinguish-themselves-when-it-comes-to-sd-cards/"><u>How Do Formatting & Deleting Distinguish Themselves When It Comes To SD Cards?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-favorites-top-10-tiktok-vids/"><u>In 2024, Twitter's Favorites Top 10 TikTok Vids</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unlocking-the-world-of-sound-on-ios-apple-point-and-click-guide/"><u>In 2024, Unlocking the World of Sound on iOS Apple' Point-and-Click Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/quickly-restore-missing-items-in-outlook-discover-5-straightforward-methods/"><u>Quickly Restore Missing Items in Outlook: Discover 5 Straightforward Methods!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-photo-retrieval-tool-easy-deleted-image-restoration/"><u>Ultimate iPhone Photo Retrieval Tool: Easy Deleted Image Restoration</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/wiederherstellen-des-gesperrten-admin-zugriffs-in-windows-define-windows10-myrecovery-expertentechniken/"><u>Wiederherstellen Des Gesperrten Admin-Zugriffs in Windows #define WINDOWS_10 | MyRecovery-Expertentechniken</u></a></li>
 </ul></div>
 

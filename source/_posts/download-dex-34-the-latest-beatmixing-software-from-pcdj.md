@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2025-01-01T22:41:42.009Z
-updated: 2025-01-09T01:46:34.163Z
+date: 2025-01-09T00:42:23.728Z
+updated: 2025-01-14T23:48:24.605Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,15 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-downloading-and-installing-obs-for-macos-for-2024/"><u>[New] Step-by-Step Guide Downloading & Installing OBS for macOS for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1-huge-discount-alert-top-tier-gaming-laptop-slashes-price-by-50-during-october-prime-day-insider-report/"><u>1. Huge Discount Alert: Top-Tier Gaming Laptop Slashes Price by 50% During October Prime Day - Insider Report</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-lgs-smart-tv-leap-discovering-the-bp550-update/"><u>2024 Approved LG's Smart TV Leap Discovering the BP550 Update</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-guide-to-fixing-iphones-inability-to-upload-data-to-icloud-a-closer-look-at-9-techniques/"><u>Comprehensive Guide to Fixing iPhone's Inability to Upload Data to iCloud: A Closer Look at 9 Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-bouncie-drivelink-reviews-cost-effective-and-user-friendly-gps-navigation-system/"><u>Discover the Bouncie DriveLink Reviews: Cost-Effective & User-Friendly GPS Navigation System</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/exclusive-bargain-upgrade-to-dex-3-plus-karaoke-for-a-splash-at-only-49-more/"><u>Exclusive Bargain – Upgrade to DEX 3 Plus Karaoke for a Splash at Only $49 More!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-2020-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE (2020) to others devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-windows-control-panel-a-comprehensive-guide-to-customize-desktop-settings-expert-advice-from-yl-software-solutions/"><u>Mastering Window's Control Panel: A Comprehensive Guide to Customize Desktop Settings - Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reset-your-windows-pcs-network-adapter-a-step-by-step-guide-techtips-by-yl/"><u>Reset Your Windows PC's Network Adapter: A Step-by-Step Guide - TechTips by YL</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-entering-your-pcs-bios-insights-from-yl-computing-experts/"><u>Step-by-Step Guide: Entering Your PC's BIOS - Insights From YL Computing Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fast-tip-mastering-green-screen-techniques-for-2024/"><u>[New] Fast Tip Mastering Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[Updated] Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-digital-notepad-delight-photography-enhancers/"><u>2024 Approved Digital Notepad Delight Photography Enhancers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/clon-de-inicializacion-de-windows-easy-con-estas-4-acciones-faciles/"><u>Clon De Inicialización De Windows Easy Con Estas 4 Acciones Fáciles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/essential-photo-frame-apps-the-leaders-of-2024/"><u>Essential Photo Frame Apps - The Leaders of 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/f11aomei-onekey/"><u>F11鍵如何使用AOMEI OneKey恢復功能，全面教程解決方法</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/hilfe-laufwerk-c-ist-voll-effektive-methoden-zum-freischaffen-von-festplattenplatz/"><u>Hilfe! Laufwerk C Ist Voll - Effektive Methoden Zum Freischaffen Von Festplattenplatz</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-10-stellar-tools-that-amplify-your-videos-youtube-presence/"><u>In 2024, 10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/obs-streaming-windows-and-mac-guide-for-2024/"><u>OBS Streaming [Windows and Mac Guide] for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solution-arc-blow-becomes-particularly-significant-when-using-150v-to-320v-in-low-voltage-gmaw-processes-with-a-constant-current-power-source-and-positive-p160/"><u>Solution: Arc Blow Becomes Particularly Significant when Using 150V to 320V in Low-Voltage GMAW Processes with a Constant Current Power Source and Positive Polarity Welding Wire</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/terjemahan-parti-pulihan-dan-format-data-dalam-windows-11-metode-tiga/"><u>Terjemahan Parti Pulihan Dan Format Data Dalam Windows 11: Metode Tiga</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-non-wd-solutions-advanced-replacement-software-for-windows-11-users/"><u>Top Non-WD Solutions: Advanced Replacement Software for Windows 11 Users</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/weitergabe-von-outlook-kontaktinformationen-auf-externer-speichermedium-gesichert-befolgen-professionelle-tipps-und-tricks/"><u>Weitergabe Von Outlook-Kontaktinformationen Auf Externer Speichermedium Gesichert Befolgen: Professionelle Tipps Und Tricks</u></a></li>
 </ul></div>
 

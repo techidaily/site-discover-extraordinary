@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2025-01-07T03:33:42.311Z
-updated: 2025-01-08T20:08:38.394Z
+date: 2025-01-13T08:54:46.209Z
+updated: 2025-01-14T18:23:10.068Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,21 +88,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-video-capture-expert-tips-for-obs-on-android/"><u>[New] 2024 Approved Effortless Video Capture Expert Tips for OBS on Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>[New] The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-crafting-visual-narratives-with-youtube-studios-editing-suite/"><u>[Updated] 2024 Approved Crafting Visual Narratives with YouTube Studio's Editing Suite</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-eyeball-enticer-titan-master-for-2024/"><u>[Updated] Eyeball Enticer Titan Master for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-peeking-behind-the-screen-instagram-audience-explorer/"><u>[Updated] In 2024, Peeking Behind the Screen Instagram Audience Explorer</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-securing-your-snapchat-memories-mobile-recording-tips/"><u>[Updated] Securing Your Snapchat Memories Mobile Recording Tips</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-computer-top-components-for-significant-speed-enhancements/"><u>Accelerate Your Computer: Top Components for Significant Speed Enhancements</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effective-methods-for-eradicating-harmful-programs-from-your-computer-guidance-by-yl-tech-solutions/"><u>Effective Methods for Eradicating Harmful Programs From Your Computer - Guidance by YL Tech Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs-for-2024/"><u>From Inconsistent Exports Securing Smooth SRT Outputs for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/immerse-your-workspace-in-crisp-visuals-1920x1080-high-fidelity-wallpaper-collections-powered-by-yl-software-solutions/"><u>Immerse Your Workspace in Crisp Visuals: 1920X1080 High Fidelity Wallpaper Collections Powered by YL Software Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-insiders-guide-to-elevating-conference-calls-with-effects-and-masks/"><u>In 2024, The Insider's Guide to Elevating Conference Calls with Effects and Masks</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/investors-react-positively-as-sandp-500-and-nasdaq-100-futures-climb-amid-interest-rate-hike-speculations-post-powell-remarks/"><u>Investors React Positively as S&P 500 and Nasdaq 100 Futures Climb Amid Interest Rate Hike Speculations Post-Powell Remarks</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-your-graphic-processor-malfunctioning-diagnose-with-help-from-yl-software-solutions/"><u>Is Your Graphic Processor Malfunctioning? Diagnose with Help From YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reviving-album-aesthetics-how-cover-art-shapes-your-music-selection-process/"><u>Reviving Album Aesthetics: How Cover Art Shapes Your Music Selection Process</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/solving-common-printer-issues-a-step-by-step-guide-yl-computing/"><u>Solving Common Printer Issues: A Step-by-Step Guide - YL Computing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-allure-comprehensive-beauty-how-tos-on-youtube/"><u>[New] 2024 Approved Unveiling Allure Comprehensive Beauty How-Tos on Youtube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-first-moments-that-foster-interest-in-audios-for-2024/"><u>[Updated] First Moments that Foster Interest in Audios for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/efficiently-managing-startup-programs-a-guide-by-yl-computing-and-software/"><u>Efficiently Managing Startup Programs: A Guide by YL Computing & Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/how-to-fix-nvidia-geforce-error-0x0003-a-comprehensive-guide/"><u>How to Fix NVIDIA GeForce Error 0X0003 - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-the-basics-of-synchronization-with-dex-3-your-ultimate-guide-and-video-lessons/"><u>Mastering the Basics of Synchronization with DEX 3: Your Ultimate Guide & Video Lessons</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/overcoming-windows-hardware-setup-issues-expert-advice-and-solutions-from-yl-software/"><u>Overcoming Windows Hardware Setup Issues: Expert Advice & Solutions From YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/price-tag-shooting-your-next-music-video/"><u>Price Tag Shooting Your Next Music Video</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/simplify-your-web-to-excel-conversion-save-any-webpage-info-quickly-with-the-power-of-yl-web-scraper-yl-software-innovation/"><u>Simplify Your Web-to-Excel Conversion: Save Any Webpage Info Quickly with the Power of YL Web Scraper - YL Software Innovation</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/troubleshooting-hidden-hard-drives-on-windows-systems-expert-advice-by-yl-software/"><u>Troubleshooting Hidden Hard Drives on Windows Systems: Expert Advice by YL Software</u></a></li>
 </ul></div>
 

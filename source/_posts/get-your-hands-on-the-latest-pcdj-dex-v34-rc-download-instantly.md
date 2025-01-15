@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!
-date: 2025-01-03T22:19:45.561Z
-updated: 2025-01-09T05:27:09.186Z
+date: 2025-01-08T02:19:24.080Z
+updated: 2025-01-15T03:01:23.947Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,18 +95,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-detailed-methods-to-convert-tiktok-melodies-into-phone-ringtones/"><u>[New] 2024 Approved Detailed Methods to Convert TikTok Melodies Into Phone Ringtones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-screencast-lifeline-crucial-knowledge-for-success/"><u>[New] In 2024, The Screencast Lifeline Crucial Knowledge for Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>[New] In 2024, Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-power-of-instagram-stories-with-this-essential-guide/"><u>[New] Unlocking the Power of Instagram Stories with This Essential Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-capture-solutions-azs-reviews-and-backups-for-2024/"><u>[Updated] Comprehensive Capture Solutions - AZ's Reviews & Backups for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-markets-top-picks-premier-drone-gimbals/"><u>2024 Approved Market's Top Picks Premier Drone Gimbals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/beginners-booklet-on-backdrops-and-blending/"><u>Beginner's Booklet on Backdrops & Blending</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/easy-file-format-transformation-techniques-for-windows-users-yl-software-solutions/"><u>Easy File Format Transformation Techniques for Windows Users - YL Software Solutions</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/enhance-visual-appeal-adding-borders-in-social-media-vids-for-2024/"><u>Enhance Visual Appeal Adding Borders in Social Media Vids for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/revamped-karaoke-cloud-pro-your-new-favorite-djing-platform-is-back-with-exciting-updates/"><u>Revamped Karaoke Cloud Pro: Your New Favorite DJing Platform Is Back with Exciting Updates!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/securing-your-files-in-windows-a-step-by-step-guide-to-setting-passwords-expert-tips-from-yl-computing/"><u>Securing Your Files in Windows: A Step-by-Step Guide to Setting Passwords - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-parent-safe-settings-on-your-pc-with-windows-11-a-step-by-step-guide/"><u>Setting Up Parent-Safe Settings on Your PC with Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-macos-system-booster-apps-recommended-by-tech-experts-at-zdnet/"><u>Top 5 MACOS System Booster Apps - Recommended by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-master-the-art-of-choosing-best-rated-church-streams/"><u>[Updated] 2024 Approved Master the Art of Choosing Best-Rated Church Streams</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/12-effektive-methoden-zur-umwandlung-von-vob-dateien-ins-mp4-format-update-fur-2023/"><u>12 Effektive Methoden Zur Umwandlung Von VOB-Dateien Ins MP4 Format - Update Für 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-mastery-for-game-dominance-in-free-fire/"><u>2024 Approved Melodic Mastery for Game Dominance in Free Fire</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-ai-ally-six-ways-to-elevate-data-analysis-techniques/"><u>ChatGPT as Your AI Ally: Six Ways to Elevate Data Analysis Techniques</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/conversion-facil-de-vob-con-proteccion-al-mp4-tutorial-para-sistemas-windows-nnovadoras-e-imacs/"><u>Conversión Fácil De VOB Con Protección Al MP4: Tutorial Para Sistemas Windows Nnovadoras E iMacs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descubra-metodos-faciles-de-convertir-archivo-wmv-en-formato-mp4-sin-gastar-un-centavo-soluciones-optimas-para-sistemas-windows-and-mac/"><u>Descubra Métodos Fáciles De Convertir Archivo WMV en Formato MP4 Sin Gastar Un Centavo: Soluciones Óptimas Para Sistemas Windows & Mac</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/from-past-to-present-unveiling-the-remarkable-enhancements-in-windows-1er-compared-to-xp/"><u>From Past to Present: Unveiling the Remarkable Enhancements in Windows 1Er Compared to XP</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-the-green-screen-essential-techniques/"><u>Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/stepwise-strategy-editing-multi-snap-chats-with-ease-for-2024/"><u>Stepwise Strategy Editing Multi-Snap Chats with Ease for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/title-ai-powered-treatment-personalization-tailoring-care-for-better-results/"><u>Title: AI-Powered Treatment Personalization - Tailoring Care for Better Results</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-your-channels-premium-cost-free-intro-makers-for-2024/"><u>Unleash Your Channels Premium, Cost-Free Intro Makers for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/winxvideo-ai-advanced-image-and-video-enhancement-tools/"><u>Winxvideo AI - Advanced Image and Video Enhancement Tools</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/winxvideo-transformez-toute-video-et-audio-en-accelerant-sa-vitesse-avec-la-puissance-du-gpu/"><u>Winxvideo: Transformez Toute Vidéo Et Audio en Accélérant Sa Vitesse Avec La Puissance Du GPU</u></a></li>
 </ul></div>
 
