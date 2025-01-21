@@ -1,7 +1,7 @@
 ---
 title: "Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software"
-date: 2025-01-11T09:00:11.342Z
-updated: 2025-01-14T18:06:00.532Z
+date: 2025-01-20T09:30:51.069Z
+updated: 2025-01-21T01:13:43.425Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-engage-listeners-with-well-crafted-podcast-summaries/"><u>[New] 2024 Approved Engage Listeners with Well-Crafted Podcast Summaries</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-igtv-a-beginners-primer-for-social-media-success/"><u>[New] In 2024, Exploring IGTV A Beginner's Primer for Social Media Success</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva-for-2024/"><u>[New] Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] 2024 Approved Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1728481164905-ssd/"><u>自分で消去したSSDデータを取り戻す究極のガイド：完全復元方法</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/aomei-backupper-vs-acronis-true-image-comprehensive-comparison-which-is-superior-for-your-needs/"><u>AOMEI Backupper Vs. Acronis True Image: Comprehensive Comparison – Which Is Superior for Your Needs?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/come-recuperare-una-partizione-eliminata-accidentalmente-su-windows-10-o-11/"><u>Come Recuperare Una Partizione Eliminata Accidentalmente Su Windows 10 O 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-awss-latest-developments-unveiling-the-graviton3-and-trainium-technologies-alongside-new-server-offerings/"><u>Exploring AWS's Latest Developments: Unveiling the Graviton3 and Trainium Technologies Alongside New Server Offerings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-c53-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme C53</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-and-user-experience-tips-for-google-maps-on-iphone/"><u>In-Depth Analysis and User Experience Tips for Google Maps on iPhone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/les-3-meilleurs-logiciels-de-sauvegarde-pour-les-serveurs-windows-versions-2012-2016-et-2019/"><u>Les 3 Meilleurs Logiciels De Sauvegarde Pour Les Serveurs Windows (Versions 2012, 2016 Et 2019):</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/resoudre-le-probleme-dacces-au-wd-my-cloud-sur-windows-10-les-11-solutions-rapides-a-tester/"><u>Résoudre Le Problème D'Accès Au WD My Cloud Sur Windows 10 : Les 11 Solutions Rapides À Tester</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-enabling-hypervisor-protected-code-vtpm-in-virtual-machines-using-vmware-vsphere/"><u>Step-by-Step Guide: Enabling Hypervisor-Protected Code (vTPM) in Virtual Machines Using VMware vSphere</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/strategies-pour-assurer-la-protection-de-vos-dossiers-souvent-modifies-sur-un-pc-sous-windows-10-conseils-et-astuces-essentiels/"><u>Stratégies Pour Assurer La Protection De Vos Dossiers Souvent Modifiés Sur Un PC Sous Windows 10 : Conseils Et Astuces Essentiels</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/szybkie-instalacja-windows-10-directly-on-new-ssd-disk-uczestnicy-w-sieci-i-bez-cd/"><u>Szybkie Instalacja Windows 10 Directly on New SSD Disk - Uczestnicy W Sieci I Bez CD</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-gaming-systems-in-2-the-year-2024/"><u>Top Rated Gaming Systems in 2 the Year 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/utiliser-efficacement-hirens-bootcd-lultime-solution-de-restauration-et-damelioration-pour-votre-ordinateur/"><u>Utiliser Efficacement Hirens BootCD: L'ultime Solution De Restauration Et D'amélioration Pour Votre Ordinateur</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher-for-2024/"><u>Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom/"><u>[New] 2024 Approved Connecting Worlds Mastering Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-taking-control-the-hidden-tips-and-tricks-for-power-users-of-window-11/"><u>[New] Taking Control The Hidden Tips and Tricks for Power Users of WINDOW 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-content-insights-7-premier-free-tag-extraction-tools/"><u>[New] Unlock Content Insights 7 Premier Free Tag Extraction Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-how-to-schedule-and-dive-into-virtual-gatherings-with-zoom-on-an-android-platform/"><u>2024 Approved How to Schedule and Dive Into Virtual Gatherings with Zoom on an Android Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-inalterable-action-plan-to-expunge-youtube-shorts/"><u>2024 Approved Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/digiarty-dvd-and-video/"><u>Digiarty: 신화롭게 시각 투영 획기성 DVD & Video를 태심하는 고안 소프트웨어</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-12-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi 12 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/efficient-dvd-cloning-with-winx-dvd-copy-pro-instructions-for-generating-reliable-copies-and-isos/"><u>Efficient DVD Cloning with WinX DVD Copy Pro - Instructions for Generating Reliable Copies & ISOs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/erfahren-sie-vom-besten-hevc-videokonverterencoder-fur-hochwertige-h2-65-aufnahmen-unter-windows-11-and-mac-os-x/"><u>Erfahren Sie Vom Besten HEVC-Videokonverter/Encoder Für Hochwertige H.2 65-Aufnahmen Unter Windows 11 & Mac OS X</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/erfahren-sie-wie-winx-mediatrans-pro-der-fuhrende-manager-fur-fotoubertragungen-auf-ihrem-ios-gerat-ist-pc-kompatibel/"><u>Erfahren Sie, Wie WinX MediaTrans Pro Der Führende Manager Für Fotoübertragungen Auf Ihrem iOS Gerät Ist - PC Kompatibel!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/expert-recommended-video-formats-compatible-with-ios-and-android-platforms-a-comprehensive-guide/"><u>Expert-Recommended Video Formats Compatible with iOS and Android Platforms: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/faqs-essentielles-handbrake-et-son-encodage-de-videos-rapide-grace-au-gpu/"><u>FAQs Essentielles: HandBrake Et Son Encodage De Vidéos Rapide Grâce Au GPU</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k/"><u>In 2024, SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/maintaining-high-quality-visuals-ultimate-guide-to-lossless-mac-video-compression/"><u>Maintaining High-Quality Visuals: Ultimate Guide to Lossless Mac Video Compression</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reducing-file-size-convert-your-4k-content-to-full-hd-using-pcs-and-macs/"><u>Reducing File Size: Convert Your 4K Content to Full HD Using PCs and Macs</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-in-a-lenovo-keyboard-issue/"><u>Step-by-Step Guide to Restoring Functionality in a Lenovo Keyboard Issue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synesthetic-screens-the-future-of-cinema/"><u>Synesthetic Screens The Future of Cinema</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-content-authors-should-think-twice-before-outsourcing-to-ai-chatbots-8-key-points/"><u>Why Content Authors Should Think Twice Before Outsourcing to AI Chatbots: 8 Key Points</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mp32/"><u>パソコン用MP3へのビデオ変換手順：2つの効果的な方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2025-01-13T08:54:46.209Z
-updated: 2025-01-14T18:23:10.068Z
+date: 2025-01-17T04:07:30.321Z
+updated: 2025-01-21T03:00:16.636Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,15 +88,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-allure-comprehensive-beauty-how-tos-on-youtube/"><u>[New] 2024 Approved Unveiling Allure Comprehensive Beauty How-Tos on Youtube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-first-moments-that-foster-interest-in-audios-for-2024/"><u>[Updated] First Moments that Foster Interest in Audios for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/efficiently-managing-startup-programs-a-guide-by-yl-computing-and-software/"><u>Efficiently Managing Startup Programs: A Guide by YL Computing & Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/how-to-fix-nvidia-geforce-error-0x0003-a-comprehensive-guide/"><u>How to Fix NVIDIA GeForce Error 0X0003 - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-the-basics-of-synchronization-with-dex-3-your-ultimate-guide-and-video-lessons/"><u>Mastering the Basics of Synchronization with DEX 3: Your Ultimate Guide & Video Lessons</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/overcoming-windows-hardware-setup-issues-expert-advice-and-solutions-from-yl-software/"><u>Overcoming Windows Hardware Setup Issues: Expert Advice & Solutions From YL Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/price-tag-shooting-your-next-music-video/"><u>Price Tag Shooting Your Next Music Video</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/simplify-your-web-to-excel-conversion-save-any-webpage-info-quickly-with-the-power-of-yl-web-scraper-yl-software-innovation/"><u>Simplify Your Web-to-Excel Conversion: Save Any Webpage Info Quickly with the Power of YL Web Scraper - YL Software Innovation</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/troubleshooting-hidden-hard-drives-on-windows-systems-expert-advice-by-yl-software/"><u>Troubleshooting Hidden Hard Drives on Windows Systems: Expert Advice by YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>[Updated] Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-vr-the-creation-gap/"><u>[Updated] Unveiling VR The Creation Gap</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/automatisation-des-factures-chez-pepsico-grace-a-loutil-de-reconnaissance-optique-numerique-dabbyy-flexicapture/"><u>Automatisation Des Factures Chez PepsiCo Grâce À L'outil De Reconnaissance Optique Numérique D'ABBYY FlexiCapture</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-potential-partners-in-a-click-facebooks-innovations-for-singles/"><u>Discovering Potential Partners in a Click: Facebook’s Innovations for Singles</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/easy-steps-for-modifying-display-preferences-in-windows-control-panel-with-expert-advice-from-yl-computing/"><u>Easy Steps for Modifying Display Preferences in Windows Control Panel with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-spark-10-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Spark 10 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-speed-up-a-sluggish-graphics-card-expert-advice-from-yl-computing/"><u>How to Speed Up a Sluggish Graphics Card: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mophie-reintroduces-the-powerful-juice-pack-what-you-need-to-know/"><u>Mophie Reintroduces the Powerful Juice Pack: What You Need to Know</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/revamped-karaoke-cloud-pro-your-new-favorite-djing-platform-is-back-with-exciting-updates/"><u>Revamped Karaoke Cloud Pro: Your New Favorite DJing Platform Is Back with Exciting Updates!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/securing-your-files-in-windows-a-step-by-step-guide-to-setting-passwords-expert-tips-from-yl-computing/"><u>Securing Your Files in Windows: A Step-by-Step Guide to Setting Passwords - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/setting-up-parent-safe-settings-on-your-pc-with-windows-11-a-step-by-step-guide/"><u>Setting Up Parent-Safe Settings on Your PC with Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-guide-mastering-manycam-for-enhanced-livestreams-and-virtual-background-technology/"><u>Ultimate Guide: Mastering ManyCam for Enhanced Livestreams and Virtual Background Technology</u></a></li>
 </ul></div>
 
