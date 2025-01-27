@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2025-01-17T04:07:30.321Z
-updated: 2025-01-21T03:00:16.636Z
+date: 2025-01-22T11:33:26.288Z
+updated: 2025-01-27T09:15:49.538Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,18 +88,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>[Updated] Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-vr-the-creation-gap/"><u>[Updated] Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/automatisation-des-factures-chez-pepsico-grace-a-loutil-de-reconnaissance-optique-numerique-dabbyy-flexicapture/"><u>Automatisation Des Factures Chez PepsiCo Grâce À L'outil De Reconnaissance Optique Numérique D'ABBYY FlexiCapture</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-potential-partners-in-a-click-facebooks-innovations-for-singles/"><u>Discovering Potential Partners in a Click: Facebook’s Innovations for Singles</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/easy-steps-for-modifying-display-preferences-in-windows-control-panel-with-expert-advice-from-yl-computing/"><u>Easy Steps for Modifying Display Preferences in Windows Control Panel with Expert Advice From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-spark-10-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Spark 10 5G Quickly | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-speed-up-a-sluggish-graphics-card-expert-advice-from-yl-computing/"><u>How to Speed Up a Sluggish Graphics Card: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mophie-reintroduces-the-powerful-juice-pack-what-you-need-to-know/"><u>Mophie Reintroduces the Powerful Juice Pack: What You Need to Know</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/revamped-karaoke-cloud-pro-your-new-favorite-djing-platform-is-back-with-exciting-updates/"><u>Revamped Karaoke Cloud Pro: Your New Favorite DJing Platform Is Back with Exciting Updates!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/securing-your-files-in-windows-a-step-by-step-guide-to-setting-passwords-expert-tips-from-yl-computing/"><u>Securing Your Files in Windows: A Step-by-Step Guide to Setting Passwords - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/setting-up-parent-safe-settings-on-your-pc-with-windows-11-a-step-by-step-guide/"><u>Setting Up Parent-Safe Settings on Your PC with Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ultimate-guide-mastering-manycam-for-enhanced-livestreams-and-virtual-background-technology/"><u>Ultimate Guide: Mastering ManyCam for Enhanced Livestreams and Virtual Background Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-full-picture-the-essence-of-google-podcasts-app/"><u>[New] 2024 Approved Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[Updated] In 2024, Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-apple-watchs-battery-top-8-essential-settings-tweaks-revealed-by-zdnet/"><u>Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-the-future-of-gaming-with-apples-secretive-new-feature-exploring-the-potential-impact-on-devices-and-gamers-alike-digital-trends-insights/"><u>Deciphering the Future of Gaming with Apple's Secretive New Feature: Exploring the Potential Impact on Devices and Gamers Alike | Digital Trends Insights</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/effective-methods-for-eradicating-harmful-programs-from-your-computer-guidance-by-yl-tech-solutions/"><u>Effective Methods for Eradicating Harmful Programs From Your Computer - Guidance by YL Tech Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uch-wealth-can-you-generate-on-youtube-using-cpm-in-2024/"><u>How Much Wealth Can You Generate on YouTube Using CPM, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/immerse-your-workspace-in-crisp-visuals-1920x1080-high-fidelity-wallpaper-collections-powered-by-yl-software-solutions/"><u>Immerse Your Workspace in Crisp Visuals: 1920X1080 High Fidelity Wallpaper Collections Powered by YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-your-graphic-processor-malfunctioning-diagnose-with-help-from-yl-software-solutions/"><u>Is Your Graphic Processor Malfunctioning? Diagnose with Help From YL Software Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-data-organization-a-comprehensive-guide-to-using-microsoft-excels-sort-feature/"><u>Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel's Sort Feature</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-album-aesthetics-how-cover-art-shapes-your-music-selection-process/"><u>Reviving Album Aesthetics: How Cover Art Shapes Your Music Selection Process</u></a></li>
 </ul></div>
 

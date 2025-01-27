@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2025-01-14T10:03:53.455Z
-updated: 2025-01-21T07:09:57.952Z
+date: 2025-01-21T08:10:40.491Z
+updated: 2025-01-27T07:51:40.976Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,24 +93,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-sonicsoothsayer-listening-inspection-report/"><u>[New] 2024 Approved SonicSoothsayer Listening Inspection Report</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-streamlining-the-editing-process-elevating-your-youtube-content-with-pc/"><u>[New] In 2024, Streamlining the Editing Process Elevating Your YouTube Content with PC</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-return-artisan-set/"><u>[Updated] 2024 Approved Return Artisan Set</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-add-fade-inout-premiere-pro/"><u>2024 Approved How to Add Fade In/Out Premiere Pro</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dynamic-live-streaming-solutions-with-manycam-professional-virtual-camera-technology/"><u>Dynamic Live Streaming Solutions with ManyCam - Professional Virtual Camera Technology</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/elevate-your-livestream-quality-with-manycams-advanced-virtual-webcam-technology/"><u>Elevate Your Livestream Quality with ManyCam's Advanced Virtual Webcam Technology</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-broadcast-with-manycam-superior-virtual-camera-and-live-streaming-software-solutions/"><u>Enhance Your Broadcast with ManyCam: Superior Virtual Camera & Live Streaming Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-live-videos-using-manycams-cutting-edge-software-solutions/"><u>Enhance Your Live Videos Using ManyCam's Cutting-Edge Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-online-presence-manycam-features-and-virtual-webcam-capabilities/"><u>Enhance Your Online Presence: ManyCam Features and Virtual Webcam Capabilities</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-12-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-6-economical-projector-brands-for-4k/"><u>In 2024, Ideal 6 Economical Projector Brands for 4K</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/live-streaming-made-easy-discover-manycam-the-ultimate-virtual-webcam-and-recording-tool/"><u>Live Streaming Made Easy: Discover ManyCam – The Ultimate Virtual Webcam and Recording Tool</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-live-streaming-with-manycam-the-definitive-software-and-virtual-cam-solution/"><u>Mastering Live Streaming with ManyCam: The Definitive Software and Virtual Cam Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-microscopic-views-on-ms-teams-chat-for-2024/"><u>Mastering Microscopic Views on MS Teams Chat for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/missing-icons-in-all-iphone-apps-discover-effective-solutions-here/"><u>Missing Icons in All iPhone Apps? Discover Effective Solutions Here!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/real-time-broadcasting-made-easy-with-manycams-advanced-virtual-webcam-software-solutions/"><u>Real-Time Broadcasting Made Easy with ManyCam's Advanced Virtual Webcam Software Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209845733-resolving-the-troublesome-0x80240017-windows-update-issue-proven-solutions/"><u>Resolving the Troublesome 0X80240017 Windows Update Issue: Proven Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-8-filter-trios-for-broadcast-excellence/"><u>Superior 8 Filter Trios for Broadcast Excellence</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/virtual-camcorder-mastery-with-manycam-top-live-streaming-apps-and-online-webcams/"><u>Virtual Camcorder Mastery with ManyCam: Top Live Streaming Apps & Online Webcams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-your-channels-moniker-youtube-naming-tools-and-tips/"><u>[Updated] In 2024, Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-windows-compatible-drivers-for-hp-officejet-pro-6970-download-now/"><u>Get the Newest Windows-Compatible Drivers for HP OfficeJet Pro 6970 - Download Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/isowindows-11-windows-11iso-5/"><u>ISOファイルをWindows 11で使い始めるための無料ソフトランキング - Windows 11ISO オススメソフト5選</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/protecting-windows-11-from-online-dangers-a-comprehensive-guide-to-virus-prevention-and-digital-security/"><u>Protecting Windows 11 From Online Dangers: A Comprehensive Guide to Virus Prevention and Digital Security</u></a></li>
+<li><a href="https://fox-search.techidaily.com/step-by-step-guide-managing-applications-via-windows-control-panel-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Managing Applications via Windows Control Panel - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-digital-cupids-dark-side-7-ai-strategies-exploited-by-cyber-scammers/"><u>The Digital Cupid's Dark Side: 7 AI Strategies Exploited by Cyber Scammers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-top-10-no-cost-4k-media-players-supporting-windows-11-and-mac-computers/"><u>The Top 10 No-Cost 4K Media Players Supporting Windows 11 & Mac Computers</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-methods-for-converting-your-dvd-videots-into-mp4-format/"><u>Top Methods for Converting Your DVD VIDEO_TS Into MP4 Format</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-top-10-premier-anime-streaming-websites-with-recent-updates/"><u>Ultimate Guide: Top 10 Premier Anime Streaming Websites with Recent Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vervang-tga-bestanden-gratis-en-online-in-gifs-met-movavi-converter/"><u>Vervang TGA-Bestanden Gratis en Online in GIF's Met Movavi Converter</u></a></li>
 </ul></div>
 

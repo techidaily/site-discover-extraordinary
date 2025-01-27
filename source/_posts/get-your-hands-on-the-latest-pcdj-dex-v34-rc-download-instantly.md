@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest PCDJ DEX v3.4 RC - Download Instantly!
-date: 2025-01-18T21:05:28.543Z
-updated: 2025-01-21T05:23:35.409Z
+date: 2025-01-21T05:33:49.808Z
+updated: 2025-01-26T21:05:45.402Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 continues to innovate and improve with every free update launched, proving
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WHAT’S NEW, CHANGED OR FIXED IN DEX 3.4 RC
@@ -73,7 +73,7 @@ _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your E
 \*If you have any problems with 3.4, you can re-install DEX 3.3.3 from the DEX 3 support page [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -95,24 +95,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34rc-coverimage.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-ideal-combo-top-10-recommended-tools-for-vimeo-download-for-2024/"><u>[New] Ideal Combo Top 10 Recommended Tools for Vimeo Download for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nfuse-your-visuals-with-melody-adding-music-in-youtube-editing/"><u>[New] Infuse Your Visuals With Melody Adding Music in YouTube Editing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-viewers-guide-app-performance-analysis/"><u>[New] Viewer's Guide App Performance Analysis</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-one-screen-many-screens-the-art-of-parallel-viewing/"><u>2024 Approved One Screen, Many Screens The Art of Parallel Viewing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/2024-clipboxnce/"><u>2024年最強動画ダウンローダーランキング - Clipboxよりも革新的！無料アプリの一挙提�nce</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/can-adobe-premiere-pro-handle-av1-video-formats-for-import-and-export-tasks/"><u>Can Adobe Premiere Pro Handle AV1 Video Formats for Import and Export Tasks?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/como-insertar-la-herramienta-libdvdcss-usando-handbrake-en-sistemas-mac-y-windows-10-para-duplicacion-de-dvds/"><u>Cómo Insertar La Herramienta LibDVDCSS Usando HandBrake en Sistemas Mac Y Windows 10 Para Duplicación De DVDs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/complete-tutorial-for-configuring-the-novaxtreme-skid-installation-on-kodi-19/"><u>Complete Tutorial for Configuring the NovaXtreme SKID Installation on Kodi 19</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/convertendo-dvd-para-avi-gratuitamente-em-2023-guia-rapido-com-3-metodos-eficientes/"><u>Convertendo DVD Para AVI Gratuitamente Em 2023: Guia Rápido Com 3 Métodos Eficientes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-powerful-partnerships-a-guide-to-choosing-youtube-allies/"><u>Crafting Powerful Partnerships A Guide to Choosing YouTube Allies</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/descarga-sin-costo-del-codec-hevc-h265-mejora-de-reproduccion-de-video-uhd8k/"><u>Descarga Sin Costo Del Códec HEVC (H.2^65) - Mejora De Reproducción De Video UHD/8K</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/endospores-can-survive-extreme-conditions-that-would-kill-the-vegetative-cell-the-active-growing-state-of-a-bacterium/"><u>Endospores Can Survive Extreme Conditions that Would Kill the Vegetative Cell (the Active Growing State of a Bacterium).</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guia-facil-para-la-instalacion-de-libdvdcss-con-handbrake-adaptarse-a-windows-y-macos-version-11/"><u>Guía Fácil Para La Instalación De Libdvdcss Con HandBrake: Adaptarse a Windows Y macOS Versión 11</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-your-iphone-running-slow-uncover-effective-methods-to-accelerate-its-functionality/"><u>Is Your iPhone Running Slow? Uncover Effective Methods to Accelerate Its Functionality</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/quick-guide-for-creating-a-disk-image-and-burning-dvds-on-your-pc-with-winxdvd-windows-107/"><u>Quick Guide for Creating a Disk Image and Burning DVDs on Your PC with WinXDVD (Windows 10/7)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-verizon-promotions-exclusive-offers-and-discounts-this-month/"><u>Top Verizon Promotions: Exclusive Offers and Discounts This Month</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/transforming-dvd-video-format-from-standard-definition-43-to-hd-ready-widthscreens-169/"><u>Transforming DVD Video Format From Standard Definition (4:3) to HD Ready Widthscreens (16:9)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-full-potential-of-zoom-in-windows-10/"><u>Unlock Full Potential of Zoom in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/iphonedvd-t17260306948491/"><u>ダビング完了: ３通りのiPhoneにDVD画像転送方法紹介</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[New] 2024 Approved Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-shaking-it-off-analyzing-the-efficacy-of-photostability-for-2024/"><u>[New] Shaking It Off Analyzing the Efficacy of PhotoStability for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>2024 Approved Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-eats-a-chefs-handbook-to-food-photography-for-2024/"><u>Capturing Eats A Chef's Handbook to Food Photography for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/discover-the-latest-a-guide-to-accessing-your-control-panel-update-information-yl-software-solutions/"><u>Discover the Latest: A Guide to Accessing Your Control Panel Update Information - YL Software Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-simple-pour-recuperer-les-versions-precedentes-de-votre-document-excel-avec-facilite-et-rapidite/"><u>Guide Simple Pour Récupérer Les Versions Précédentes De Votre Document Excel Avec Facilité Et Rapidité</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-a-defective-gpu-expert-tips-from-yl-computing/"><u>Identifying a Defective GPU - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>In 2024, Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/introducing-the-latest-karaoke-kit-enhanced-playback-with-songlibrary-db-integration-now-available-for-testing/"><u>Introducing the Latest Karaoke Kit: Enhanced Playback with SongLibrary DB Integration Now Available for Testing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/perfecting-fading-audio-tracks-through-audacitys-tools/"><u>Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/pioneer-dj-wego4-advanced-controller-with-dex-n-support-and-downloadable-maps-for-ace-mixing/"><u>Pioneer DJ WeGo4 Advanced Controller with DEX N Support & Downloadable Maps for Ace Mixing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reviving-your-scanner-expert-tips-by-yl-software-for-mending-frayed-wires/"><u>Reviving Your Scanner: Expert Tips by YL Software for Mending Frayed Wires</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-adjusting-your-computers-remote-desktop-options-via-windows-control-panel-yl-tech-solutions/"><u>Step-by-Step Guide: Adjusting Your Computer's Remote Desktop Options via Windows Control Panel - YL Tech Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-steam-skill-strategy-manual/"><u>The Ultimate Steam Skill Strategy Manual</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-software-analyzes-patterns-in-pc-utilization-time-understanding-how-long-you-use-your-computer-per-day-by-yl-computing/"><u>YL Software Analyzes Patterns in PC Utilization Time: Understanding How Long You Use Your Computer Per Day by YL Computing</u></a></li>
 </ul></div>
 
