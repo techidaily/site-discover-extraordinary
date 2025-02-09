@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2025-01-20T02:52:24.995Z
-updated: 2025-01-27T00:43:24.512Z
+date: 2025-02-02T01:29:22.876Z
+updated: 2025-02-09T04:37:48.500Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ However, there are 2 general deck selections under the General Tab in options yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
@@ -42,11 +42,11 @@ However, there are 2 general deck selections under the General Tab in options yo
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,21 +68,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-evaluating-dji-phantom-3-professional-goggles-for-2024/"><u>[New] Evaluating DJI Phantom 3 Professional Goggles for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-gaining-exposure-cost-effective-promotion-hacks-for-youtubers-for-2024/"><u>[New] Gaining Exposure Cost-Effective Promotion Hacks for YouTubers for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-speak-and-record-iphone-voice-memo-basics/"><u>[New] In 2024, Speak and Record IPhone Voice Memo Basics</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-5-virtual-reality-vr-treadmills-review/"><u>[Updated] In 2024, Top 5 Virtual Reality (VR) Treadmills Review</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>[Updated] PicsArt App Deep Dive Full Review, Analysis & Instructions for the New Year</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-multiplecam-pro-top-tier-live-streaming-and-fake-webcam-app/"><u>1. MultipleCam Pro - Top-Tier Live Streaming and Fake Webcam App</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-multiplecam-top-tier-live-streaming-and-virtual-camera-solution/"><u>1. MultipleCam: Top-Tier Live Streaming and Virtual Camera Solution</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/die-10-besten-gratis-ki-programme-fur-die-wiederherstellung-alter-fotografien/"><u>Die 10 Besten Gratis-KI-Programme Für Die Wiederherstellung Alter Fotografien</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-insights-how-to-choose-among-the-top-9-free-youtube-makers-for-2024/"><u>Essential Insights How to Choose Among the Top 9 Free YouTube Makers for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-skagen-falster-3-the-ultimate-blend-of-modern-technology-and-timeless-elegance/"><u>Expert Analysis: Skagen Falster 3 - The Ultimate Blend of Modern Technology and Timeless Elegance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 6s Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-earnings-enlightenment-joshi-and-youtube-success-stories/"><u>In 2024, Earnings Enlightenment Joshi and YouTube Success Stories</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/le-meilleur-logiciel-de-montage-video-gratuit-pour-couper-les-clips-indesirables-sur-pc-et-mac-windowsmac-version/"><u>Le Meilleur Logiciel De Montage Vidéo Gratuit Pour Couper Les Clips Indésirables Sur PC Et Mac - Windows/Mac Version</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-camera-and-recording-tool/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera & Recording Tool</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-the-art-of-recording-sessions-in-microsoft-teams/"><u>Mastering the Art of Recording Sessions in Microsoft Teams</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-5-methods-zur-umwandlung-von-avchd-m2ts-zu-mp4-ohne-qualitatsverlust/"><u>Top 5 Methods Zur Umwandlung Von AVCHD-M2TS Zu MP4 Ohne Qualitätsverlust</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-earning-a-living-with-social-media-snaps-for-2024/"><u>[Updated] Earning a Living with Social Media Snaps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[Updated] In 2024, Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/check-your-trc20-token-balances-free-of-charge-with-the-usdt-balance-checker-by-yl-computing/"><u>Check Your TRC20 Token Balances Free of Charge with the USDT Balance Checker by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-efficiently-erase-accounts-in-the-control-panel-with-yl-software-techniques/"><u>How to Efficiently Erase Accounts in the Control Panel with YL Software Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a79-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A79 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-color-grading-explore-these-7-methods/"><u>In 2024, Masterful Color Grading Explore These 7 Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastermind-behind-chinas-communist-uprising-unveiling-history-with-yl-computing-solutions/"><u>Mastermind Behind China's Communist Uprising: Unveiling History with YL Computing Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/november-11th-jewelry-auction-reveals-pearls-and-gold-bars-as-top-choices-exclusive-analysis-by-yl-computing-yl-software/"><u>November 11Th Jewelry Auction Reveals Pearls and Gold Bars as Top Choices: Exclusive Analysis by YL Computing | YL Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-s18-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo S18 Pro has been deleted</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-sound-card-errors-with-guidance-from-yl-softwares-yl-computing-team/"><u>Resolving Sound Card Errors with Guidance From YL Software's YL Computing Team</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-running-a-scan-using-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Running a Scan Using Windows Defender - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gamers-picks-unbeatable-alienware-and-dell-promotions/"><u>Top Gamers' Picks: Unbeatable Alienware & Dell Promotions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/track-your-cryptocurrency-evolution-how-the-balance-checker-from-yl-computing-reveals-historical-trends/"><u>Track Your Cryptocurrency Evolution: How the Balance Checker From YL Computing Reveals Historical Trends</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-guide-how-to-fix-a-non-starting-laptop-with-tips-by-yl-software-experts/"><u>Troubleshooting Guide: How to Fix a Non-Starting Laptop with Tips by YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlicensed-yet-lawful-music-repositories-games/"><u>Unlicensed, Yet Lawful Music Repositories (Games)</u></a></li>
 </ul></div>
 

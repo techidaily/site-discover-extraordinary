@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2025-01-22T11:33:26.288Z
-updated: 2025-01-27T09:15:49.538Z
+date: 2025-02-03T19:24:37.387Z
+updated: 2025-02-09T02:06:39.831Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,16 +88,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-full-picture-the-essence-of-google-podcasts-app/"><u>[New] 2024 Approved Full Picture The Essence of Google Podcasts App</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[Updated] In 2024, Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-apple-watchs-battery-top-8-essential-settings-tweaks-revealed-by-zdnet/"><u>Boost Your Apple Watch's Battery: Top 8 Essential Settings Tweaks Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-the-future-of-gaming-with-apples-secretive-new-feature-exploring-the-potential-impact-on-devices-and-gamers-alike-digital-trends-insights/"><u>Deciphering the Future of Gaming with Apple's Secretive New Feature: Exploring the Potential Impact on Devices and Gamers Alike | Digital Trends Insights</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effective-methods-for-eradicating-harmful-programs-from-your-computer-guidance-by-yl-tech-solutions/"><u>Effective Methods for Eradicating Harmful Programs From Your Computer - Guidance by YL Tech Solutions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uch-wealth-can-you-generate-on-youtube-using-cpm-in-2024/"><u>How Much Wealth Can You Generate on YouTube Using CPM, In 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XR To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/immerse-your-workspace-in-crisp-visuals-1920x1080-high-fidelity-wallpaper-collections-powered-by-yl-software-solutions/"><u>Immerse Your Workspace in Crisp Visuals: 1920X1080 High Fidelity Wallpaper Collections Powered by YL Software Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-your-graphic-processor-malfunctioning-diagnose-with-help-from-yl-software-solutions/"><u>Is Your Graphic Processor Malfunctioning? Diagnose with Help From YL Software Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-data-organization-a-comprehensive-guide-to-using-microsoft-excels-sort-feature/"><u>Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel's Sort Feature</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reviving-album-aesthetics-how-cover-art-shapes-your-music-selection-process/"><u>Reviving Album Aesthetics: How Cover Art Shapes Your Music Selection Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-legal-boundaries-in-whatsapp-call-recordings/"><u>[New] In 2024, Navigating Legal Boundaries in WhatsApp Call Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-direct-mac-pics-to-a-new-saving-area/"><u>[Updated] In 2024, Direct Mac Pics to a New Saving Area</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-spotify-listening-safe-speed-adjustment/"><u>Efficient Spotify Listening Safe Speed Adjustment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-search-for-contacts-on-facebook-top-6-methods/"><u>Effortless Ways to Search for Contacts on Facebook – Top 6 Methods</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/einfache-und-sichere-speicherung-von-festplatten-im-cloud-raum-wie-geht-das/"><u>Einfache Und Sichere Speicherung Von Festplatten Im Cloud-Raum - Wie Geht Das?</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-f5-pro-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco F5 Pro 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-13t-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 13T Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>In 2024, Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>OBS Timer Mastery Building a Custom Countdown Timer for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-slow-steam-loading-times-enhance-your-gaming-experience/"><u>Quick Fixes for Slow Steam Loading Times – Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/safe-methods-for-upgrading-your-lenovo-thinkpad-13-with-an-ssd-a-comprehensive-guide/"><u>Safe Methods for Upgrading Your Lenovo ThinkPad 13 with an SSD - A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/solving-the-issue-of-your-iphone-or-ipad-freezing-at-the-apple-startup-screen-post-update/"><u>Solving the Issue of Your iPhone or iPad Freezing at the Apple Startup Screen Post-Update</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-on-cloning-your-hard-drive-to-an-ssd/"><u>Step-by-Step Guide on Cloning Your Hard Drive to an SSD</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/vmware-vmfs-setup-mastery-the-complete-detailed-tutorial/"><u>VMware VMFS Setup Mastery - The Complete, Detailed Tutorial</u></a></li>
 </ul></div>
 
