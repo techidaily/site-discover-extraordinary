@@ -1,7 +1,7 @@
 ---
 title: "Free DJ Controller Maps: [Download] DEX"
-date: 2025-02-03T19:24:37.387Z
-updated: 2025-02-09T02:06:39.831Z
+date: 2025-02-18T03:06:02.351Z
+updated: 2025-02-19T10:15:20.437Z
 tags:
   - product
 categories:
@@ -66,7 +66,7 @@ G2V 2-channel MIDI Controller with Soundcard
 _Have questions about the Gemini G2V **DJ controller** and how it works with DEX 3 or DEX 3 **DJ software** applications? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -88,19 +88,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/07/geminig2vscript-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-legal-boundaries-in-whatsapp-call-recordings/"><u>[New] In 2024, Navigating Legal Boundaries in WhatsApp Call Recordings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-direct-mac-pics-to-a-new-saving-area/"><u>[Updated] In 2024, Direct Mac Pics to a New Saving Area</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficient-spotify-listening-safe-speed-adjustment/"><u>Efficient Spotify Listening Safe Speed Adjustment</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-ways-to-search-for-contacts-on-facebook-top-6-methods/"><u>Effortless Ways to Search for Contacts on Facebook – Top 6 Methods</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/einfache-und-sichere-speicherung-von-festplatten-im-cloud-raum-wie-geht-das/"><u>Einfache Und Sichere Speicherung Von Festplatten Im Cloud-Raum - Wie Geht Das?</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-f5-pro-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco F5 Pro 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-13t-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi 13T Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>In 2024, Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>OBS Timer Mastery Building a Custom Countdown Timer for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-slow-steam-loading-times-enhance-your-gaming-experience/"><u>Quick Fixes for Slow Steam Loading Times – Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/safe-methods-for-upgrading-your-lenovo-thinkpad-13-with-an-ssd-a-comprehensive-guide/"><u>Safe Methods for Upgrading Your Lenovo ThinkPad 13 with an SSD - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/solving-the-issue-of-your-iphone-or-ipad-freezing-at-the-apple-startup-screen-post-update/"><u>Solving the Issue of Your iPhone or iPad Freezing at the Apple Startup Screen Post-Update</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-on-cloning-your-hard-drive-to-an-ssd/"><u>Step-by-Step Guide on Cloning Your Hard Drive to an SSD</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/vmware-vmfs-setup-mastery-the-complete-detailed-tutorial/"><u>VMware VMFS Setup Mastery - The Complete, Detailed Tutorial</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording/"><u>[New] 2024 Approved Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unveiling-secrets-for-instagram-chat-success/"><u>[New] 2024 Approved Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-decoding-excellence-a-hdr-camera-buyers-almanac-for-2024/"><u>[Updated] Decoding Excellence A HDR Camera Buyer's Almanac for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-partnerschaft-mit-winx-dvd-professionelle-filmkopierlosungen-fur-unternehmen/"><u>1. Partnerschaft Mit WinX DVD: Professionelle Filmkopierlösungen Für Unternehmen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-hidden-melodic-markers-ios-and-android-recording-app-overview/"><u>2024 Approved Hidden Melodic Markers IOS & Android Recording App Overview</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inshot-app-how-to-integrate-external-songs-easily/"><u>2024 Approved InShot App How to Integrate External Songs Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-incorporating-film-into-lessons/"><u>2024 Approved Mastering the Art of Incorporating Film Into Lessons</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725287013348-winxdvd/"><u>如何利用 WinXDVD：深入探索此軟體功能指南</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fpv-mastery-with-top-5-hmds-for-drones/"><u>In 2024, FPV Mastery with Top 5 HMDs for Drones</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/les-techniques-de-reponse-frequentes-aux-interrogations-liees-a-lintelligence-artificielle-winxvideo-un-guide-complet/"><u>Les Techniques De Réponse Fréquentes Aux Interrogations Liées À L'intelligence Artificielle WinxVideo: Un Guide Complet</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-opengl-advocates-on-record/"><u>No OpenGL Advocates on Record</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/revolutionary-skullcandy-smokin-buds-xt-headphones-unmatched-loudness-at-a-bargain/"><u>Revolutionary Skullcandy Smokin' Buds XT Headphones: Unmatched Loudness at a Bargain</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/samsung-galaxy-watch-active-2-evaluation-an-excellent-smartwatch-with-minor-setbacks/"><u>Samsung Galaxy Watch Active 2 Evaluation - An Excellent Smartwatch with Minor Setbacks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/sierras-best-top-5-mac-videography-software-insights/"><u>Sierra's Best Top 5 Mac Videography Software Insights</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-unseen-longevity-of-eco-friendly-electronic-accessories-iphone-case-tested-for-half-a-year/"><u>The Unseen Longevity of Eco-Friendly Electronic Accessories: IPhone Case Tested for Half a Year</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/transformar-mp4-en-mp3-sin-costo-guias-actualizadas-para-obtener-el-mejor-sonido/"><u>Transformar MP4 en MP3 Sin Costo: Guías Actualizadas Para Obtener El Mejor Sonido</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725289747019-windows-mac-ai-10/"><u>Windows과 Mac에 가장 좋은 무료 AI 비디오 리소스를 사용하는 10가지 최고 인핸서</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725284401205-winxvideo-ai/"><u>최고의 비디오 품질을 위해 Winxvideo AI를 사용하여 비디오를 강화하는 기술</u></a></li>
 </ul></div>
 

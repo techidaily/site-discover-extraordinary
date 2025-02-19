@@ -1,7 +1,7 @@
 ---
 title: "Download DEX 3.4: The Latest Beatmixing Software From PCDJ"
-date: 2025-02-02T16:13:08.047Z
-updated: 2025-02-08T23:59:01.794Z
+date: 2025-02-17T01:28:55.556Z
+updated: 2025-02-19T03:28:55.059Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ While we’re already working on a exciting new features for 3.5, DJs are really
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What’s New And Improved In DEX 3.4
@@ -65,13 +65,13 @@ Setting to utilize the new autocue when loading and for Auto-Mix
 _**IMPORTANT NOTES: This DEX 3.4 DJ and VJ Software Update Will Overwrite Your Existing DEX 3 Version Upon Installation.**_ 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### WATCH AUTOCUE AND SETTING MIX IN AND OUT POINTS FOR AUTOMIX
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,22 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2015/07/dex34official-coverimage.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-revenue-verification-confirming-pro-rated-earnings/"><u>[New] 2024 Approved YouTube Revenue Verification Confirming Pro-Rated Earnings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-starters-guide-to-understanding-and-using-green-screens/"><u>[New] The Ultimate Starter’s Guide to Understanding and Using Green Screens</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-masterful-voice-modification-tools-for-smartphones/"><u>[Updated] In 2024, Masterful Voice Modification Tools for Smartphones</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-curving-techniques-for-modern-photoshop-artists/"><u>2024 Approved Quick Curving Techniques for Modern Photoshop Artists</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/adapting-classroom-practices-to-non-native-speakers/"><u>Adapting Classroom Practices to Non-Native Speakers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-bargain-bin-movies-for-the-young-ones-top-6-kid-friendly-film-sites/"><u>Best Bargain Bin Movies for the Young Ones - Top 6 Kid-Friendly Film Sites</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/choosing-the-perfect-gpu-for-maximum-performance-expert-advice-by-yl-software-team/"><u>Choosing the Perfect GPU for Maximum Performance: Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-documentos-caf-sin-coste-uso-libre-y-facil-con-movavi-solutions/"><u>Convierte Tus Documentos CAF Sin Coste: Uso Libre Y Fácil Con Movavi Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-effective-is-windows-defender-in-blocking-dangerous-applications-instantly/"><u>How Effective Is Windows Defender in Blocking Dangerous Applications Instantly?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-fix-spontaneous-shutdowns-and-restarts-on-your-computer-with-tips-from-yl-experts/"><u>How to Fix Spontaneous Shutdowns & Restarts on Your Computer with Tips From YL Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-pink-hue-dilemma-in-your-windows-11-interface/"><u>Overcoming the Pink Hue Dilemma in Your Windows 11 Interface</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/replenish-your-print-quality-a-guide-to-fix-low-or-no-ink-problems-with-tips-from-yl-software-experts/"><u>Replenish Your Print Quality! A Guide to Fix Low or No-Ink Problems with Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-strategies-for-enhancing-your-pcs-efficiency-insights-from-yl-computing/"><u>Top Strategies for Enhancing Your PC's Efficiency: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-tough-hardware-problems-expert-advice-from-yl-computing-and-yl-software/"><u>Troubleshooting Tough Hardware Problems: Expert Advice From YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-network-adapter-drivers-insights-from-yl-computing/"><u>Troubleshooting Your Network Adapter Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unlock-a-crystal-cleared-twitch-stream/"><u>Unlock a Crystal-Cleared Twitch Stream</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/upcoming-trends-the-next-phase-of-pcdj-in-the-year-2nce-upon-a-time-2015/"><u>Upcoming Trends: The Next Phase of PCDJ in the Year 2Nce Upon a Time - 2015</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-supercharge-your-games-premium-top-10-drives/"><u>[New] In 2024, Supercharge Your Games Premium Top 10 Drives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-microphone-for-youtubers/"><u>[Updated] 2024 Approved Best Microphone for YouTubers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques/"><u>[Updated] In 2024, Navigating the World of Online Discussion Mastering Zoom Chat Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-sdr-to-hdr-conversion-companion-book/"><u>2024 Approved The SDR to HDR Conversion Companion Book</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/best-replacement-software-to-carbon-copy-cloner-for-windows-versions-11-10-8-7/"><u>Best Replacement Software to Carbon Copy Cloner for Windows Versions (11, 10, 8, 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/busting-the-myth-you-may-not-actually-want-a-larger-smartphone-battery/"><u>Busting the Myth: You May Not Actually Want a Larger Smartphone Battery</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/el-metodo-de-sincronizacion-ideal-y-sin-costo-para-hdd/"><u>El Método De Sincronización Ideal Y Sin Costo Para HDD</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/en-savoir-plus-sur-la-duree-pendant-laquelle-yahoo-conserve-les-messages-supprimes-and-comment-les-restaurer/"><u>En Savoir Plus Sur La Durée Pendant Laquelle Yahoo Conserve Les Messages Supprimés & Comment Les Restaurer</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1728505176532-hdd/"><u>HDDに効果的なイメージバックアップ手順詳細ガイド</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/high-performance-datensicherungsprogramme-zum-vervielfaltigen-von-betriebssystemen-auf-ssdhdd-gerate/"><u>High-Performance Datensicherungsprogramme Zum Vervielfältigen Von Betriebssystemen Auf SSD/HDD Geräte</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leading-10-video-editing-programs-for-instagram-reels-enthusiasts/"><u>In 2024, Leading 10 Video Editing Programs for Instagram Reels Enthusiasts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/losung-fur-outlook-fehler-bei-mail-empfang-erkennen-und-beheben-der-ursachen/"><u>Lösung Für Outlook: Fehler Bei Mail-Empfang, Erkennen Und Beheben Der Ursachen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintaining-active-mac-status-how-to-control-system-idle-settings/"><u>Maintaining Active Mac Status: How to Control System Idle Settings</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/schritt-fur-schritt-leitfaden-zur-aktualisierung-von-windows-server-2016-auf-version-2019/"><u>Schritt-Für-Schritt-Leitfaden Zur Aktualisierung Von Windows Server 2016 Auf Version 2019</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424575-9781780284620-self-healing-reiki/"><u>Self-Healing Reiki | Free Book</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ssd-aufrustung-fur-ihr-acer-aspire-schritt-fur-schritt-anleitung-zur-installation-mit-windows-11-8-7-und-xp/"><u>SSD-Aufrüstung Für Ihr Acer Aspire - Schritt-Für-Schritt-Anleitung Zur Installation Mit Windows 11, 8, 7 Und XP</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-successfully-moving-images-from-old-device-to-iphone-15-or-14/"><u>Troubleshooting: Successfully Moving Images From Old Device to iPhone 15 or 14</u></a></li>
 </ul></div>
 

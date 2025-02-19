@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2025-02-02T01:29:22.876Z
-updated: 2025-02-09T04:37:48.500Z
+date: 2025-02-12T07:59:52.065Z
+updated: 2025-02-18T18:48:27.153Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ However, there are 2 general deck selections under the General Tab in options yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
@@ -42,11 +42,11 @@ However, there are 2 general deck selections under the General Tab in options yo
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,22 +68,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-earning-a-living-with-social-media-snaps-for-2024/"><u>[Updated] Earning a Living with Social Media Snaps for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[Updated] In 2024, Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/check-your-trc20-token-balances-free-of-charge-with-the-usdt-balance-checker-by-yl-computing/"><u>Check Your TRC20 Token Balances Free of Charge with the USDT Balance Checker by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-efficiently-erase-accounts-in-the-control-panel-with-yl-software-techniques/"><u>How to Efficiently Erase Accounts in the Control Panel with YL Software Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a79-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A79 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-play-your-favorite-spotify-tracks-on-mac-or-pc-using-airplay-technology/"><u>How to Play Your Favorite Spotify Tracks on Mac or PC Using AirPlay Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-color-grading-explore-these-7-methods/"><u>In 2024, Masterful Color Grading Explore These 7 Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastermind-behind-chinas-communist-uprising-unveiling-history-with-yl-computing-solutions/"><u>Mastermind Behind China's Communist Uprising: Unveiling History with YL Computing Solutions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/november-11th-jewelry-auction-reveals-pearls-and-gold-bars-as-top-choices-exclusive-analysis-by-yl-computing-yl-software/"><u>November 11Th Jewelry Auction Reveals Pearls and Gold Bars as Top Choices: Exclusive Analysis by YL Computing | YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-s18-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo S18 Pro has been deleted</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/resolving-sound-card-errors-with-guidance-from-yl-softwares-yl-computing-team/"><u>Resolving Sound Card Errors with Guidance From YL Software's YL Computing Team</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-running-a-scan-using-windows-defender-tips-from-yl-computing/"><u>Step-by-Step Guide: Running a Scan Using Windows Defender - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-gamers-picks-unbeatable-alienware-and-dell-promotions/"><u>Top Gamers' Picks: Unbeatable Alienware & Dell Promotions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/track-your-cryptocurrency-evolution-how-the-balance-checker-from-yl-computing-reveals-historical-trends/"><u>Track Your Cryptocurrency Evolution: How the Balance Checker From YL Computing Reveals Historical Trends</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-guide-how-to-fix-a-non-starting-laptop-with-tips-by-yl-software-experts/"><u>Troubleshooting Guide: How to Fix a Non-Starting Laptop with Tips by YL Software Experts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlicensed-yet-lawful-music-repositories-games/"><u>Unlicensed, Yet Lawful Music Repositories (Games)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-content-with-free-audio-samples-for-2024/"><u>[New] Amplify Content with Free Audio Samples for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-comedic-edge-how-to-create-viral-video-memes-for-modern-audiences/"><u>[New] The Comedic Edge How to Create Viral Video Memes for Modern Audiences</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/xcopyrobocopy/"><u>複製最近時間文件的高效方式： XCopy、Robocopy及其他技術</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/ai-ocrabbyy/"><u>AI-OCRに特化:トッパン・フォームズとABBYYが提供する革新的な請求書処理ソリューションの組み合わせ - 最新ニュース解析</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/guida-rapida-al-recupero-dellinstallazione-di-windows-nella-tua-chiave-usb-che-non-si-avvia-piu/"><u>Guida Rapida Al Recupero Dell'installazione Di Windows Nella Tua Chiave USB Che Non Si Avvia Più</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-add-the-date-to-photo-for-2024/"><u>How to Add the Date to Photo for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/immediate-access-comprehensive-windows-10-troubleshooting-guide-free-downloadable-pdf/"><u>Immediate Access: Comprehensive Windows 10 Troubleshooting Guide - Free Downloadable PDF</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/page-unavailable-error-404-what-to-do-next/"><u>Page Unavailable Error 404 – What To Do Next?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-fixing-non-responsive-logitech-g935-mic-on-pcs/"><u>Restoring Functionality: Fixing Non-Responsive Logitech G935 Mic on PCs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/une-solution-fiable-pour-le-transfert-de-donnees-rapides-dun-pc-a-un-autre/"><u>Une Solution Fiable Pour Le Transfert De Données Rapides D'un PC À Un Autre</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-newest-version-of-pl23n-serial-converter-drivers-on-pcs-with-windows-os/"><u>Update to Newest Version of PL23n Serial Converter Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/wie-man-0-byte-festplatten-repariert-und-verlorene-informationen-wiederherstellt/"><u>Wie Man 0-Byte-Festplatten Repariert Und Verlorene Informationen Wiederherstellt</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reloop RMP-4 DJ Controller: Compatible with DEX3 - New Upgrade From PCDJ!"
-date: 2025-02-08T01:28:32.204Z
-updated: 2025-02-09T03:51:58.882Z
+date: 2025-02-13T20:22:02.923Z
+updated: 2025-02-18T22:05:57.914Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ The Reloop RMP-4 lets you browse your audio library from the internal CD player 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Advanced Performance
@@ -49,7 +49,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 [![Reloop RMP-4 DJ controller back](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662_Reloop_BA.png?fit=300%2C300&ssl=1 "Reloop RMP-4 Back")](https://i0.wp.com/pcdj.com/wp-content/uploads/2016/01/233662%5FReloop%5FBA.png?fit=900%2C900&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### The Reloops RMP-4 main features include:
@@ -84,7 +84,7 @@ Whilst the Reloop RMP-4 performs all the vanilla tasks required of a professiona
 * Fader-start play
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,21 +106,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/relooprmp4-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-extraordinary.techidaily.com/202410/"><u>必見・クリスマスアニメ特集:子供たちに最適な2024年新作ベスト10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/el-conversion-secrets-yt-vs-igtv/"><u>Channel Conversion Secrets YT Vs IGTV</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dive-into-endless-song-selection-for-joyous-singing-bright-melodies-await-at-karaoke-cloud-pro-powered-by-pcdj/"><u>Dive Into Endless Song Selection for Joyous Singing - Bright Melodies Await at Karaoke Cloud Pro Powered by PCDJ!</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effective-techniques-for-resolving-network-card-malfunctions-insights-from-yl-computing-and-yl-software/"><u>Effective Techniques for Resolving Network Card Malfunctions: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-are-regulations-shaping-the-safety-of-crypto-investments-insights-from-yl-computing-and-yl-software/"><u>How Are Regulations Shaping the Safety of Crypto-Investments: Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-upgrade-from-windows-7-to-windows-11/"><u>How to Upgrade From Windows 7 to Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/innovative-iphone-tactics-for-capturing-glass-surfaces/"><u>Innovative iPhone Tactics for Capturing Glass Surfaces</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-ai-forecasting-more-accurate-than-horoscope-claims/"><u>Is AI Forecasting More Accurate Than Horoscope Claims?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-long-range-router-options-for-enhanced-connectivity-2024-edition/"><u>Leading Long-Range Router Options for Enhanced Connectivity - 2024 Edition</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/party-tyme-the-ultimate-dj-and-karaoke-experience-since-pcdj-launch-on-12219/"><u>Party Tyme: The Ultimate DJ & Karaoke Experience Since PCDJ Launch on 12/2/19</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-tutorial-using-quicktime-for-screen-capture-and-live-streaming-on-macos-devices/"><u>Step-by-Step Tutorial: Using QuickTime for Screen Capture and Live Streaming on macOS Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforming-single-shots-into-a-spectacular-tile-symphony-for-2024/"><u>Transforming Single Shots Into a Spectacular Tile Symphony for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/unveiling-shifts-in-tradition-how-the-chinese-cultural-revolution-remolded-social-dynamics-analyzed-with-yl-software-expertise/"><u>Unveiling Shifts in Tradition: How the Chinese Cultural Revolution Remolded Social Dynamics - Analyzed with YL Software Expertise</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-pc-unexplained-breaks/"><u>Windows 11 PC: Unexplained Breaks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-iphone-tricks-turn-your-images-upside-down-sideways-for-2024/"><u>[New] IPhone Tricks Turn Your Images Upside-Down, Sideways for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-curate-engaging-content-with-top-igtv-editor-tools/"><u>[Updated] Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apples-affordable-marvel-ranking-of-cost-free-image-arrangement-apps-for-2024/"><u>Apple's Affordable Marvel Ranking of Cost-Free Image Arrangement Apps for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/bcdboot3/"><u>BCDBootで失敗するブートファイルコピーエラーの解決方法3つ</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/come-cancellare-ed-eseguire-il-ripristino-automatico-dei-cronologici-backup-di-windows-e-system-restore/"><u>Come Cancellare Ed Eseguire Il Ripristino Automatico Dei Cronologici Backup Di Windows E System Restore</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effortless-dvd-viewing-top-3-tips-for-enjoying-movies-on-a-windows-11-laptopdesktop/"><u>Effortless DVD Viewing: Top 3 Tips for Enjoying Movies on a Windows 11 Laptop/Desktop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-13c-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi 13C Lock Screen Password?</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/kostenlose-wiederherstellung-geloschter-dateien-ohne-software-schritt-fur-schritt-anleitung/"><u>Kostenlose Wiederherstellung Gelöschter Dateien Ohne Software: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/locate-your-windows-11-bitlocker-safety-net-a-step-by-step-guide-to-finding-the-recovery-key/"><u>Locate Your Windows 11 BitLocker Safety Net: A Step-by-Step Guide to Finding the Recovery Key</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c50-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C50 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/restore-default-configuration-for-windows-server-2019-two-techniques/"><u>Restore Default Configuration for Windows Server 2019 (Two Techniques)</u></a></li>
 </ul></div>
 
