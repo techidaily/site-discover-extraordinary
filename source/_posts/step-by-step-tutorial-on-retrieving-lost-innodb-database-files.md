@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Retrieving Lost InnoDB Database Files
-date: 2024-12-22T01:42:39.218Z
-updated: 2024-12-24T04:58:47.114Z
+date: 2025-03-04T23:20:49.055Z
+updated: 2025-03-07T21:07:22.006Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d64275a707a4eb2f0cc766f8.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -31,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -89,10 +81,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -101,25 +89,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -144,10 +120,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -198,19 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>[New] Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-engagement-learn-to-dim-youtube-video-backgrounds/"><u>[Updated] In 2024, Enhance Engagement Learn to Dim YouTube Video Backgrounds</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/effective-strategies-for-handling-installed-applications-via-windows-control-panel-a-guide-by-yl-computing/"><u>Effective Strategies for Handling Installed Applications via Windows Control Panel: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/folder-creation-on-windows-simplified-by-yl-software-expert-team/"><u>Folder Creation on Windows Simplified by YL Software Expert Team</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/identifying-driver-issues-leading-to-graphics-card-malfunction-insights-by-yl-computing/"><u>Identifying Driver Issues Leading to Graphics Card Malfunction - Insights by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-note-50-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme Note 50</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-presence-zooming-past-background-imperfections/"><u>In 2024, Perfecting Presence Zooming Past Background Imperfections</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/is-it-necessary-to-combine-additional-anti-virus-programs-with-windows-defender-expert-advice-from-yl-computings-security-specialists/"><u>Is It Necessary To Combine Additional Anti-Virus Programs With Windows Defender? - Expert Advice From YL Computing's Security Specialists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/professional-notetaking-with-simple-windows-hacks/"><u>Professional Notetaking with Simple Windows Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-digital-footprint-master-the-art-of-disabling-trackers-in-safari-for-macos-with-tips-from-zdnets-experts/"><u>Protect Your Digital Footprint: Master the Art of Disabling Trackers in Safari for macOS with Tips From ZDNET's Experts</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/reloop-rmp-4-dj-controller-compatible-with-dex3-new-upgrade-from-pcdj/"><u>Reloop RMP-4 DJ Controller: Compatible with DEX3 - New Upgrade From PCDJ!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-ace-2-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Ace 2 Location | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-graphics-card-issues-identifying-causes-and-solutions-yl-tech-support/"><u>Troubleshooting Graphics Card Issues: Identifying Causes and Solutions - YL Tech Support</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-finding-friends-films-and-snapshots-on-the-social-web-for-2024/"><u>[New] Finding Friends’ Films & Snapshots on the Social Web for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-snapchat-enhancing-images-and-videos/"><u>[New] Mastering Snapchat Enhancing Images & Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ring-induced-voice-memo-iphone-24-for-2024/"><u>[New] Ring-Induced Voice Memo - iPhone '24 for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransform-your-on-screen-identity-into-a-brand-on-youtube-for-2024/"><u>[New] Transform Your On-Screen Identity Into a Brand on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-professionals-playbook-to-profitable-youtube-ventures/"><u>[Updated] A Professional's Playbook to Profitable YouTube Ventures</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/boost-your-karaoke-nights-with-party-tymes-latest-addition-of-28-chart-topping-songs-to-your-playlist/"><u>Boost Your Karaoke Nights with Party Tyme's Latest Addition of 28 Chart-Topping Songs to Your Playlist</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/decoding-bitcoin-bourses-an-in-depth-look-with-yl-softwares-expertise/"><u>Decoding Bitcoin Bourses: An In-Depth Look with YL Software's Expertise</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exploring-the-features-of-cloud-enabled-security-inside-microsofts-windows-defender-yl-computing/"><u>Exploring the Features of Cloud-Enabled Security: Inside Microsoft's Windows Defender - YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-handle-a-computer-system-failure-tips-by-yl-computing/"><u>How to Handle a Computer System Failure - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/how-to-identify-and-understand-hardware-issues-on-windows-systems-with-yl-softwares-expertise/"><u>How to Identify and Understand Hardware Issues on Windows Systems with YL Software's Expertise</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kunt-u-wijken-gif-vorm-naar-mpeg-vrijetier-online-en-kostenloos/"><u>Kunt U Wijken Gif-Vorm Naar Mpeg - Vrijetier Online en Kostenloos!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/stunning-call-of-duty-themed-desktop-backgrounds-and-wallpapers-by-yl-computing/"><u>Stunning Call of Duty Themed Desktop Backgrounds & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-hard-drive-issues-solutions-by-yl-software-professionals/"><u>Troubleshooting Hard Drive Issues: Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
 </ul></div>
 

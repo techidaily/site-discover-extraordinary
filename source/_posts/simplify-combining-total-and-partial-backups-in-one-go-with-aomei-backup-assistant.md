@@ -1,7 +1,7 @@
 ---
 title: Simplify Combining Total & Partial Backups in One Go with AOMEI Backup Assistant
-date: 2025-01-24T01:06:11.116Z
-updated: 2025-01-26T16:12:27.192Z
+date: 2025-03-02T21:03:53.357Z
+updated: 2025-03-07T19:40:03.544Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37963b2732e636693601b56f7.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -101,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -112,10 +96,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -145,10 +125,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Autres articles connexes
 
 ##### [Meilleur logiciel pour sauvegarder NAS Buffalo sur disque dur externe](https://tools.techidaily.com/ubackup/products/)
@@ -168,10 +144,6 @@ Aidez-nous à améliorer cet article
 Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour nous !
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
 
@@ -198,19 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-facebooks-ultimate-guide-to-full-screen-video/"><u>[New] Facebook's Ultimate Guide to Full Screen Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-comprehensive-guide-to-successful-fb-cover-video-strategies/"><u>2024 Approved A Comprehensive Guide to Successful FB Cover Video Strategies</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-free-h265hevc-video-encoder-for-mp4-format-easy-installation-steps/"><u>Best FREE H.265/HEVC Video Encoder for MP4 Format - Easy Installation Steps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/can-a-64gb-drive-manage-large-video-files-in-2024/"><u>Can a 64GB Drive Manage Large Video Files, In 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-spark-10-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Spark 10 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-multi-photo-uploads-on-facebook-without-a-hitch/"><u>The Ultimate Guide to Multi-Photo Uploads on Facebook Without a Hitch</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-10-outils-de-montage-video-gratuits-et-premium-pour-ordinateurs/"><u>Top 10 Outils De Montage Vidéo Gratuits Et Premium Pour Ordinateurs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/top-methods-for-converting-your-dvd-videots-into-mp4-format/"><u>Top Methods for Converting Your DVD VIDEO_TS Into MP4 Format</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-selection-of-top-18-video-streaming-tools-for-cross-platform-support-on-mac-windows-11-and-mobile-oses/"><u>Ultimate Selection of Top 18 Video Streaming Tools for Cross-Platform Support on Mac, Windows 11, and Mobile OSes</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>Updated Record and Edit an Animoji or Memoji Karaoke Music Video</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725287646004-and/"><u>ビデオコンバート&圧縮時の一般的なエラーを解消する方法</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[New] 2024 Approved Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-your-guide-to-gaining-facebooks-elite-verification-badge/"><u>[Updated] Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/accelerate-your-pc-effective-techniques-to-boost-computer-performance-yl-computings-expert-guide/"><u>Accelerate Your PC: Effective Techniques to Boost Computer Performance - YL Computing's Expert Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/discover-the-best-free-setup-dex-3-le-controller-plus-idance-headphones-for-aspiring-clubbers/"><u>Discover the Best Free Setup: Dex 3 LE Controller + iDance Headphones for Aspiring Clubbers!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dive-into-she-hulks-world-of-justice-with-exclusive-4k-graphics-and-desktop-art-officially-licensed-from-yl-softwares-she-hulk-attorney-at-law-collection/"><u>Dive Into She-Hulk's World of Justice with Exclusive 4K Graphics and Desktop Art – Officially Licensed From YL Software’s ‘She-Hulk: Attorney At Law’ Collection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/download-dex-34-the-latest-beatmixing-software-from-pcdj/"><u>Download DEX 3.4: The Latest Beatmixing Software From PCDJ</u></a></li>
+<li><a href="https://win-net.techidaily.com/free-software-solution-complete-backup-and-restore-for-ghost-like-windows-7-hd/"><u>Free Software Solution: Complete Backup & Restore for Ghost-Like Windows 7 HD</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/integrating-windows-defender-with-third-party-security-solutions-is-it-possible-yl-software-insights/"><u>Integrating Windows Defender With Third-Party Security Solutions: Is It Possible? - YL Software Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-content-timing-on-the-web/"><u>Mastering Content Timing on the Web</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-playmates-childs-drone-selection-guide/"><u>Perfect Playmates Child's Drone Selection Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-solutions-for-windows-network-interface-device-errors-from-expert-source-yl-software/"><u>Step-by-Step Solutions for Windows Network Interface Device Errors From Expert Source, YL Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209850571--the-great-companion-to-meditations-aphorisms-for-moral-transformation/"><u>The Great Companion to Meditations & Aphorisms for Moral Transformation | Free Book</u></a></li>
 </ul></div>
 

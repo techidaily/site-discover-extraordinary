@@ -1,7 +1,7 @@
 ---
 title: 6 Sur Un Disque Dur Externe - Guide Détaillé
-date: 2025-01-25T16:47:16.876Z
-updated: 2025-01-26T18:27:46.186Z
+date: 2025-03-05T16:44:56.758Z
+updated: 2025-03-07T21:16:16.186Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fd60f16bf20dda981eb260766dc085349ba6360b3659bdf5766d705fbc85be65.jpg
@@ -43,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -89,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -100,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -128,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -198,24 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-giggle-genesis-conceptualizing-7-funny-youtube-sessions/"><u>[Updated] In 2024, Giggle Genesis Conceptualizing 7 Funny YouTube Sessions</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725287776445-2024/"><u>2024年バレンタインチョコの選び方: 色・量・タイプによる花言葉ガイド</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-x50-gt-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor X50 GT Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-12r-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus 12R</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alexa-showdown-comparing-the-echo-pop-and-echo-dot-deciding-your-ideal-smart-speaker-zdnet-insights/"><u>Alexa Showdown: Comparing the Echo Pop and Echo Dot - Deciding Your Ideal Smart Speaker [ZDNet Insights]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bust-the-glitch-effective-fixes-when-wwe-2k22-keeps-disappearing-on-windowsmacos/"><u>Bust the Glitch: Effective Fixes When WWE 2K22 Keeps Disappearing on Windows/MacOS</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/die-10-besten-gratis-ki-programme-fur-die-wiederherstellung-alter-fotografien/"><u>Die 10 Besten Gratis-KI-Programme Für Die Wiederherstellung Alter Fotografien</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/dvd-digitale-konvertierung-fur-windows-and-macos-die-besten-ansatze-2023-erklart/"><u>DVD Digitale Konvertierung Für Windows & macOS – Die Besten Ansätze 2023 Erklärt</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guida-facilissima-per-la-conversione-di-file-mp4-in-mp3-su-windows-10-con-un-utilita-libera-e-gratuita/"><u>Guida Facilissima per La Conversione Di File MP4 in MP3 Su Windows 10 Con Un Utilità Libera E Gratuita</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-xcover-7-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy XCover 7?</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/how-to-transform-your-mts-files-into-mp4-format-at-no-cost-windows-plus-mac/"><u>How to Transform Your MTS Files Into MP4 Format at No Cost (Windows + Mac)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-foremost-biodegradable-equipment-for-video-filming/"><u>In 2024, Foremost Biodegradable Equipment for Video Filming</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/le-meilleur-logiciel-de-montage-video-gratuit-pour-couper-les-clips-indesirables-sur-pc-et-mac-windowsmac-version/"><u>Le Meilleur Logiciel De Montage Vidéo Gratuit Pour Couper Les Clips Indésirables Sur PC Et Mac - Windows/Mac Version</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/mastering-the-art-of-recording-sessions-in-microsoft-teams/"><u>Mastering the Art of Recording Sessions in Microsoft Teams</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/tutoriel-convertir-et-sauvegarder-facilement-vos-films-en-dvd-avec-la-solution-winx-dvd-copy-pro/"><u>Tutoriel : Convertir Et Sauvegarder Facilement Vos Films en DVD Avec La Solution WinX DVD Copy Pro</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-speeding-up-web-video-loads-with-effective-compression-techniques/"><u>Ultimate Guide: Speeding Up Web Video Loads with Effective Compression Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-unbundled-outstanding-non-native-software/"><u>Win 11 Unbundled: Outstanding Non-Native Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-hd-video-converter-macos/"><u>WinX HD Video Converter macOS最常聽到的疑難解答：線上客戶服務</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-firefox-picture-in-picture-explained-for-efficiency/"><u>[New] Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-your-course-building-plays-on-youtube/"><u>[Updated] 2024 Approved Charting Your Course Building Plays on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-enhancing-call-clarity-silencing-distractions/"><u>[Updated] 2024 Approved Enhancing Call Clarity Silencing Distractions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-static-to-dynamic-hyperlapse-video-techniques-for-2024/"><u>[Updated] From Static to Dynamic Hyperlapse Video Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>2024 Approved Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-microsofts-glimpse-into-augmented-reality-the-hololens-journey/"><u>2024 Approved Microsoft’s Glimpse Into Augmented Reality – The HoloLens Journey</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/csv-printing-guide-expert-advice-from-yl-software-team/"><u>CSV Printing Guide: Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285188316-digiarty/"><u>Digiarty專業影片格式轉換組合解決方案清單</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/enhancing-pc-efficiency-expert-tips-on-system-optimization-from-yl-software/"><u>Enhancing PC Efficiency: Expert Tips on System Optimization From YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ensuring-safekeeping-of-system-preferences-using-yl-computings-tools/"><u>Ensuring Safekeeping of System Preferences Using YL Computing's Tools</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/exclusive-bargain-upgrade-to-dex-3-plus-karaoke-for-a-splash-at-only-49-more/"><u>Exclusive Bargain – Upgrade to DEX 3 Plus Karaoke for a Splash at Only $49 More!</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-windows-control-panel-a-comprehensive-guide-to-customize-desktop-settings-expert-advice-from-yl-software-solutions/"><u>Mastering Window's Control Panel: A Comprehensive Guide to Customize Desktop Settings - Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/maximizing-computer-performance-expert-strategies-from-yl-software-pros/"><u>Maximizing Computer Performance: Expert Strategies From YL Software Pros</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/reset-your-windows-pcs-network-adapter-a-step-by-step-guide-techtips-by-yl/"><u>Reset Your Windows PC's Network Adapter: A Step-by-Step Guide - TechTips by YL</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/resolving-pc-startup-issues-why-is-your-windows-machine-freezing-at-boot-expert-advice-from-yl-computing/"><u>Resolving PC Startup Issues: Why Is Your Windows Machine Freezing at Boot - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-a70-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel A70 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-popular.techidaily.com/wiederherstellung-von-systemen-mit-alternativer-hardware-und-secure-boot-einfuhrung-in-die-praxis/"><u>Wiederherstellung Von Systemen Mit Alternativer Hardware Und Secure Boot - Einführung in Die Praxis</u></a></li>
 </ul></div>
 

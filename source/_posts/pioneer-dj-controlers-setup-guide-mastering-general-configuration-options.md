@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ Controlers Setup Guide: Mastering General Configuration Options"
-date: 2025-02-12T07:59:52.065Z
-updated: 2025-02-18T18:48:27.153Z
+date: 2025-03-04T22:05:57.156Z
+updated: 2025-03-08T00:00:06.272Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ However, there are 2 general deck selections under the General Tab in options yo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DJ Software Tips: DEX 3 General Settings For DJ Controllers
 
 * **Un-check “RESET DECK ON LOAD”:** By disabling this, the EQ, Volume and other deck controls will stay in the position of the subsequent knobs/sliders on your DJ controller. If you do not un-check this option, every time you load a track the EQ and Volume Sliders will return to neutral in DEX 3 or RED Mobile 3 – and you’d have to move the EQ knobs and faders on the DJ controller to “link back up” to the software. Not something you’d want to do.
@@ -40,14 +36,6 @@ However, there are 2 general deck selections under the General Tab in options yo
 **HERE’S HOW YOUR DEX 3 OR RED MOBILE 3 GENERAL SETTINGS SHOULD LOOK WHEN USING WITH DJ CONTROLLERS**
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1 "settings-for-dj-controllers")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/03/settings-for-dj-controllers.jpg?fit=671%2C473&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -68,18 +56,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/generaldjcontrollersetting
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-amplify-content-with-free-audio-samples-for-2024/"><u>[New] Amplify Content with Free Audio Samples for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-comedic-edge-how-to-create-viral-video-memes-for-modern-audiences/"><u>[New] The Comedic Edge How to Create Viral Video Memes for Modern Audiences</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/xcopyrobocopy/"><u>複製最近時間文件的高效方式： XCopy、Robocopy及其他技術</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/ai-ocrabbyy/"><u>AI-OCRに特化:トッパン・フォームズとABBYYが提供する革新的な請求書処理ソリューションの組み合わせ - 最新ニュース解析</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guida-rapida-al-recupero-dellinstallazione-di-windows-nella-tua-chiave-usb-che-non-si-avvia-piu/"><u>Guida Rapida Al Recupero Dell'installazione Di Windows Nella Tua Chiave USB Che Non Si Avvia Più</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/how-to-add-the-date-to-photo-for-2024/"><u>How to Add the Date to Photo for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/immediate-access-comprehensive-windows-10-troubleshooting-guide-free-downloadable-pdf/"><u>Immediate Access: Comprehensive Windows 10 Troubleshooting Guide - Free Downloadable PDF</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/page-unavailable-error-404-what-to-do-next/"><u>Page Unavailable Error 404 – What To Do Next?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-functionality-fixing-non-responsive-logitech-g935-mic-on-pcs/"><u>Restoring Functionality: Fixing Non-Responsive Logitech G935 Mic on PCs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/une-solution-fiable-pour-le-transfert-de-donnees-rapides-dun-pc-a-un-autre/"><u>Une Solution Fiable Pour Le Transfert De Données Rapides D'un PC À Un Autre</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-newest-version-of-pl23n-serial-converter-drivers-on-pcs-with-windows-os/"><u>Update to Newest Version of PL23n Serial Converter Drivers on PCs with Windows OS</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/wie-man-0-byte-festplatten-repariert-und-verlorene-informationen-wiederherstellt/"><u>Wie Man 0-Byte-Festplatten Repariert Und Verlorene Informationen Wiederherstellt</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-first-timer-props-for-gopros/"><u>[New] 2024 Approved Essential First-Timer Props for GoPros</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-curated-list-of-top-10-youtube-video-cutting-apps-for-2024/"><u>[Updated] Curated List of Top 10 YouTube Video Cutting Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>[Updated] From Catalina to Big Sur A Comprehensive Mac OS Shift Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-stories-in-a-flash-free-extensions-and-mobile-magic/"><u>[Updated] Transform Stories in a Flash – Free Extensions & Mobile Magic</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/beats-for-solitude-empowering-individual-growth-with-professional-mixing-during-lockdown-pcdj-insights/"><u>Beats for Solitude: Empowering Individual Growth with Professional Mixing During Lockdown | PCDJ Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-photo-editing-on-mac-with-mac-photo-editor-by-movavi/"><u>Easy Photo Editing on Mac with Mac Photo Editor by Movavi</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/easy-steps-to-manage-your-applications-addingremoving-programs-on-windows-tips-from-yl-computing/"><u>Easy Steps to Manage Your Applications: Adding/Removing Programs on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/ford-kuga-digital-artwork-and-backgrounds-by-yl-computings-innovative-design-team/"><u>Ford Kuga Digital Artwork and Backgrounds by YL Computing's Innovative Design Team</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/identifying-common-reasons-why-your-pcs-cd-rom-drive-fails-to-read-disc-data-solutions-by-yl-tech-experts/"><u>Identifying Common Reasons Why Your PC's CD-ROM Drive Fails to Read Disc Data - Solutions by YL Tech Experts</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/is-it-possible-to-enhance-your-laptop-performance-by-changing-the-processor-insights-by-yl-software/"><u>Is It Possible To Enhance Your Laptop Performance by Changing The Processor? Insights By YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/navigating-the-roadmap-of-pcdjs-aspirations-and-plans-for-2019/"><u>Navigating the Roadmap of PCDJ’s Aspirations and Plans for 2019</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/professional-hd-graphics-authentic-imagery-of-the-audi-r18-le-mans-race-car-perfect-as-screen-savers-or-profile-pictures/"><u>Professional HD Graphics: Authentic Imagery of the Audi R18 Le Mans Race Car, Perfect as Screen Savers or Profile Pictures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regaining-lost-volume-controls-post-windows-update/"><u>Regaining Lost Volume Controls Post Windows Update</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/securing-your-programs-a-step-by-step-guide-to-password-protecting-your-exe-files-insights-from-yl-computing/"><u>Securing Your Programs: A Step-by-Step Guide to Password Protecting Your EXE Files - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/the-effectiveness-of-self-healing-mechanisms-is-influenced-by-factors-such-as-crack-size-agent-concentration-and-environmental-conditions/"><u>The Effectiveness of Self-Healing Mechanisms Is Influenced by Factors Such as Crack Size, Agent Concentration, and Environmental Conditions.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-20-free-video-creators-for-enhancing-your-microsoft-windows-experience/"><u>Top 20 Free Video Creators for Enhancing Your Microsoft Windows Experience</u></a></li>
 </ul></div>
 

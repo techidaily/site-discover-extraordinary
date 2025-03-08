@@ -1,7 +1,7 @@
 ---
 title: ¿Cuánto Tiempo Pueden Conservarse Los Correos Eliminados Por Yahoo Antes De Desaparecer?
-date: 2025-01-23T02:31:08.279Z
-updated: 2025-01-27T12:49:12.518Z
+date: 2025-03-04T23:39:58.168Z
+updated: 2025-03-07T18:54:44.389Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926ab23c2607a0458a0d217d945.jpeg
@@ -28,10 +28,6 @@ By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Table of Contents** 
 
 1. [Is it possible to recover data from ransomware?](https://tools.techidaily.com/ubackup/products/)
@@ -51,10 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -92,14 +84,6 @@ You can expand the Deleted files folder and Other missing files folder to select
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
 If you have a backup available, restoring files is as simple as ABC. You can easily recover encrypted files by finding the corresponding backup file and restoring the data you need. But this option is possible only when you regularly back up your data.
@@ -110,10 +94,6 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -122,14 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -137,10 +109,6 @@ If you have used File History to save a copy of your precious data, you can foll
 Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File History**.
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
@@ -163,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -235,10 +199,6 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -256,18 +216,22 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>[New] 2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-the-best-10-mac-screenshot-and-recording-apps/"><u>[New] 2024 Approved Discover the Best 10 Mac Screenshot and Recording Apps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-kickstart-your-twitch-streaming-journey/"><u>[Updated] In 2024, Kickstart Your Twitch Streaming Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-look-ups-for-gopro-movies-select-15-luts/"><u>2024 Approved Best Look-Ups for GoPro Movies Select 15 LUTs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/5-windows-windows-111087-2023/"><u>前5大 Windows 操作系统 (Windows 11/10/8/7) 备份软件 - 2023年推荐</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-nubia-red-magic-8s-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/discover-the-top-4-alternatives-to-airdrop-for-effortless-cross-platform-file-transfers-on-pc/"><u>Discover the Top 4 Alternatives to AirDrop for Effortless Cross-Platform File Transfers on PC</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/facile-restauration-de-windows/"><u>Facile Restauration De Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-27-hilarious-tiktok-skits-for-smiles/"><u>In 2024, 27 Hilarious TikTok Skits for Smiles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-frosty-frontiers-winter-games-apex-moments/"><u>In 2024, Frosty Frontiers Winter Games Apex Moments</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-evaluations-of-tech-ware-unbiased-insight-from-toms-engineering-experience/"><u>In-Depth Evaluations of Tech Ware: Unbiased Insight From Tom's Engineering Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-assistants-join-the-8-specialized-ai-movement/"><u>Next-Gen Assistants: Join the 8 Specialized AI Movement</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-how-to-successfully-duplicate-a-windows-server-2008-r2-hdd/"><u>Ultimate Guide: How to Successfully Duplicate a Windows Server 2008 R2 HDD</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-photography-on-instagram-adding-images-made-simple-for-2024/"><u>[New] Photography on Instagram Adding Images Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-the-perfect-facebook-video-post-pcandroid-techniques/"><u>[Updated] In 2024, Crafting the Perfect Facebook Video Post, PC/Android Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/2024s-top-windows-gear-a-comprehensive-review-list/"><u>2024'S Top Windows Gear - A Comprehensive Review List</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-blandness-optimize-your-thumbnail-with-20-fonts-for-2024/"><u>Avoid Blandness - Optimize Your Thumbnail with 20 Fonts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-boundaries-revisited-assessing-current-realm-future-challenges-for-2024/"><u>Beyond Boundaries Revisited Assessing Current Realm, Future Challenges for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dj-video-codecs-unveiling-the-best-format-options/"><u>DJ Video Codecs: Unveiling the Best Format Options</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/efficiently-managing-startup-programs-a-guide-by-yl-computing-and-software/"><u>Efficiently Managing Startup Programs: A Guide by YL Computing & Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/follow-your-kiln-manufacturers-instructions-for-temperature-and-timing-typically-around-cone-03-1824f-or-995c-to-cone-6-2232f-or-1222c-depending-on-the-type425/"><u>Follow Your Kiln Manufacturer's Instructions for Temperature and Timing, Typically Around Cone 03 (1824°F or 995°C) to Cone 6 (2232°F or 1222°C), Depending on the Type of Underglaze Used</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-screenstream-worldwide-live-including-exclusive-locals/"><u>In 2024, ScreenStream Worldwide Live, Including Exclusive Locals</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleashing-full-potential-phone-and-gear-vr-harmony/"><u>In 2024, Unleashing Full Potential Phone and Gear VR Harmony</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/mastering-the-basics-of-synchronization-with-dex-3-your-ultimate-guide-and-video-lessons/"><u>Mastering the Basics of Synchronization with DEX 3: Your Ultimate Guide & Video Lessons</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/overcoming-windows-hardware-setup-issues-expert-advice-and-solutions-from-yl-software/"><u>Overcoming Windows Hardware Setup Issues: Expert Advice & Solutions From YL Software</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/simplify-your-web-to-excel-conversion-save-any-webpage-info-quickly-with-the-power-of-yl-web-scraper-yl-software-innovation/"><u>Simplify Your Web-to-Excel Conversion: Save Any Webpage Info Quickly with the Power of YL Web Scraper - YL Software Innovation</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-turning-your-printer-onoff-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Turning Your Printer On/Off with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/trouble-with-printer-connections-in-certain-software-heres-what-yl-software-recommends/"><u>Trouble With Printer Connections in Certain Software? Here’s What YL Software Recommends!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-racing-game-anthology-the-top-five/"><u>Ultimate Racing Game Anthology The Top Five</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-software-risen-3-titan-lords-dynamic-desktop-background-and-live-wallpapers/"><u>YL Software Risen 3: Titan Lords - Dynamic Desktop Background & Live Wallpapers</u></a></li>
 </ul></div>
 
